@@ -1,0 +1,108 @@
+Task 1:
+1.1
+manhattan
+Iteration 0:    array([[4., 6.],       [5., 4.]])
+Iteration 1:    array([[4.        , 6.33333333],       [5.57142857, 3.57142857]])
+X1: 0
+X2: 1
+X3: 0
+X4: 1
+X5: 1
+X6: 1
+X7: 1
+X8: 1
+X9: 1
+X10: 0
+
+1.2
+euclidean
+Iteration 0:    array([[4., 6.],       [5., 4.]])
+Iteration 1:    array([[2.5  , 6.5  ],       [5.75 , 3.875]])
+Iteration 2:    array([[2.5       , 5.        ],       [6.83333333, 4.        ]])
+X1: 0
+X2: 0
+X3: 0
+X4: 0
+X5: 1
+X6: 1
+X7: 1
+X8: 1
+X9: 1
+X10: 1
+
+1.3
+manhattan
+Iteration 0:    array([[3., 3.],       [8., 3.]])
+Iteration 1:    array([[2.5       , 5.        ],       [6.83333333, 4.        ]])
+X1: 0
+X2: 0
+X3: 0
+X4: 0
+X5: 1
+X6: 1
+X7: 1
+X8: 1
+X9: 1
+X10: 1
+
+1.4
+manhattan
+Iteration 0:    array([[3., 2.],       [4., 8.]])
+Iteration 1:    array([[4.85714286, 3.57142857],       [5.66666667, 6.33333333]])
+X1: 0
+X2: 0
+X3: 1
+X4: 0
+X5: 0
+X6: 0
+X7: 0
+X8: 0
+X9: 1
+X10: 1
+
+
+Task 2
+2.1 and 2.2
+euclidean
+SSE=447088250900.86993
+Predictive accuracy=0.588058805880588
+cosine
+SSE=22893.019230071186
+Predictive accuracy=0.5436543654365437
+jaccard
+SSE=55514.13194050691
+Predictive accuracy=0.606960696069607
+2.3
+Iterations      SSE     Time
+euclidean       ['unchanged', 'sse']
+2       421088542738.75104      6637040600 nanoseconds
+cosine  ['unchanged', 'sse']
+2       21941.032337482215      15967644600 nanoseconds
+jaccard ['unchanged', 'sse']
+4       55167.04416506278       23074137000 nanoseconds
+2.4
+Iterations      SSE     Time
+euclidean       ['unchanged']
+71      435058739196.2448       58560342900 nanoseconds
+cosine  ['unchanged']
+64      23025.170443824292      122058207200 nanoseconds
+jaccard ['unchanged']
+40      55462.99620469386       62744900600 nanoseconds
+euclidean       ['sse']
+2       423878806387.17426      7048413500 nanoseconds
+cosine  ['sse']
+3       21925.12168581274       24077575200 nanoseconds
+jaccard ['sse']
+4       55020.23867096883       22993063200 nanoseconds
+euclidean       []
+100     434814480603.86847      77120459700 nanoseconds
+cosine  []
+100     22955.303557714065      176825426600 nanoseconds
+jaccard []
+100     55484.00376594629       137188691500 nanoseconds
+
+Task 3
+A: Farthest=2.1095
+B: Closest=0.922
+C: Average=1.4129
+C is the most robust to noise, as the others can be radically changed by outliers.
