@@ -203,8 +203,9 @@ def kMeans(distance_func, X, Y=[], K=0, centroids=np.array([]), stoppers=["uncha
     if task_id == "task1full":
         # Print the classifications of each data point.
         for point_idx, point in enumerate(X):
-            ret += "X" + str(point_idx + 1) + ": " + \
-                str(computed_Y[point_idx]) + "\n"
+            ret += "X" + str(point_idx + 1) + ":\t" \
+               + "centroid #" + str(computed_Y[point_idx]) \
+               + ", " + str(centroids[computed_Y[point_idx]]) + "\n"
     if task_id == "task2":
         ret += "SSE=" + str(SSE(distance_func, X, centroids)) + "\n"
         ret += "Predictive accuracy=" + str(accuracy(Y, computed_Y))
