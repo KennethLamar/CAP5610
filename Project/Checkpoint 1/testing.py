@@ -16,6 +16,15 @@ from pathlib import Path
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import LabelEncoder
+from sklearn.neural_network import MLPRegressor
+from sklearn import linear_model
+from sklearn import svm
+from sklearn.linear_model import SGDRegressor
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.cross_decomposition import PLSRegression
+from sklearn import tree
 import matplotlib.pyplot as plt
 
 pd.options.mode.chained_assignment = None
@@ -766,11 +775,21 @@ def wideAdjustParams():
 # Cancel at any time via keystroke.
 
 
+def regression(regressor, modelName, X, y):
+    print(modelName)
+    # Train Regressor.
+    regressor = regressor.fit(X, y)
+    # Run and report cross-validation accuracy.
+    scores = cross_val_score(regressor, X, y, cv=5)
+    print("Accuracy: " + str(scores.mean()))
+    return
+
+
 def readDF():
     # For each app.
     for app in enabledApps:
         # Print the app name, so we keep track of which one is being worked on.
-        print(app)
+        print("\n" + app)
         # Open the existing CSV.
         df[app] = pd.read_csv("./tests/" + app + "/dataset.csv", index_col=0)
         # Transpose the data.
@@ -820,15 +839,21 @@ def readDF():
         X = X.drop(columns="timeTaken")
         X = X.drop(columns="testNum")
 
-        # Train RandomForestRegressor.
-        forestRegressor = RandomForestRegressor()
-        forestRegressor = forestRegressor.fit(X, y)
-
-        # Run and report cross-validation accuracy.
-        forestScores = cross_val_score(forestRegressor, X, y, cv=5)
-        print("Accuracy: " + str(forestScores.mean()))
-
         print(X.shape)
+
+        # Run our regressors.
+        regression(RandomForestRegressor(), "Random Forest Regressor", X, y)
+        regression(linear_model.BayesianRidge(), "Bayesian Ridge", X, y)
+        regression(svm.SVR(), "Support Vector Regression", X, y)
+        regression(make_pipeline(StandardScaler(), SGDRegressor(
+            max_iter=1000, tol=1e-3)), "Linear Stochastic Gradient Descent Regressor", X, y)
+        regression(KNeighborsRegressor(n_neighbors=2),
+                   "K Nearest Neighbors Regressor", X, y)
+        regression(PLSRegression(n_components=2), "PLS Regression", X, y)
+        regression(tree.DecisionTreeRegressor(),
+                   "Decision Tree Regressor", X, y)
+        regression(MLPRegressor(random_state=1, max_iter=500),
+                   "MLP Regressor", X, y)
 
         # Plot the results
         # y_1 = forestRegressor.predict(X)
