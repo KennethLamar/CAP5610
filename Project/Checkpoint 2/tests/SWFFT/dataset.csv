@@ -1,0 +1,3034 @@
+,error,n_repetitions,ngx,ngy,ngz,nodes,tasks,testNum,timeTaken
+4,"srun: error: nid00025: tasks 0,2-5: Aborted
+slurmstepd: error: *** STEP 45409.0 ON nid00025 CANCELLED AT 2021-11-17T00:41:49 ***
+srun: error: nid00025: task 1: Aborted (core dumped)
+",57,441,533,651,1,6,4,25
+3,"srun: error: nid00060: tasks 0,2-10: Aborted
+slurmstepd: error: *** STEP 45408.0 ON nid00060 CANCELLED AT 2021-11-17T00:41:49 ***
+srun: error: nid00061: tasks 11-21: Aborted
+srun: error: nid00060: task 1: Aborted (core dumped)
+",23,1717,1688,1563,2,11,3,42
+,"srun: error: nid00020: tasks 0-5,7-11: Aborted
+slurmstepd: error: *** STEP 45402.0 ON nid00020 CANCELLED AT 2021-11-17T00:41:49 ***
+srun: error: nid00020: task 6: Aborted (core dumped)
+",11,1995,809,1110,1,12,,44
+5,"srun: error: nid00028: tasks 0-5,7-11: Aborted
+slurmstepd: error: *** STEP 45413.0 ON nid00028 CANCELLED AT 2021-11-17T00:41:50 ***
+srun: error: nid00030: tasks 24-35: Aborted
+srun: error: nid00029: tasks 12-23: Aborted
+srun: error: nid00028: task 6: Aborted (core dumped)
+",42,522,1433,634,3,12,5,44
+11,"srun: error: nid00028: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 45424.0 ON nid00028 CANCELLED AT 2021-11-17T00:42:35 ***
+srun: error: nid00029: tasks 4-7: Aborted
+srun: error: nid00030: tasks 8-11: Aborted
+srun: error: nid00028: task 2: Aborted (core dumped)
+",23,1464,501,1550,3,4,11,22
+2,"srun: error: nid00058: tasks 20-35,37-39: Aborted
+srun: error: nid00059: tasks 40-59: Aborted
+srun: error: nid00057: tasks 0-19: Aborted
+srun: error: nid00058: task 36: Aborted (core dumped)
+",12,714,1558,670,3,20,2,87
+1,"srun: error: nid00021: tasks 0-1,3-24: Aborted
+slurmstepd: error: *** STEP 45403.0 ON nid00021 CANCELLED AT 2021-11-17T00:41:49 ***
+srun: error: nid00021: task 2: Aborted (core dumped)
+",60,1403,1819,736,1,25,1,100
+6,"srun: error: nid00023: tasks 0-20,22: Aborted
+slurmstepd: error: *** STEP 45414.0 ON nid00023 CANCELLED AT 2021-11-17T00:41:57 ***
+srun: error: nid00026: tasks 46-68: Aborted
+srun: error: nid00024: tasks 23-45: Aborted
+srun: error: nid00023: task 21: Aborted (core dumped)
+",35,1361,482,648,3,23,6,93
+7,"srun: error: nid00025: tasks 0-1,3-15: Aborted
+slurmstepd: error: *** STEP 45415.0 ON nid00025 CANCELLED AT 2021-11-17T00:42:26 ***
+srun: error: nid00031: tasks 16-31: Aborted
+srun: error: nid00053: tasks 32-47: Aborted
+srun: error: nid00025: task 2: Aborted (core dumped)
+",56,593,1937,1829,3,16,7,67
+14,"srun: error: nid00028: tasks 0-11: Aborted
+slurmstepd: error: *** STEP 45430.0 ON nid00028 CANCELLED AT 2021-11-17T00:42:57 ***
+srun: error: nid00030: tasks 26-38: Aborted
+srun: error: nid00029: tasks 13-25: Aborted
+srun: error: nid00028: task 12: Aborted (core dumped)
+",60,840,1061,1672,3,13,14,49
+16,"srun: error: nid00061: tasks 28-33,35-41: Aborted
+slurmstepd: error: *** STEP 45436.0 ON nid00020 CANCELLED AT 2021-11-17T00:51:04 ***
+srun: error: nid00060: tasks 14-27: Aborted
+srun: error: nid00020: tasks 0-13: Aborted
+srun: error: nid00061: task 34: Aborted (core dumped)
+",15,508,1257,850,3,14,16,48
+18,"srun: error: nid00020: tasks 0,2: Aborted
+slurmstepd: error: *** STEP 45439.0 ON nid00020 CANCELLED AT 2021-11-17T00:51:52 ***
+srun: error: nid00061: tasks 9-11: Aborted
+srun: error: nid00060: tasks 6-8: Aborted
+srun: error: nid00025: tasks 3-5: Aborted
+srun: error: nid00020: task 1: Aborted (core dumped)
+",6,927,1645,563,4,3,18,13
+10,"srun: error: nid00060: tasks 0-4,6-12: Aborted
+slurmstepd: error: *** STEP 45423.0 ON nid00060 CANCELLED AT 2021-11-17T01:00:27 ***
+srun: error: nid00061: tasks 13-25: Aborted
+srun: error: nid00060: task 5: Aborted (core dumped)
+",52,1658,1615,1514,2,13,10,50
+12,"srun: error: nid00060: tasks 0-4,6: Aborted
+slurmstepd: error: *** STEP 45428.0 ON nid00060 CANCELLED AT 2021-11-17T01:01:27 ***
+srun: error: nid00061: tasks 7-13: Aborted
+srun: error: nid00060: task 5: Aborted (core dumped)
+",46,1083,1729,862,2,7,12,28
+17,"srun: error: nid00060: tasks 0-20,22-23: Aborted
+slurmstepd: error: *** STEP 45438.0 ON nid00060 CANCELLED AT 2021-11-17T01:01:58 ***
+srun: error: nid00061: tasks 24-47: Aborted
+srun: error: nid00060: task 21: Aborted (core dumped)
+",2,1872,2045,415,2,24,17,88
+15,"srun: error: nid00021: task 1: Segmentation fault
+slurmstepd: error: *** STEP 45432.0 ON nid00021 CANCELLED AT 2021-11-17T00:43:37 ***
+srun: error: nid00024: tasks 4-5: Segmentation fault
+srun: error: nid00026: tasks 6-7: Segmentation fault
+srun: error: nid00023: tasks 2-3: Segmentation fault
+srun: error: nid00021: task 0: Segmentation fault (core dumped)
+",52,860,729,734,4,2,15,1595
+8,"srun: error: nid00021: tasks 0-11: Aborted
+slurmstepd: error: *** STEP 45417.0 ON nid00021 CANCELLED AT 2021-11-17T01:15:36 ***
+srun: error: nid00021: task 12: Aborted (core dumped)
+",15,941,2011,1058,1,13,8,44
+9,"srun: error: nid00024: tasks 0-17,19-27: Aborted
+slurmstepd: error: *** STEP 45422.0 ON nid00024 CANCELLED AT 2021-11-17T01:15:36 ***
+srun: error: nid00024: task 18: Aborted (core dumped)
+",5,1868,1846,1934,1,28,9,102
+20,"srun: error: nid00030: tasks 0-3,5-18: Aborted
+slurmstepd: error: *** STEP 45456.0 ON nid00030 CANCELLED AT 2021-11-17T01:50:48 ***
+srun: error: nid00031: tasks 19-37: Aborted
+srun: error: nid00030: task 4: Aborted (core dumped)
+",7,2006,938,1791,2,19,20,81
+19,"srun: error: nid00030: tasks 0-10,12-22: Aborted
+slurmstepd: error: *** STEP 45448.0 ON nid00030 CANCELLED AT 2021-11-17T01:56:28 ***
+srun: error: nid00030: task 11: Aborted (core dumped)
+",58,290,1493,633,1,23,19,92
+22,"srun: error: nid00058: task 4: Aborted
+srun: error: nid00057: tasks 2-3: Aborted
+srun: error: nid00030: tasks 0-1: Aborted
+srun: error: nid00059: tasks 6-7: Aborted
+srun: error: nid00058: task 5: Aborted (core dumped)
+",17,1583,872,1176,4,2,22,12
+24,"srun: error: nid00054: tasks 0-21,23-30: Aborted
+slurmstepd: error: *** STEP 45471.0 ON nid00054 CANCELLED AT 2021-11-17T02:24:01 ***
+srun: error: nid00056: tasks 62-92: Aborted
+srun: error: nid00055: tasks 31-61: Aborted
+srun: error: nid00054: task 22: Aborted (core dumped)
+",62,1739,1937,1238,3,31,24,123
+27,"srun: error: nid00060: tasks 14,16-27: Aborted
+slurmstepd: error: *** STEP 45476.0 ON nid00026 CANCELLED AT 2021-11-17T02:52:23 ***
+srun: error: nid00061: tasks 28-41: Aborted
+srun: error: nid00026: tasks 0-13: Aborted
+srun: error: nid00060: task 15: Aborted (core dumped)
+",26,1700,1906,1832,3,14,27,45
+25,"srun: error: nid00060: tasks 0-11,13-16: Aborted
+slurmstepd: error: *** STEP 45472.0 ON nid00060 CANCELLED AT 2021-11-17T02:53:08 ***
+srun: error: nid00061: tasks 17-33: Aborted
+srun: error: nid00060: task 12: Aborted (core dumped)
+",45,932,1513,1638,2,17,25,53
+28,"srun: error: nid00026: task 0: Aborted
+srun: error: nid00030: task 1: Aborted
+srun: error: nid00060: task 2: Aborted
+srun: error: nid00061: task 3: Aborted (core dumped)
+",23,845,311,1422,4,1,28,11
+31,"srun: error: nid00021: tasks 19-25,27-37: Aborted
+srun: error: nid00020: tasks 0-18: Aborted
+srun: error: nid00023: tasks 38-56: Aborted
+srun: error: nid00021: task 26: Aborted (core dumped)
+",19,1950,445,1500,3,19,31,56
+32,"srun: error: nid00024: tasks 0-23,25-28: Aborted
+slurmstepd: error: *** STEP 45491.0 ON nid00024 CANCELLED AT 2021-11-17T04:36:52 ***
+srun: error: nid00029: tasks 58-86: Aborted
+srun: error: nid00028: tasks 29-57: Aborted
+srun: error: nid00024: task 24: Aborted (core dumped)
+",28,324,1189,1624,3,29,32,89
+21,"srun: error: nid00055: tasks 0-4,6-11: Aborted
+slurmstepd: error: *** STEP 45467.0 ON nid00055 CANCELLED AT 2021-11-17T04:40:58 ***
+srun: error: nid00055: task 5: Aborted (core dumped)
+",56,766,295,1955,1,12,21,36
+23,"srun: error: nid00056: tasks 0-16: Aborted
+slurmstepd: error: *** STEP 45469.0 ON nid00056 CANCELLED AT 2021-11-17T04:40:58 ***
+srun: error: nid00056: task 17: Aborted (core dumped)
+",49,859,1162,567,1,18,23,54
+34,"srun: error: nid00054: tasks 17-29,31-33: Aborted
+slurmstepd: error: *** STEP 45497.0 ON nid00022 CANCELLED AT 2021-11-17T04:52:18 ***
+srun: error: nid00056: tasks 51-67: Aborted
+srun: error: nid00055: tasks 34-50: Aborted
+srun: error: nid00022: tasks 0-16: Aborted
+srun: error: nid00054: task 30: Aborted (core dumped)
+",3,556,852,1672,4,17,34,50
+35,"srun: error: nid00054: tasks 30-36,38-59: Aborted
+srun: error: nid00022: tasks 0-29: Aborted
+srun: error: nid00055: tasks 60-89: Aborted
+srun: error: nid00056: tasks 90-119: Aborted
+srun: error: nid00054: task 37: Aborted (core dumped)
+",1,1904,869,758,4,30,35,96
+37,"srun: error: nid00054: tasks 0-1: Aborted
+slurmstepd: error: *** STEP 45501.0 ON nid00054 CANCELLED AT 2021-11-17T04:54:45 ***
+srun: error: nid00056: tasks 6-8: Aborted
+srun: error: nid00055: tasks 3-5: Aborted
+srun: error: nid00054: task 2: Aborted (core dumped)
+",9,1882,690,1618,3,3,37,15
+26,"srun: error: nid00056: tasks 0-3,5-9: Aborted
+slurmstepd: error: *** STEP 45475.0 ON nid00056 CANCELLED AT 2021-11-17T04:54:59 ***
+srun: error: nid00056: task 4: Aborted (core dumped)
+",43,1046,1548,1019,1,10,26,35
+33,"srun: error: nid00054: tasks 0-15,17-20: Aborted
+slurmstepd: error: *** STEP 45495.0 ON nid00054 CANCELLED AT 2021-11-17T04:55:00 ***
+srun: error: nid00055: tasks 21-41: Aborted
+srun: error: nid00054: task 16: Aborted (core dumped)
+",56,478,1404,531,2,21,33,76
+40,"srun: error: nid00021: tasks 15-26,28-29: Aborted
+srun: error: nid00020: tasks 0-14: Aborted
+srun: error: nid00021: task 27: Aborted (core dumped)
+",45,400,1101,1756,2,15,40,44
+29,"srun: error: nid00022: tasks 0,2-11: Aborted
+slurmstepd: error: *** STEP 45481.0 ON nid00022 CANCELLED AT 2021-11-17T04:58:55 ***
+srun: error: nid00022: task 1: Aborted (core dumped)
+",43,401,560,718,1,12,29,35
+30,"srun: error: nid00020: tasks 0-3,5-16: Aborted
+slurmstepd: error: *** STEP 45483.0 ON nid00020 CANCELLED AT 2021-11-17T04:59:12 ***
+srun: error: nid00020: task 4: Aborted (core dumped)
+",57,529,1294,1794,1,17,30,57
+39,"srun: error: nid00055: task 5: Segmentation fault
+slurmstepd: error: *** STEP 45506.0 ON nid00023 CANCELLED AT 2021-11-17T04:56:46 ***
+srun: error: nid00056: task 6: Segmentation fault
+srun: error: nid00055: task 4: Segmentation fault
+srun: error: nid00023: tasks 0-1: Segmentation fault
+srun: error: nid00054: tasks 2-3: Segmentation fault
+srun: error: nid00056: task 7: Segmentation fault (core dumped)
+",35,728,1203,929,4,2,39,2707
+36,"srun: error: nid00058: tasks 0-9,11: Aborted
+slurmstepd: error: *** STEP 45499.0 ON nid00058 CANCELLED AT 2021-11-17T05:42:28 ***
+srun: error: nid00058: task 10: Aborted (core dumped)
+",46,1971,1978,894,1,12,36,36
+42,"srun: error: nid00024: tasks 0,2-5: Aborted
+slurmstepd: error: *** STEP 45519.0 ON nid00024 CANCELLED AT 2021-11-17T05:42:45 ***
+srun: error: nid00029: tasks 12-17: Aborted
+srun: error: nid00028: tasks 6-11: Aborted
+srun: error: nid00024: task 1: Aborted (core dumped)
+",37,457,364,1976,3,6,42,21
+38,"srun: error: nid00022: tasks 0-24,26: Aborted
+slurmstepd: error: *** STEP 45504.0 ON nid00022 CANCELLED AT 2021-11-17T05:44:01 ***
+srun: error: nid00022: task 25: Aborted (core dumped)
+",24,1869,789,1868,1,27,38,84
+41,"srun: error: nid00061: tasks 0-3,5-7: Aborted
+slurmstepd: error: *** STEP 45511.0 ON nid00061 CANCELLED AT 2021-11-17T05:47:13 ***
+srun: error: nid00061: task 4: Aborted (core dumped)
+",64,909,331,636,1,8,41,22
+44,"srun: error: nid00024: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 45531.0 ON nid00024 CANCELLED AT 2021-11-17T05:48:26 ***
+srun: error: nid00028: tasks 6-11: Aborted
+srun: error: nid00029: tasks 12-17: Aborted
+srun: error: nid00024: task 4: Aborted (core dumped)
+",49,578,1925,1446,3,6,44,20
+43,"srun: error: nid00060: tasks 0-9,11-25: Aborted
+slurmstepd: error: *** STEP 45522.0 ON nid00060 CANCELLED AT 2021-11-17T05:50:24 ***
+srun: error: nid00060: task 10: Aborted (core dumped)
+",28,1583,1118,434,1,26,43,75
+46,"srun: error: nid00057: tasks 12-22: Aborted
+slurmstepd: error: *** STEP 45542.0 ON nid00024 CANCELLED AT 2021-11-17T05:51:39 ***
+srun: error: nid00060: tasks 36-47: Aborted
+srun: error: nid00058: tasks 24-35: Aborted
+srun: error: nid00024: tasks 0-11: Aborted
+srun: error: nid00057: task 23: Aborted (core dumped)
+",57,1863,261,1393,4,12,46,34
+47,"srun: error: nid00058: tasks 56,58-83: Aborted
+srun: error: nid00057: tasks 28-55: Aborted
+srun: error: nid00060: tasks 84-111: Aborted
+srun: error: nid00024: tasks 0-27: Aborted
+srun: error: nid00058: task 57: Aborted (core dumped)
+",52,1782,1921,434,4,28,47,87
+48,"srun: error: nid00054: tasks 0-17,19-22: Aborted
+slurmstepd: error: *** STEP 45550.0 ON nid00054 CANCELLED AT 2021-11-17T05:55:56 ***
+srun: error: nid00060: tasks 69-91: Aborted
+srun: error: nid00056: tasks 46-68: Aborted
+srun: error: nid00055: tasks 23-45: Aborted
+srun: error: nid00054: task 18: Aborted (core dumped)
+",10,276,900,1424,4,23,48,71
+49,"srun: error: nid00054: task 0: Aborted
+slurmstepd: error: *** STEP 45552.0 ON nid00054 CANCELLED AT 2021-11-17T05:57:08 ***
+srun: error: nid00056: tasks 4-5: Aborted
+srun: error: nid00055: tasks 2-3: Aborted
+srun: error: nid00060: tasks 6-7: Aborted
+srun: error: nid00054: task 1: Aborted (core dumped)
+",17,1378,1394,1921,4,2,49,11
+50,,55,372,684,1386,4,9,50,326
+52,"srun: error: nid00054: tasks 27-29,31-53: Aborted
+srun: error: nid00056: tasks 81-107: Aborted
+srun: error: nid00024: tasks 0-26: Aborted
+srun: error: nid00055: tasks 54-80: Aborted
+srun: error: nid00054: task 30: Aborted (core dumped)
+",55,1888,384,346,4,27,52,87
+51,"srun: error: nid00058: tasks 17-24,26-33: Aborted
+srun: error: nid00024: tasks 0-16: Aborted
+srun: error: nid00058: task 25: Aborted (core dumped)
+",61,1194,469,903,2,17,51,53
+45,"srun: error: nid00026: tasks 0,2-8: Aborted
+slurmstepd: error: *** STEP 45537.0 ON nid00026 CANCELLED AT 2021-11-17T06:51:44 ***
+srun: error: nid00026: task 1: Aborted (core dumped)
+",44,1567,1917,1333,1,9,45,36
+56,"srun: error: nid00026: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 45570.0 ON nid00026 CANCELLED AT 2021-11-17T06:52:22 ***
+srun: error: nid00057: tasks 6-11: Aborted
+srun: error: nid00026: task 4: Aborted (core dumped)
+",20,1948,1515,970,2,6,56,27
+54,"srun: error: nid00021: tasks 0-9,11-20: Aborted
+slurmstepd: error: *** STEP 45566.0 ON nid00021 CANCELLED AT 2021-11-17T06:51:44 ***
+srun: error: nid00022: tasks 21-41: Aborted
+srun: error: nid00021: task 10: Aborted (core dumped)
+",2,1874,1960,1570,2,21,54,91
+57,"srun: error: nid00021: tasks 0-11,13: Aborted
+slurmstepd: error: *** STEP 45572.0 ON nid00021 CANCELLED AT 2021-11-17T06:53:16 ***
+srun: error: nid00026: tasks 28-41: Aborted
+srun: error: nid00022: tasks 14-27: Aborted
+srun: error: nid00021: task 12: Aborted (core dumped)
+",22,1652,407,695,3,14,57,58
+53,"srun: error: nid00022: tasks 0-8,10-13: Aborted
+slurmstepd: error: *** STEP 45557.0 ON nid00022 CANCELLED AT 2021-11-17T06:54:21 ***
+srun: error: nid00022: task 9: Aborted (core dumped)
+",15,930,257,1455,1,14,53,56
+55,"srun: error: nid00057: tasks 0-2: Aborted
+slurmstepd: error: *** STEP 45568.0 ON nid00057 CANCELLED AT 2021-11-17T07:00:28 ***
+srun: error: nid00057: task 3: Aborted (core dumped)
+",36,399,1237,1396,1,4,55,15
+59,"srun: error: nid00055: tasks 18-34: Aborted
+srun: error: nid00054: tasks 0-17: Aborted
+srun: error: nid00057: tasks 54-71: Aborted
+srun: error: nid00056: tasks 36-53: Aborted
+srun: error: nid00055: task 35: Aborted (core dumped)
+",18,1168,1757,1541,4,18,59,63
+58,"srun: error: nid00054: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 45583.0 ON nid00054 CANCELLED AT 2021-11-17T07:02:47 ***
+srun: error: nid00056: tasks 8-11: Aborted
+srun: error: nid00055: tasks 4-7: Aborted
+srun: error: nid00054: task 2: Aborted (core dumped)
+",17,1391,1104,2047,3,4,58,17
+60,"srun: error: nid00030: tasks 18-23,25-35: Aborted
+slurmstepd: error: *** STEP 45590.0 ON nid00020 CANCELLED AT 2021-11-17T07:37:58 ***
+srun: error: nid00020: tasks 0-17: Aborted
+srun: error: nid00057: tasks 36-53: Aborted
+srun: error: nid00030: task 24: Aborted (core dumped)
+",18,1631,451,1636,3,18,60,72
+61,"srun: error: nid00028: tasks 0-3,5-18: Aborted
+slurmstepd: error: *** STEP 45593.0 ON nid00028 CANCELLED AT 2021-11-17T07:38:46 ***
+srun: error: nid00029: tasks 19-37: Aborted
+srun: error: nid00028: task 4: Aborted (core dumped)
+",29,1810,2004,265,2,19,61,82
+65,"srun: error: nid00026: task 1: Aborted
+slurmstepd: error: *** STEP 45601.0 ON nid00025 CANCELLED AT 2021-11-17T07:49:06 ***
+srun: error: nid00053: task 3: Aborted
+srun: error: nid00030: task 2: Aborted
+srun: error: nid00025: task 0: Aborted (core dumped)
+",46,1304,1344,1507,4,1,65,11
+63,"srun: error: nid00025: tasks 0-10,12-15: Aborted
+slurmstepd: error: *** STEP 45597.0 ON nid00025 CANCELLED AT 2021-11-17T07:49:17 ***
+srun: error: nid00026: tasks 16-31: Aborted
+srun: error: nid00025: task 11: Aborted (core dumped)
+",20,1933,499,2019,2,16,63,58
+64,,10,420,910,1362,2,3,64,334
+68,"srun: error: nid00056: tasks 22-28,30-32: Aborted
+slurmstepd: error: *** STEP 45612.0 ON nid00054 CANCELLED AT 2021-11-17T08:24:00 ***
+srun: error: nid00055: tasks 11-21: Aborted
+srun: error: nid00054: tasks 0-10: Aborted
+srun: error: nid00056: task 29: Aborted (core dumped)
+",60,848,721,1928,3,11,68,38
+70,"srun: error: nid00054: tasks 0,2: Aborted
+slurmstepd: error: *** STEP 45615.0 ON nid00054 CANCELLED AT 2021-11-17T08:25:53 ***
+srun: error: nid00055: tasks 3-5: Aborted
+srun: error: nid00056: tasks 6-8: Aborted
+srun: error: nid00057: tasks 9-11: Aborted
+srun: error: nid00054: task 1: Aborted (core dumped)
+",5,379,1825,1184,4,3,70,15
+71,"srun: error: nid00055: tasks 29-55,57: Aborted
+srun: error: nid00054: tasks 0-28: Aborted
+srun: error: nid00056: tasks 58-86: Aborted
+srun: error: nid00057: tasks 87-115: Aborted
+srun: error: nid00055: task 56: Aborted (core dumped)
+",38,398,1547,542,4,29,71,103
+72,"srun: error: nid00056: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 45618.0 ON nid00056 CANCELLED AT 2021-11-17T08:27:53 ***
+srun: error: nid00057: tasks 4-7: Aborted
+srun: error: nid00056: task 2: Aborted (core dumped)
+",32,1289,1254,258,2,4,72,19
+73,"srun: error: nid00056: tasks 0-3,5-8: Aborted
+slurmstepd: error: *** STEP 45619.0 ON nid00056 CANCELLED AT 2021-11-17T08:28:12 ***
+srun: error: nid00057: tasks 9-17: Aborted
+srun: error: nid00056: task 4: Aborted (core dumped)
+",25,1577,401,397,2,9,73,33
+75,"srun: error: nid00055: tasks 28-44,46-55: Aborted
+srun: error: nid00054: tasks 0-27: Aborted
+srun: error: nid00056: tasks 56-83: Aborted
+srun: error: nid00057: tasks 84-111: Aborted
+srun: error: nid00055: task 45: Aborted (core dumped)
+",57,1789,391,400,4,28,75,98
+62,"srun: error: nid00057: tasks 0,2-5: Aborted
+slurmstepd: error: *** STEP 45594.0 ON nid00057 CANCELLED AT 2021-11-17T08:38:43 ***
+srun: error: nid00057: task 1: Aborted (core dumped)
+",35,1472,1692,350,1,6,62,19
+76,"srun: error: nid00054: tasks 0-20,22-27: Aborted
+slurmstepd: error: *** STEP 45623.0 ON nid00054 CANCELLED AT 2021-11-17T08:38:43 ***
+srun: error: nid00055: tasks 28-55: Aborted
+srun: error: nid00054: task 21: Aborted (core dumped)
+",16,1333,418,1785,2,28,76,99
+78,"srun: error: nid00057: tasks 0-7: Aborted
+slurmstepd: error: *** STEP 45627.0 ON nid00057 CANCELLED AT 2021-11-17T08:57:16 ***
+srun: error: nid00058: tasks 9-17: Aborted
+srun: error: nid00057: task 8: Aborted (core dumped)
+",3,1987,311,873,2,9,78,36
+79,"srun: error: nid00058: tasks 21-24,26-41: Aborted
+srun: error: nid00057: tasks 0-20: Aborted
+srun: error: nid00058: task 25: Aborted (core dumped)
+",46,1608,878,1710,2,21,79,72
+80,"srun: error: nid00061: tasks 12,14-15: Aborted
+srun: error: nid00058: tasks 4-7: Aborted
+srun: error: nid00057: tasks 0-3: Aborted
+srun: error: nid00060: tasks 8-11: Aborted
+srun: error: nid00061: task 13: Aborted (core dumped)
+",24,1661,1049,1954,4,4,80,20
+82,"srun: error: nid00060: tasks 0-5,7-8: Aborted
+slurmstepd: error: *** STEP 45636.0 ON nid00060 CANCELLED AT 2021-11-17T09:39:02 ***
+srun: error: nid00061: tasks 9-17: Aborted
+srun: error: nid00060: task 6: Aborted (core dumped)
+",13,1777,1426,582,2,9,82,33
+83,"srun: error: nid00057: tasks 0-11,13-21: Aborted
+slurmstepd: error: *** STEP 45637.0 ON nid00057 CANCELLED AT 2021-11-17T09:40:39 ***
+srun: error: nid00060: tasks 44-65: Aborted
+srun: error: nid00058: tasks 22-43: Aborted
+srun: error: nid00057: task 12: Aborted (core dumped)
+",49,1512,1216,1647,3,22,83,84
+67,"srun: error: nid00061: tasks 0-23: Aborted
+slurmstepd: error: *** STEP 45611.0 ON nid00061 CANCELLED AT 2021-11-17T09:40:39 ***
+srun: error: nid00061: task 24: Aborted (core dumped)
+",35,1049,2016,1824,1,25,67,90
+69,"srun: error: nid00061: tasks 0-4,6-23: Aborted
+slurmstepd: error: *** STEP 45613.0 ON nid00061 CANCELLED AT 2021-11-17T09:42:09 ***
+srun: error: nid00061: task 5: Aborted (core dumped)
+",19,1452,1575,1342,1,24,69,81
+84,"srun: error: nid00060: tasks 48-54,56-71: Aborted
+srun: error: nid00057: tasks 0-23: Aborted
+srun: error: nid00058: tasks 24-47: Aborted
+srun: error: nid00061: tasks 72-95: Aborted
+srun: error: nid00060: task 55: Aborted (core dumped)
+",29,623,1462,943,4,24,84,81
+85,"srun: error: nid00061: tasks 52-65,67-77: Aborted
+srun: error: nid00031: tasks 0-25: Aborted
+srun: error: nid00060: tasks 26-51: Aborted
+srun: error: nid00061: task 66: Aborted (core dumped)
+",41,1193,987,917,3,26,85,102
+74,"srun: error: nid00031: tasks 0-16,18-20: Aborted
+slurmstepd: error: *** STEP 45620.0 ON nid00031 CANCELLED AT 2021-11-17T10:25:31 ***
+srun: error: nid00031: task 17: Aborted (core dumped)
+",9,1766,658,556,1,21,74,88
+77,"srun: error: nid00020: tasks 0-7,9-16: Aborted
+slurmstepd: error: *** STEP 45624.0 ON nid00020 CANCELLED AT 2021-11-17T10:36:34 ***
+srun: error: nid00020: task 8: Aborted (core dumped)
+",59,762,1852,262,1,17,77,52
+86,"srun: error: nid00029: tasks 22-34,36-43: Aborted
+srun: error: nid00028: tasks 0-21: Aborted
+srun: error: nid00029: task 35: Aborted (core dumped)
+",22,442,294,853,2,22,86,70
+88,"srun: error: nid00054: tasks 11-14,16-21: Aborted
+srun: error: nid00028: tasks 0-10: Aborted
+srun: error: nid00055: tasks 22-32: Aborted
+srun: error: nid00056: tasks 33-43: Aborted
+srun: error: nid00054: task 15: Aborted (core dumped)
+",36,568,669,1638,4,11,88,39
+87,"srun: error: nid00028: tasks 0,2-6: Aborted
+slurmstepd: error: *** STEP 45654.0 ON nid00028 CANCELLED AT 2021-11-17T10:38:36 ***
+srun: error: nid00029: tasks 7-13: Aborted
+srun: error: nid00028: task 1: Aborted (core dumped)
+",10,328,1855,1054,2,7,87,24
+81,"srun: error: nid00028: tasks 0-3,5-25: Aborted
+slurmstepd: error: *** STEP 45635.0 ON nid00028 CANCELLED AT 2021-11-17T10:39:00 ***
+srun: error: nid00028: task 4: Aborted (core dumped)
+",43,1896,1349,919,1,26,81,92
+91,"srun: error: nid00031: tasks 63-64,66-83: Aborted
+slurmstepd: error: *** STEP 45668.0 ON nid00025 CANCELLED AT 2021-11-17T11:06:14 ***
+srun: error: nid00030: tasks 42-62: Aborted
+srun: error: nid00026: tasks 21-41: Aborted
+srun: error: nid00025: tasks 0-20: Aborted
+srun: error: nid00031: task 65: Aborted (core dumped)
+",21,264,780,686,4,21,91,70
+92,"srun: error: nid00031: task 6: Aborted
+srun: error: nid00025: tasks 0-1: Aborted
+srun: error: nid00026: tasks 2-3: Aborted
+srun: error: nid00030: tasks 4-5: Aborted
+srun: error: nid00031: task 7: Aborted (core dumped)
+",46,1654,1886,1318,4,2,92,13
+90,"srun: error: nid00058: tasks 6,8: Aborted
+srun: error: nid00021: tasks 0-2: Aborted
+srun: error: nid00057: tasks 3-5: Aborted
+srun: error: nid00058: task 7: Aborted (core dumped)
+",11,1314,959,1751,3,3,90,15
+94,"srun: error: nid00030: tasks 32-43,45-47: Aborted
+slurmstepd: error: *** STEP 45675.0 ON nid00025 CANCELLED AT 2021-11-17T11:07:39 ***
+srun: error: nid00026: tasks 16-31: Aborted
+srun: error: nid00025: tasks 0-15: Aborted
+srun: error: nid00030: task 44: Aborted (core dumped)
+",56,1558,310,977,3,16,94,59
+93,"srun: error: nid00021: tasks 0-20,22-24: Aborted
+slurmstepd: error: *** STEP 45674.0 ON nid00021 CANCELLED AT 2021-11-17T11:07:41 ***
+srun: error: nid00031: tasks 25-49: Aborted
+srun: error: nid00021: task 21: Aborted (core dumped)
+",11,807,1498,1735,2,25,93,89
+95,"srun: error: nid00030: tasks 0-9,11-29: Aborted
+slurmstepd: error: *** STEP 45678.0 ON nid00030 CANCELLED AT 2021-11-17T11:09:10 ***
+srun: error: nid00031: tasks 30-59: Aborted
+srun: error: nid00030: task 10: Aborted (core dumped)
+",2,1425,574,368,2,30,95,125
+89,"srun: error: nid00030: tasks 0-1,3-22: Aborted
+slurmstepd: error: *** STEP 45661.0 ON nid00030 CANCELLED AT 2021-11-17T11:11:15 ***
+srun: error: nid00030: task 2: Aborted (core dumped)
+",52,1829,1029,729,1,23,89,79
+96,"srun: error: nid00030: tasks 0-6,8-21: Aborted
+slurmstepd: error: *** STEP 45688.0 ON nid00030 CANCELLED AT 2021-11-17T11:15:11 ***
+srun: error: nid00031: tasks 22-43: Aborted
+srun: error: nid00030: task 7: Aborted (core dumped)
+",31,1341,671,871,2,22,96,79
+97,"srun: error: nid00031: tasks 32-52,54-63: Aborted
+slurmstepd: error: *** STEP 45690.0 ON nid00030 CANCELLED AT 2021-11-17T11:17:40 ***
+srun: error: nid00030: tasks 0-31: Aborted
+srun: error: nid00031: task 53: Aborted (core dumped)
+",60,645,1620,1398,2,32,97,105
+66,"libhugetlbfs [nid00024:20653]: WARNING: New heap segment map at 0x10796c00000 failed: Cannot allocate memory
+",43,1920,1254,846,1,3,66,11124
+98,"srun: error: nid00061: tasks 31-58,60-61: Aborted
+slurmstepd: error: *** STEP 45702.0 ON nid00060 CANCELLED AT 2021-11-17T12:19:11 ***
+srun: error: nid00060: tasks 0-30: Aborted
+srun: error: nid00061: task 59: Aborted (core dumped)
+",48,458,1693,1119,2,31,98,127
+99,"srun: error: nid00023: tasks 0-4,6-16: Aborted
+slurmstepd: error: *** STEP 45706.0 ON nid00023 CANCELLED AT 2021-11-17T12:36:53 ***
+srun: error: nid00059: tasks 17-33: Aborted
+srun: error: nid00023: task 5: Aborted (core dumped)
+",38,1300,1517,1920,2,17,99,59
+102,"srun: error: nid00028: tasks 60-81,83-89: Aborted
+srun: error: nid00022: tasks 0-29: Aborted
+srun: error: nid00029: tasks 90-119: Aborted
+srun: error: nid00023: tasks 30-59: Aborted
+srun: error: nid00028: task 82: Aborted (core dumped)
+",51,1000,1982,2006,4,30,102,107
+104,"srun: error: nid00028: tasks 36-51,53: Aborted
+slurmstepd: error: *** STEP 45717.0 ON nid00022 CANCELLED AT 2021-11-17T12:53:23 ***
+srun: error: nid00022: tasks 0-17: Aborted
+srun: error: nid00023: tasks 18-35: Aborted
+srun: error: nid00028: task 52: Aborted (core dumped)
+",39,824,1519,767,3,18,104,64
+106,"srun: error: nid00022: tasks 0,2-9: Aborted
+slurmstepd: error: *** STEP 45719.0 ON nid00022 CANCELLED AT 2021-11-17T12:54:27 ***
+srun: error: nid00023: tasks 10-19: Aborted
+srun: error: nid00028: tasks 20-29: Aborted
+srun: error: nid00022: task 1: Aborted (core dumped)
+",6,1623,789,567,3,10,106,36
+101,"srun: error: nid00022: tasks 0-2,4-6: Aborted
+slurmstepd: error: *** STEP 45710.0 ON nid00022 CANCELLED AT 2021-11-17T12:55:03 ***
+srun: error: nid00023: tasks 7-13: Aborted
+srun: error: nid00022: task 3: Aborted (core dumped)
+",43,1682,1925,858,2,7,101,29
+105,"srun: error: nid00029: tasks 19-34,36-37: Aborted
+srun: error: nid00028: tasks 0-18: Aborted
+srun: error: nid00029: task 35: Aborted (core dumped)
+",51,497,1611,933,2,19,105,86
+107,"srun: error: nid00061: tasks 22-39,41-43: Aborted
+srun: error: nid00060: tasks 0-21: Aborted
+srun: error: nid00061: task 40: Aborted (core dumped)
+",11,1025,1685,1336,2,22,107,84
+108,"srun: error: nid00020: tasks 0-17,19: Aborted
+slurmstepd: error: *** STEP 45724.0 ON nid00020 CANCELLED AT 2021-11-17T13:06:00 ***
+srun: error: nid00057: tasks 40-59: Aborted
+srun: error: nid00025: tasks 20-39: Aborted
+srun: error: nid00020: task 18: Aborted (core dumped)
+",41,699,266,1919,3,20,108,83
+100,"srun: error: nid00057: tasks 0-1,3-21: Aborted
+slurmstepd: error: *** STEP 45707.0 ON nid00057 CANCELLED AT 2021-11-17T13:07:24 ***
+srun: error: nid00057: task 2: Aborted (core dumped)
+",15,1146,1300,1804,1,22,100,82
+103,"srun: error: nid00056: tasks 0-5,7-31: Aborted
+slurmstepd: error: *** STEP 45713.0 ON nid00056 CANCELLED AT 2021-11-17T13:12:19 ***
+srun: error: nid00056: task 6: Aborted (core dumped)
+",58,1875,585,256,1,32,103,124
+112,"srun: error: nid00022: tasks 0-28: Aborted
+slurmstepd: error: *** STEP 45738.0 ON nid00022 CANCELLED AT 2021-11-17T13:22:25 ***
+srun: error: nid00028: tasks 30-59: Aborted
+srun: error: nid00029: tasks 60-89: Aborted
+srun: error: nid00022: task 29: Aborted (core dumped)
+",41,1514,1891,1026,3,30,112,129
+111,"srun: error: nid00030: tasks 0-6,8: Aborted
+slurmstepd: error: *** STEP 45735.0 ON nid00030 CANCELLED AT 2021-11-17T13:43:14 ***
+srun: error: nid00031: tasks 9-17: Aborted
+srun: error: nid00030: task 7: Aborted (core dumped)
+",33,622,522,2008,2,9,111,49
+110,"srun: error: nid00059: tasks 0-16,18-19: Aborted
+slurmstepd: error: *** STEP 45726.0 ON nid00059 CANCELLED AT 2021-11-17T13:43:20 ***
+srun: error: nid00059: task 17: Aborted (core dumped)
+",5,1611,1922,735,1,20,110,94
+109,"srun: error: nid00057: tasks 0-5,7-27: Aborted
+slurmstepd: error: *** STEP 45725.0 ON nid00057 CANCELLED AT 2021-11-17T13:43:14 ***
+srun: error: nid00057: task 6: Aborted (core dumped)
+",30,1062,1381,1783,1,28,109,133
+115,"srun: error: nid00030: tasks 0-3: Aborted
+slurmstepd: error: *** STEP 45753.0 ON nid00030 CANCELLED AT 2021-11-17T13:45:02 ***
+srun: error: nid00056: tasks 10-14: Aborted
+srun: error: nid00059: tasks 15-19: Aborted
+srun: error: nid00031: tasks 5-9: Aborted
+srun: error: nid00030: task 4: Aborted (core dumped)
+",10,258,1207,1118,4,5,115,27
+116,"srun: error: nid00030: tasks 0,2-3: Aborted
+slurmstepd: error: *** STEP 45754.0 ON nid00030 CANCELLED AT 2021-11-17T13:45:29 ***
+srun: error: nid00031: tasks 4-7: Aborted
+srun: error: nid00056: tasks 8-11: Aborted
+srun: error: nid00057: tasks 12-15: Aborted
+srun: error: nid00030: task 1: Aborted (core dumped)
+",51,1002,1401,604,4,4,116,20
+119,"srun: error: nid00057: tasks 0-4,6-23: Aborted
+slurmstepd: error: *** STEP 45758.0 ON nid00057 CANCELLED AT 2021-11-17T13:45:50 ***
+srun: error: nid00060: tasks 48-71: Aborted
+srun: error: nid00059: tasks 24-47: Aborted
+srun: error: nid00057: task 5: Aborted (core dumped)
+",59,1652,879,1151,3,24,119,82
+120,"srun: error: nid00060: tasks 48,50-63: Aborted
+srun: error: nid00023: tasks 0-15: Aborted
+srun: error: nid00059: tasks 32-47: Aborted
+srun: error: nid00057: tasks 16-31: Aborted
+srun: error: nid00060: task 49: Aborted (core dumped)
+",25,561,291,1444,4,16,120,56
+118,"srun: error: nid00059: tasks 0,2-5: Aborted
+slurmstepd: error: *** STEP 45757.0 ON nid00059 CANCELLED AT 2021-11-17T13:54:18 ***
+srun: error: nid00060: tasks 6-11: Aborted
+srun: error: nid00059: task 1: Aborted (core dumped)
+",8,1448,1527,797,2,6,118,30
+121,"srun: error: nid00060: tasks 27-51,53: Aborted
+slurmstepd: error: *** STEP 45765.0 ON nid00059 CANCELLED AT 2021-11-17T13:54:48 ***
+srun: error: nid00059: tasks 0-26: Aborted
+srun: error: nid00060: task 52: Aborted (core dumped)
+",4,292,598,2003,2,27,121,120
+122,"srun: error: nid00023: tasks 0-24,26-28: Aborted
+slurmstepd: error: *** STEP 45768.0 ON nid00023 CANCELLED AT 2021-11-17T14:10:14 ***
+srun: error: nid00060: tasks 87-115: Aborted
+srun: error: nid00057: tasks 29-57: Aborted
+srun: error: nid00059: tasks 58-86: Aborted
+srun: error: nid00023: task 25: Aborted (core dumped)
+",24,2031,1754,1786,4,29,122,120
+123,"srun: error: nid00060: tasks 34-48,50: Aborted
+srun: error: nid00059: tasks 17-33: Aborted
+srun: error: nid00023: tasks 0-16: Aborted
+srun: error: nid00060: task 49: Aborted (core dumped)
+",60,1212,1831,633,3,17,123,65
+124,"srun: error: nid00023: tasks 0-20,22-25: Aborted
+slurmstepd: error: *** STEP 45771.0 ON nid00023 CANCELLED AT 2021-11-17T14:13:20 ***
+srun: error: nid00060: tasks 78-103: Aborted
+srun: error: nid00059: tasks 52-77: Aborted
+srun: error: nid00057: tasks 26-51: Aborted
+srun: error: nid00023: task 21: Aborted (core dumped)
+",28,1111,386,1056,4,26,124,97
+113,"srun: error: nid00061: tasks 0-17,19: Aborted
+slurmstepd: error: *** STEP 45745.0 ON nid00061 CANCELLED AT 2021-11-17T14:42:01 ***
+srun: error: nid00061: task 18: Aborted (core dumped)
+",12,1171,1067,1462,1,20,113,81
+125,"srun: error: nid00026: tasks 0-22,24-25: Aborted
+slurmstepd: error: *** STEP 45779.0 ON nid00026 CANCELLED AT 2021-11-17T14:58:30 ***
+srun: error: nid00055: tasks 52-77: Aborted
+srun: error: nid00054: tasks 26-51: Aborted
+srun: error: nid00061: tasks 78-103: Aborted
+srun: error: nid00026: task 23: Aborted (core dumped)
+",1,1637,987,1749,4,26,125,86
+126,"srun: error: nid00030: tasks 0-3,5-16: Aborted
+slurmstepd: error: *** STEP 45782.0 ON nid00030 CANCELLED AT 2021-11-17T15:31:02 ***
+srun: error: nid00031: tasks 17-33: Aborted
+srun: error: nid00030: task 4: Aborted (core dumped)
+",10,647,1358,1008,2,17,126,59
+114,"srun: error: nid00025: tasks 0,2-20: Aborted
+slurmstepd: error: *** STEP 45746.0 ON nid00025 CANCELLED AT 2021-11-17T15:31:01 ***
+srun: error: nid00025: task 1: Aborted (core dumped)
+",36,1090,609,467,1,21,114,79
+130,"srun: error: nid00025: tasks 0-6,8-13: Aborted
+slurmstepd: error: *** STEP 45791.0 ON nid00025 CANCELLED AT 2021-11-17T15:32:52 ***
+srun: error: nid00056: tasks 42-55: Aborted
+srun: error: nid00030: tasks 14-27: Aborted
+srun: error: nid00031: tasks 28-41: Aborted
+srun: error: nid00025: task 7: Aborted (core dumped)
+",30,1163,1357,816,4,14,130,48
+131,"srun: error: nid00020: tasks 0-20,22-31: Aborted
+slurmstepd: error: *** STEP 45793.0 ON nid00020 CANCELLED AT 2021-11-17T16:02:59 ***
+srun: error: nid00055: tasks 64-95: Aborted
+srun: error: nid00054: tasks 32-63: Aborted
+srun: error: nid00020: task 21: Aborted (core dumped)
+",49,683,1733,2013,3,32,131,119
+117,"srun: error: nid00027: tasks 0-4,6-26: Aborted
+slurmstepd: error: *** STEP 45755.0 ON nid00027 CANCELLED AT 2021-11-17T16:25:08 ***
+srun: error: nid00027: task 5: Aborted (core dumped)
+",42,1102,1316,1630,1,27,117,84
+133,"srun: error: nid00054: tasks 32-33,35-47: Aborted
+slurmstepd: error: *** STEP 45810.0 ON nid00020 CANCELLED AT 2021-11-17T16:39:37 ***
+srun: error: nid00055: tasks 48-63: Aborted
+srun: error: nid00053: tasks 16-31: Aborted
+srun: error: nid00020: tasks 0-15: Aborted
+srun: error: nid00054: task 34: Aborted (core dumped)
+",23,836,599,707,4,16,133,44
+127,"srun: error: nid00020: task 0: Aborted
+slurmstepd: error: *** STEP 45785.0 ON nid00020 CANCELLED AT 2021-11-17T16:41:19 ***
+srun: error: nid00020: task 1: Aborted (core dumped)
+",34,1331,1749,270,1,2,127,8
+128,"srun: error: nid00020: tasks 0-20,22-28: Aborted
+slurmstepd: error: *** STEP 45786.0 ON nid00020 CANCELLED AT 2021-11-17T16:41:31 ***
+srun: error: nid00020: task 21: Aborted (core dumped)
+",62,305,1576,1633,1,29,128,89
+135,"srun: error: nid00020: tasks 0-16,18: Aborted
+slurmstepd: error: *** STEP 45816.0 ON nid00020 CANCELLED AT 2021-11-17T16:45:48 ***
+srun: error: nid00058: tasks 57-75: Aborted
+srun: error: nid00022: tasks 19-37: Aborted
+srun: error: nid00057: tasks 38-56: Aborted
+srun: error: nid00020: task 17: Aborted (core dumped)
+",41,931,532,1822,4,19,135,56
+136,"srun: error: nid00058: tasks 10-12,14: Aborted
+slurmstepd: error: *** STEP 45818.0 ON nid00020 CANCELLED AT 2021-11-17T16:46:44 ***
+srun: error: nid00057: tasks 5-9: Aborted
+srun: error: nid00020: tasks 0-4: Aborted
+srun: error: nid00058: task 13: Aborted (core dumped)
+",62,966,667,1903,3,5,136,16
+137,"srun: error: nid00057: tasks 18-34: Aborted
+srun: error: nid00058: tasks 36-53: Aborted
+srun: error: nid00020: tasks 0-17: Aborted
+srun: error: nid00057: task 35: Aborted (core dumped)
+",24,924,777,396,3,18,137,50
+129,"srun: error: nid00022: tasks 0-1,3-10: Aborted
+slurmstepd: error: *** STEP 45789.0 ON nid00022 CANCELLED AT 2021-11-17T16:47:52 ***
+srun: error: nid00022: task 2: Aborted (core dumped)
+",59,702,1557,621,1,11,129,29
+138,"srun: error: nid00058: tasks 14-15,17-27: Aborted
+slurmstepd: error: *** STEP 45824.0 ON nid00057 CANCELLED AT 2021-11-17T16:55:27 ***
+srun: error: nid00057: tasks 0-13: Aborted
+srun: error: nid00058: task 16: Aborted (core dumped)
+",21,737,993,642,2,14,138,42
+132,"srun: error: nid00020: tasks 0-4,6-22: Aborted
+slurmstepd: error: *** STEP 45798.0 ON nid00020 CANCELLED AT 2021-11-17T16:55:27 ***
+srun: error: nid00020: task 5: Aborted (core dumped)
+",40,1375,1781,280,1,23,132,70
+140,"srun: error: nid00025: tasks 20-26,28-39: Aborted
+slurmstepd: error: *** STEP 45833.0 ON nid00020 CANCELLED AT 2021-11-17T17:12:34 ***
+srun: error: nid00030: tasks 40-59: Aborted
+srun: error: nid00020: tasks 0-19: Aborted
+srun: error: nid00031: tasks 60-79: Aborted
+srun: error: nid00025: task 27: Aborted (core dumped)
+",25,1027,934,1171,4,20,140,68
+134,"srun: error: nid00025: tasks 0-19,21-26: Aborted
+slurmstepd: error: *** STEP 45815.0 ON nid00025 CANCELLED AT 2021-11-17T17:14:02 ***
+srun: error: nid00025: task 20: Aborted (core dumped)
+",8,1443,476,1252,1,27,134,108
+139,"srun: error: nid00057: tasks 0-1,3-11: Aborted
+slurmstepd: error: *** STEP 45825.0 ON nid00057 CANCELLED AT 2021-11-17T17:47:02 ***
+srun: error: nid00057: task 2: Aborted (core dumped)
+",62,1833,1204,1998,1,12,139,37
+142,"srun: error: nid00059: tasks 0-3,5-7: Aborted
+slurmstepd: error: *** STEP 45841.0 ON nid00059 CANCELLED AT 2021-11-17T18:22:25 ***
+srun: error: nid00060: tasks 8-15: Aborted
+srun: error: nid00061: tasks 16-23: Aborted
+srun: error: nid00059: task 4: Aborted (core dumped)
+",17,893,1769,1794,3,8,142,29
+143,"srun: error: nid00060: tasks 42-46,48-62: Aborted
+srun: error: nid00061: tasks 63-83: Aborted
+srun: error: nid00023: tasks 0-20: Aborted
+srun: error: nid00059: tasks 21-41: Aborted
+srun: error: nid00060: task 47: Aborted (core dumped)
+",24,410,998,1701,4,21,143,82
+145,"srun: error: nid00026: tasks 0-4: Aborted
+slurmstepd: error: *** STEP 45859.0 ON nid00026 CANCELLED AT 2021-11-17T19:14:03 ***
+srun: error: nid00061: tasks 6-11: Aborted
+srun: error: nid00026: task 5: Aborted (core dumped)
+",44,370,1498,1633,2,6,145,28
+141,"srun: error: nid00061: tasks 0-3,5-10: Aborted
+slurmstepd: error: *** STEP 45836.0 ON nid00061 CANCELLED AT 2021-11-17T19:39:27 ***
+srun: error: nid00061: task 4: Aborted (core dumped)
+",33,1845,1155,1626,1,11,141,34
+144,"srun: error: nid00028: tasks 39,41-51: Aborted
+slurmstepd: error: *** STEP 45855.0 ON nid00023 CANCELLED AT 2021-11-17T19:39:27 ***
+srun: error: nid00026: tasks 13-25: Aborted
+srun: error: nid00027: tasks 26-38: Aborted
+srun: error: nid00023: tasks 0-12: Aborted
+srun: error: nid00028: task 40: Aborted (core dumped)
+",57,1333,1791,749,4,13,144,46
+146,"srun: error: nid00028: tasks 28-31,33-41: Aborted
+srun: error: nid00026: tasks 0-13: Aborted
+srun: error: nid00027: tasks 14-27: Aborted
+srun: error: nid00028: task 32: Aborted (core dumped)
+",8,1191,1749,1841,3,14,146,52
+147,"srun: error: nid00061: tasks 16-28,30-31: Aborted
+srun: error: nid00023: tasks 0-15: Aborted
+srun: error: nid00061: task 29: Aborted (core dumped)
+",7,668,688,1104,2,16,147,60
+148,"srun: error: nid00030: tasks 0-1,3-13: Aborted
+slurmstepd: error: *** STEP 45872.0 ON nid00030 CANCELLED AT 2021-11-17T20:12:55 ***
+srun: error: nid00031: tasks 14-27: Aborted
+srun: error: nid00030: task 2: Aborted (core dumped)
+",11,1357,475,780,2,14,148,47
+149,"srun: error: nid00020: tasks 0-19,21-29: Aborted
+slurmstepd: error: *** STEP 45874.0 ON nid00020 CANCELLED AT 2021-11-17T20:12:56 ***
+srun: error: nid00061: tasks 30-59: Aborted
+srun: error: nid00020: task 20: Aborted (core dumped)
+",24,1192,1384,1926,2,30,149,106
+152,"srun: error: nid00030: tasks 0-19: Aborted
+slurmstepd: error: *** STEP 45878.0 ON nid00030 CANCELLED AT 2021-11-17T20:15:33 ***
+srun: error: nid00061: tasks 21-41: Aborted
+srun: error: nid00030: task 20: Aborted (core dumped)
+",41,1130,1904,1985,2,21,152,66
+151,"srun: error: nid00024: tasks 39-50: Aborted
+slurmstepd: error: *** STEP 45877.0 ON nid00020 CANCELLED AT 2021-11-17T20:35:36 ***
+srun: error: nid00023: tasks 26-38: Aborted
+srun: error: nid00020: tasks 0-12: Aborted
+srun: error: nid00022: tasks 13-25: Aborted
+srun: error: nid00024: task 51: Aborted (core dumped)
+",2,1054,1816,641,4,13,151,45
+154,"srun: error: nid00024: tasks 6,8: Aborted
+slurmstepd: error: *** STEP 45880.0 ON nid00022 CANCELLED AT 2021-11-17T20:36:21 ***
+srun: error: nid00023: tasks 3-5: Aborted
+srun: error: nid00022: tasks 0-2: Aborted
+srun: error: nid00024: task 7: Aborted (core dumped)
+",44,1942,957,891,3,3,154,18
+156,"srun: error: nid00053: tasks 0-4,6-16: Aborted
+slurmstepd: error: *** STEP 45884.0 ON nid00053 CANCELLED AT 2021-11-17T20:36:47 ***
+srun: error: nid00054: tasks 17-33: Aborted
+srun: error: nid00053: task 5: Aborted (core dumped)
+",62,491,1668,381,2,17,156,66
+153,"srun: error: nid00020: tasks 0-4,6-23: Aborted
+slurmstepd: error: *** STEP 45879.0 ON nid00020 CANCELLED AT 2021-11-17T20:36:21 ***
+srun: error: nid00030: tasks 24-47: Aborted
+srun: error: nid00020: task 5: Aborted (core dumped)
+",63,1555,694,948,2,24,153,98
+155,"srun: error: nid00023: tasks 19-22,24-37: Aborted
+srun: error: nid00022: tasks 0-18: Aborted
+srun: error: nid00023: task 23: Aborted (core dumped)
+",1,1877,1153,384,2,19,155,78
+157,"srun: error: nid00061: tasks 54-71,73-80: Aborted
+srun: error: nid00020: tasks 0-26: Aborted
+srun: error: nid00030: tasks 27-53: Aborted
+srun: error: nid00061: task 72: Aborted (core dumped)
+",11,1738,1687,1520,3,27,157,103
+160,"srun: error: nid00023: tasks 46-63,65-68: Aborted
+slurmstepd: error: *** STEP 45891.0 ON nid00020 CANCELLED AT 2021-11-17T20:39:42 ***
+srun: error: nid00030: tasks 69-91: Aborted
+srun: error: nid00020: tasks 0-22: Aborted
+srun: error: nid00022: tasks 23-45: Aborted
+srun: error: nid00023: task 64: Aborted (core dumped)
+",37,1459,1886,419,4,23,160,94
+159,"srun: error: nid00030: tasks 0,2-25: Aborted
+slurmstepd: error: *** STEP 45889.0 ON nid00030 CANCELLED AT 2021-11-17T20:41:16 ***
+srun: error: nid00061: tasks 26-51: Aborted
+srun: error: nid00030: task 1: Aborted (core dumped)
+",58,1553,1554,1356,2,26,159,118
+162,"srun: error: nid00061: tasks 25-29,31-49: Aborted
+srun: error: nid00030: tasks 0-24: Aborted
+srun: error: nid00061: task 30: Aborted (core dumped)
+",56,838,1276,1635,2,25,162,107
+165,"srun: error: nid00024: tasks 0-2: Aborted
+slurmstepd: error: *** STEP 45901.0 ON nid00024 CANCELLED AT 2021-11-17T20:47:59 ***
+srun: error: nid00061: tasks 8-11: Aborted
+srun: error: nid00030: tasks 4-7: Aborted
+srun: error: nid00024: task 3: Aborted (core dumped)
+",42,1191,1078,1601,3,4,165,23
+150,"srun: error: nid00055: tasks 0-28,30: Aborted
+slurmstepd: error: *** STEP 45876.0 ON nid00055 CANCELLED AT 2021-11-17T20:46:41 ***
+srun: error: nid00055: task 29: Aborted (core dumped)
+",27,1954,582,1304,1,31,150,139
+166,"srun: error: nid00024: tasks 0-6,8-10: Aborted
+slurmstepd: error: *** STEP 45904.0 ON nid00024 CANCELLED AT 2021-11-17T20:48:22 ***
+srun: error: nid00030: tasks 11-21: Aborted
+srun: error: nid00061: tasks 22-32: Aborted
+srun: error: nid00024: task 7: Aborted (core dumped)
+",48,676,1802,1798,3,11,166,46
+167,"srun: error: nid00055: tasks 0-10,12-19: Aborted
+slurmstepd: error: *** STEP 45907.0 ON nid00055 CANCELLED AT 2021-11-17T20:49:41 ***
+srun: error: nid00061: tasks 20-39: Aborted
+srun: error: nid00055: task 11: Aborted (core dumped)
+",21,770,1893,422,2,20,167,94
+168,"srun: error: nid00031: tasks 48-52,54-71: Aborted
+srun: error: nid00055: tasks 72-95: Aborted
+srun: error: nid00030: tasks 24-47: Aborted
+srun: error: nid00024: tasks 0-23: Aborted
+srun: error: nid00031: task 53: Aborted (core dumped)
+",46,921,1268,1633,4,24,168,97
+163,"srun: error: nid00059: task 0: Aborted
+slurmstepd: error: *** STEP 45895.0 ON nid00059 CANCELLED AT 2021-11-17T20:57:16 ***
+srun: error: nid00059: task 1: Aborted (core dumped)
+",6,1581,1629,589,1,2,163,10
+169,"srun: error: nid00024: tasks 0-19,21-23: Aborted
+slurmstepd: error: *** STEP 45911.0 ON nid00024 CANCELLED AT 2021-11-17T20:57:15 ***
+srun: error: nid00031: tasks 48-71: Aborted
+srun: error: nid00055: tasks 72-95: Aborted
+srun: error: nid00030: tasks 24-47: Aborted
+srun: error: nid00024: task 20: Aborted (core dumped)
+",19,1703,588,795,4,24,169,98
+170,"srun: error: nid00030: tasks 5-8: Aborted
+slurmstepd: error: *** STEP 45915.0 ON nid00024 CANCELLED AT 2021-11-17T20:58:53 ***
+srun: error: nid00031: tasks 10-14: Aborted
+srun: error: nid00024: tasks 0-4: Aborted
+srun: error: nid00030: task 9: Aborted (core dumped)
+",5,2043,262,364,3,5,170,28
+172,"srun: error: nid00059: tasks 14-21,23-27: Aborted
+srun: error: nid00060: tasks 28-41: Aborted
+srun: error: nid00055: tasks 0-13: Aborted
+srun: error: nid00059: task 22: Aborted (core dumped)
+",28,1048,453,1617,3,14,172,63
+164,"srun: error: nid00055: tasks 0-18,20-25: Aborted
+slurmstepd: error: *** STEP 45899.0 ON nid00055 CANCELLED AT 2021-11-17T20:59:56 ***
+srun: error: nid00055: task 19: Aborted (core dumped)
+",22,747,1079,629,1,26,164,128
+174,"srun: error: nid00026: tasks 0-15,17-30: Aborted
+srun: error: nid00027: tasks 31-61: Aborted
+srun: error: nid00028: tasks 62-92: Aborted
+slurmstepd: error: *** STEP 45925.0 ON nid00026 CANCELLED AT 2021-11-17T21:09:26 ***
+srun: error: nid00026: task 16: Aborted (core dumped)
+",50,1623,327,1874,3,31,174,176
+175,"srun: error: nid00028: tasks 24-32,34-47: Aborted
+srun: error: nid00058: tasks 72-95: Aborted
+srun: error: nid00057: tasks 48-71: Aborted
+srun: error: nid00027: tasks 0-23: Aborted
+srun: error: nid00028: task 33: Aborted (core dumped)
+",5,330,1631,884,4,24,175,116
+176,"srun: error: nid00026: tasks 0-3: Aborted
+slurmstepd: error: *** STEP 45928.0 ON nid00026 CANCELLED AT 2021-11-17T22:43:58 ***
+srun: error: nid00028: tasks 10-14: Aborted
+srun: error: nid00027: tasks 5-9: Aborted
+srun: error: nid00026: task 4: Aborted (core dumped)
+",63,1441,1300,1771,3,5,176,28
+177,"srun: error: nid00058: tasks 30-36,38-59: Aborted
+srun: error: nid00057: tasks 0-29: Aborted
+srun: error: nid00058: task 37: Aborted (core dumped)
+",34,1986,1071,1967,2,30,177,151
+178,"srun: error: nid00026: tasks 0-16,18-22: Aborted
+slurmstepd: error: *** STEP 45936.0 ON nid00026 CANCELLED AT 2021-11-17T22:46:30 ***
+srun: error: nid00057: tasks 69-91: Aborted
+srun: error: nid00028: tasks 46-68: Aborted
+srun: error: nid00027: tasks 23-45: Aborted
+srun: error: nid00026: task 17: Aborted (core dumped)
+",35,1255,470,1306,4,23,178,110
+180,"srun: error: nid00058: task 2: Aborted
+srun: error: nid00028: tasks 0-1: Aborted
+srun: error: nid00058: task 3: Aborted (core dumped)
+",64,1671,1980,1090,2,2,180,14
+179,"srun: error: nid00026: tasks 0,2-7: Aborted
+slurmstepd: error: *** STEP 45944.0 ON nid00026 CANCELLED AT 2021-11-17T22:56:46 ***
+srun: error: nid00027: tasks 8-15: Aborted
+srun: error: nid00026: task 1: Aborted (core dumped)
+",27,286,1408,1031,2,8,179,39
+173,"srun: error: nid00026: tasks 0-10: Aborted
+slurmstepd: error: *** STEP 45922.0 ON nid00026 CANCELLED AT 2021-11-17T22:57:26 ***
+srun: error: nid00026: task 11: Aborted (core dumped)
+",17,464,1379,1096,1,12,173,51
+181,"srun: error: nid00026: tasks 0-1: Aborted
+slurmstepd: error: *** STEP 45949.0 ON nid00026 CANCELLED AT 2021-11-17T23:01:29 ***
+srun: error: nid00027: tasks 3-5: Aborted
+srun: error: nid00028: tasks 6-8: Aborted
+srun: error: nid00058: tasks 9-11: Aborted
+srun: error: nid00026: task 2: Aborted (core dumped)
+",1,1820,2010,1321,4,3,181,19
+184,"srun: error: nid00053: tasks 0-2,4-5: Aborted
+slurmstepd: error: *** STEP 45961.0 ON nid00053 CANCELLED AT 2021-11-17T23:11:24 ***
+srun: error: nid00054: tasks 6-11: Aborted
+srun: error: nid00053: task 3: Aborted (core dumped)
+",25,1831,1809,1232,2,6,184,28
+188,"srun: error: nid00024: tasks 0,2-3: Aborted
+slurmstepd: error: *** STEP 45971.0 ON nid00024 CANCELLED AT 2021-11-17T23:48:17 ***
+srun: error: nid00055: tasks 12-15: Aborted
+srun: error: nid00054: tasks 8-11: Aborted
+srun: error: nid00053: tasks 4-7: Aborted
+srun: error: nid00024: task 1: Aborted (core dumped)
+",4,406,1490,822,4,4,188,21
+189,"srun: error: nid00059: task 0: Aborted
+slurmstepd: error: *** STEP 45977.0 ON nid00059 CANCELLED AT 2021-11-17T23:48:43 ***
+srun: error: nid00060: tasks 2-3: Aborted
+srun: error: nid00059: task 1: Aborted (core dumped)
+",18,1459,941,909,2,2,189,14
+183,"srun: error: nid00053: tasks 0-12: Aborted
+slurmstepd: error: *** STEP 45958.0 ON nid00053 CANCELLED AT 2021-11-17T23:48:38 ***
+srun: error: nid00053: task 13: Aborted (core dumped)
+",31,1294,665,819,1,14,183,59
+185,"srun: error: nid00054: tasks 0-9,11-17: Aborted
+slurmstepd: error: *** STEP 45962.0 ON nid00054 CANCELLED AT 2021-11-17T23:48:38 ***
+srun: error: nid00054: task 10: Aborted (core dumped)
+",13,1789,846,1078,1,18,185,72
+182,"srun: error: nid00029: tasks 0-17,19-29: Aborted
+slurmstepd: error: *** STEP 45956.0 ON nid00029 CANCELLED AT 2021-11-17T23:48:17 ***
+srun: error: nid00029: task 18: Aborted (core dumped)
+",28,1600,854,1015,1,30,182,132
+158,"srun: error: nid00020: tasks 0-1: Segmentation fault
+slurmstepd: error: *** STEP 45888.0 ON nid00020 CANCELLED AT 2021-11-17T20:41:21 ***
+srun: error: nid00022: tasks 3-5: Segmentation fault
+srun: error: nid00023: tasks 6,8: Segmentation fault
+srun: error: nid00023: task 7: Aborted
+srun: error: nid00020: task 2: Segmentation fault (core dumped)
+",52,1854,1357,1512,3,3,158,11484
+187,"srun: error: nid00023: tasks 0-7,9-11: Aborted
+slurmstepd: error: *** STEP 45969.0 ON nid00023 CANCELLED AT 2021-11-17T23:52:40 ***
+srun: error: nid00023: task 8: Aborted (core dumped)
+",49,1654,843,1856,1,12,187,41
+191,"srun: error: nid00024: tasks 0-15,17-19: Aborted
+slurmstepd: error: *** STEP 45985.0 ON nid00024 CANCELLED AT 2021-11-18T00:02:27 ***
+srun: error: nid00054: tasks 40-59: Aborted
+srun: error: nid00053: tasks 20-39: Aborted
+srun: error: nid00024: task 16: Aborted (core dumped)
+",13,1260,1032,1535,3,20,191,71
+192,"srun: error: nid00026: tasks 0-24,26-27: Aborted
+slurmstepd: error: *** STEP 45987.0 ON nid00026 CANCELLED AT 2021-11-18T00:02:24 ***
+srun: error: nid00057: tasks 84-111: Aborted
+srun: error: nid00028: tasks 56-83: Aborted
+srun: error: nid00027: tasks 28-55: Aborted
+srun: error: nid00026: task 25: Aborted (core dumped)
+",25,2026,903,1125,4,28,192,111
+171,"srun: error: nid00030: task 2: Segmentation fault
+slurmstepd: error: *** STEP 45916.0 ON nid00030 CANCELLED AT 2021-11-17T21:00:28 ***
+srun: error: nid00031: tasks 5-6: Segmentation fault
+srun: error: nid00030: tasks 0-1: Segmentation fault
+srun: error: nid00031: tasks 4,7: Segmentation fault
+srun: error: nid00030: task 3: Segmentation fault (core dumped)
+",55,1504,1059,1852,2,4,171,13119
+193,"srun: error: nid00029: tasks 23-41,43-45: Aborted
+srun: error: nid00057: tasks 46-68: Aborted
+srun: error: nid00024: tasks 0-22: Aborted
+srun: error: nid00029: task 42: Aborted (core dumped)
+",7,1800,574,1227,3,23,193,89
+194,"srun: error: nid00054: tasks 32-36,38-63: Aborted
+slurmstepd: error: *** STEP 46000.0 ON nid00053 CANCELLED AT 2021-11-18T00:48:06 ***
+srun: error: nid00053: tasks 0-31: Aborted
+srun: error: nid00054: task 37: Aborted (core dumped)
+",37,1622,1774,499,2,32,194,140
+195,"srun: error: nid00055: tasks 0-18: Aborted
+slurmstepd: error: *** STEP 46011.0 ON nid00055 CANCELLED AT 2021-11-18T01:22:52 ***
+srun: error: nid00060: tasks 40-59: Aborted
+srun: error: nid00059: tasks 20-39: Aborted
+srun: error: nid00055: task 19: Aborted (core dumped)
+",34,1596,988,1208,3,20,195,64
+190,"srun: error: nid00057: tasks 0-2: Aborted
+slurmstepd: error: *** STEP 45984.0 ON nid00057 CANCELLED AT 2021-11-18T01:23:54 ***
+srun: error: nid00057: task 3: Aborted (core dumped)
+",6,1495,888,1157,1,4,190,15
+197,"srun: error: nid00055: tasks 0-2: Aborted
+slurmstepd: error: *** STEP 46017.0 ON nid00055 CANCELLED AT 2021-11-18T01:25:34 ***
+srun: error: nid00060: tasks 12-15: Aborted
+srun: error: nid00057: tasks 4-7: Aborted
+srun: error: nid00059: tasks 8-11: Aborted
+srun: error: nid00055: task 3: Aborted (core dumped)
+",2,2039,1526,285,4,4,197,15
+201,"srun: error: nid00055: task 0: Aborted
+slurmstepd: error: *** STEP 46025.0 ON nid00055 CANCELLED AT 2021-11-18T01:26:48 ***
+srun: error: nid00057: tasks 2-3: Aborted
+srun: error: nid00055: task 1: Aborted (core dumped)
+",44,1051,342,1986,2,2,201,11
+202,"srun: error: nid00055: tasks 0-3,5-18: Aborted
+slurmstepd: error: *** STEP 46029.0 ON nid00055 CANCELLED AT 2021-11-18T01:36:02 ***
+srun: error: nid00060: tasks 38-56: Aborted
+srun: error: nid00059: tasks 19-37: Aborted
+srun: error: nid00055: task 4: Aborted (core dumped)
+",42,753,574,1762,3,19,202,70
+204,"srun: error: nid00060: tasks 16-22: Aborted
+srun: error: nid00059: tasks 8-15: Aborted
+srun: error: nid00055: tasks 0-7: Aborted
+srun: error: nid00060: task 23: Aborted (core dumped)
+",45,834,541,1843,3,8,204,32
+196,"srun: error: nid00057: tasks 0-14,16: Aborted
+slurmstepd: error: *** STEP 46015.0 ON nid00057 CANCELLED AT 2021-11-18T01:37:40 ***
+srun: error: nid00057: task 15: Aborted (core dumped)
+",51,1801,911,1486,1,17,196,53
+198,"srun: error: nid00024: tasks 0-4,6-12: Aborted
+slurmstepd: error: *** STEP 46019.0 ON nid00024 CANCELLED AT 2021-11-18T01:57:21 ***
+srun: error: nid00024: task 5: Aborted (core dumped)
+",13,1944,1467,1695,1,13,198,43
+206,"srun: error: nid00024: tasks 0-19: Aborted
+slurmstepd: error: *** STEP 46043.0 ON nid00024 CANCELLED AT 2021-11-18T02:11:57 ***
+srun: error: nid00060: tasks 63-83: Aborted
+srun: error: nid00059: tasks 42-62: Aborted
+srun: error: nid00057: tasks 21-41: Aborted
+srun: error: nid00024: task 20: Aborted (core dumped)
+",10,525,1694,1397,4,21,206,80
+205,"srun: error: nid00059: tasks 12-16,18-23: Aborted
+slurmstepd: error: *** STEP 46041.0 ON nid00024 CANCELLED AT 2021-11-18T02:13:17 ***
+srun: error: nid00060: tasks 24-35: Aborted
+srun: error: nid00024: tasks 0-11: Aborted
+srun: error: nid00059: task 17: Aborted (core dumped)
+",50,1582,748,983,3,12,205,40
+199,"srun: error: nid00024: tasks 0,2-10: Aborted
+slurmstepd: error: *** STEP 46022.0 ON nid00024 CANCELLED AT 2021-11-18T02:13:58 ***
+srun: error: nid00024: task 1: Aborted (core dumped)
+",18,927,1437,763,1,11,199,43
+200,"srun: error: nid00057: tasks 0,2-14: Aborted
+slurmstepd: error: *** STEP 46023.0 ON nid00057 CANCELLED AT 2021-11-18T02:13:58 ***
+srun: error: nid00057: task 1: Aborted (core dumped)
+",5,1455,1751,1719,1,15,200,62
+207,"srun: error: nid00059: tasks 0-8,10-18: Aborted
+slurmstepd: error: *** STEP 46044.0 ON nid00059 CANCELLED AT 2021-11-18T02:13:59 ***
+srun: error: nid00060: tasks 19-37: Aborted
+srun: error: nid00059: task 9: Aborted (core dumped)
+",58,747,1965,579,2,19,207,78
+208,"srun: error: nid00059: task 2: Aborted
+srun: error: nid00024: tasks 0-1: Aborted
+srun: error: nid00060: tasks 4-5: Aborted
+srun: error: nid00059: task 3: Aborted (core dumped)
+",45,406,1470,638,3,2,208,12
+209,"srun: error: nid00060: tasks 18-25: Aborted
+srun: error: nid00024: tasks 0-8: Aborted
+srun: error: nid00059: tasks 9-17: Aborted
+srun: error: nid00060: task 26: Aborted (core dumped)
+",28,1430,1560,2006,3,9,209,33
+211,"srun: error: nid00029: tasks 0-4,6-9: Aborted
+slurmstepd: error: *** STEP 46051.0 ON nid00029 CANCELLED AT 2021-11-18T02:16:13 ***
+srun: error: nid00030: tasks 10-19: Aborted
+srun: error: nid00031: tasks 20-29: Aborted
+srun: error: nid00029: task 5: Aborted (core dumped)
+",3,435,1078,1612,3,10,211,38
+215,"srun: error: nid00030: tasks 13,15-25: Aborted
+srun: error: nid00029: tasks 0-12: Aborted
+srun: error: nid00031: tasks 26-38: Aborted
+srun: error: nid00059: tasks 39-51: Aborted
+srun: error: nid00030: task 14: Aborted (core dumped)
+",29,1270,1163,1331,4,13,215,45
+203,,31,1616,1756,371,1,2,203,7128
+220,"srun: error: nid00024: tasks 0-7,9: Aborted
+slurmstepd: error: *** STEP 46069.0 ON nid00024 CANCELLED AT 2021-11-18T05:04:22 ***
+srun: error: nid00028: tasks 30-39: Aborted
+srun: error: nid00027: tasks 20-29: Aborted
+srun: error: nid00026: tasks 10-19: Aborted
+srun: error: nid00024: task 8: Aborted (core dumped)
+",49,644,537,530,4,10,220,35
+161,,42,786,1272,1810,1,1,161,30650
+219,"srun: error: nid00020: tasks 0,2: Aborted
+slurmstepd: error: *** STEP 46068.0 ON nid00020 CANCELLED AT 2021-11-18T06:14:52 ***
+srun: error: nid00061: tasks 6-8: Aborted
+srun: error: nid00021: tasks 3-5: Aborted
+srun: error: nid00020: task 1: Aborted (core dumped)
+",13,928,445,470,3,3,219,17
+210,"srun: error: nid00061: tasks 0-1,3-29: Aborted
+slurmstepd: error: *** STEP 46050.0 ON nid00061 CANCELLED AT 2021-11-18T06:15:09 ***
+srun: error: nid00061: task 2: Aborted (core dumped)
+",17,981,516,1343,1,30,210,123
+221,"srun: error: nid00020: tasks 0-11,13-29: Aborted
+slurmstepd: error: *** STEP 46071.0 ON nid00020 CANCELLED AT 2021-11-18T06:15:10 ***
+srun: error: nid00021: tasks 30-59: Aborted
+srun: error: nid00020: task 12: Aborted (core dumped)
+",30,1195,1247,1544,2,30,221,128
+212,"srun: error: nid00061: tasks 0-7,9-14: Aborted
+slurmstepd: error: *** STEP 46052.0 ON nid00061 CANCELLED AT 2021-11-18T06:17:18 ***
+srun: error: nid00061: task 8: Aborted (core dumped)
+",50,949,654,515,1,15,212,57
+224,"srun: error: nid00054: tasks 11-12,14-21: Aborted
+slurmstepd: error: *** STEP 46080.0 ON nid00053 CANCELLED AT 2021-11-18T06:18:24 ***
+srun: error: nid00055: tasks 22-32: Aborted
+srun: error: nid00053: tasks 0-10: Aborted
+srun: error: nid00054: task 13: Aborted (core dumped)
+",48,931,1633,1401,3,11,224,41
+222,"srun: error: nid00021: tasks 28,30-55: Aborted
+srun: error: nid00020: tasks 0-27: Aborted
+srun: error: nid00021: task 29: Aborted (core dumped)
+",31,1766,890,1304,2,28,222,124
+214,"srun: error: nid00023: tasks 0-6,8-9: Aborted
+slurmstepd: error: *** STEP 46054.0 ON nid00023 CANCELLED AT 2021-11-18T06:18:58 ***
+srun: error: nid00023: task 7: Aborted (core dumped)
+",57,1857,376,1077,1,10,214,40
+216,"srun: error: nid00055: tasks 0-3,5-14: Aborted
+slurmstepd: error: *** STEP 46064.0 ON nid00055 CANCELLED AT 2021-11-18T06:19:06 ***
+srun: error: nid00055: task 4: Aborted (core dumped)
+",53,1367,1934,1880,1,15,216,64
+217,"srun: error: nid00054: tasks 0-1,3-17: Aborted
+slurmstepd: error: *** STEP 46066.0 ON nid00054 CANCELLED AT 2021-11-18T06:19:07 ***
+srun: error: nid00054: task 2: Aborted (core dumped)
+",51,297,930,460,1,18,217,72
+213,"srun: error: nid00061: tasks 0-20,22-28: Aborted
+slurmstepd: error: *** STEP 46053.0 ON nid00061 CANCELLED AT 2021-11-18T06:18:16 ***
+srun: error: nid00061: task 21: Aborted (core dumped)
+",13,1627,1292,1942,1,29,213,129
+225,"srun: error: nid00024: tasks 0-5,7-16: Aborted
+slurmstepd: error: *** STEP 46085.0 ON nid00024 CANCELLED AT 2021-11-18T06:19:32 ***
+srun: error: nid00027: tasks 34-50: Aborted
+srun: error: nid00026: tasks 17-33: Aborted
+srun: error: nid00028: tasks 51-67: Aborted
+srun: error: nid00024: task 6: Aborted (core dumped)
+",2,1518,652,662,4,17,225,70
+218,"srun: error: nid00058: tasks 0,2-19: Aborted
+slurmstepd: error: *** STEP 46067.0 ON nid00058 CANCELLED AT 2021-11-18T06:19:23 ***
+srun: error: nid00058: task 1: Aborted (core dumped)
+",7,1821,827,1730,1,20,218,84
+226,"srun: error: nid00021: tasks 0-24: Aborted
+slurmstepd: error: *** STEP 46086.0 ON nid00021 CANCELLED AT 2021-11-18T06:19:57 ***
+srun: error: nid00023: tasks 26-51: Aborted
+srun: error: nid00021: task 25: Aborted (core dumped)
+",28,1805,1696,1541,2,26,226,103
+227,"srun: error: nid00027: tasks 30-31,33-44: Aborted
+slurmstepd: error: *** STEP 46092.0 ON nid00024 CANCELLED AT 2021-11-18T06:20:43 ***
+srun: error: nid00024: tasks 0-14: Aborted
+srun: error: nid00028: tasks 45-59: Aborted
+srun: error: nid00026: tasks 15-29: Aborted
+srun: error: nid00027: task 32: Aborted (core dumped)
+",50,393,783,1171,4,15,227,57
+229,"srun: error: nid00028: task 4: Aborted
+slurmstepd: error: *** STEP 46094.0 ON nid00026 CANCELLED AT 2021-11-18T06:21:41 ***
+srun: error: nid00027: tasks 2-3: Aborted
+srun: error: nid00026: tasks 0-1: Aborted
+srun: error: nid00028: task 5: Aborted (core dumped)
+",57,1910,791,1807,3,2,229,12
+228,"srun: error: nid00058: tasks 45,47-59: Aborted
+srun: error: nid00056: tasks 30-44: Aborted
+srun: error: nid00054: tasks 0-14: Aborted
+srun: error: nid00055: tasks 15-29: Aborted
+srun: error: nid00058: task 46: Aborted (core dumped)
+",59,272,1551,644,4,15,228,54
+230,"srun: error: nid00024: tasks 0-13: Aborted
+srun: error: nid00056: tasks 45-59: Aborted
+srun: error: nid00055: tasks 30-44: Aborted
+srun: error: nid00054: tasks 15-29: Aborted
+slurmstepd: error: *** STEP 46097.0 ON nid00024 CANCELLED AT 2021-11-18T06:22:00 ***
+srun: error: nid00024: task 14: Aborted (core dumped)
+",25,366,783,632,4,15,230,53
+231,"srun: error: nid00024: tasks 0-20: Aborted
+slurmstepd: error: *** STEP 46098.0 ON nid00024 CANCELLED AT 2021-11-18T06:22:53 ***
+srun: error: nid00055: tasks 44-65: Aborted
+srun: error: nid00056: tasks 66-87: Aborted
+srun: error: nid00054: tasks 22-43: Aborted
+srun: error: nid00024: task 21: Aborted (core dumped)
+",35,1209,1925,701,4,22,231,74
+232,"srun: error: nid00026: tasks 0-4,6: Aborted
+slurmstepd: error: *** STEP 46104.0 ON nid00026 CANCELLED AT 2021-11-18T06:26:30 ***
+srun: error: nid00027: tasks 7-13: Aborted
+srun: error: nid00026: task 5: Aborted (core dumped)
+",16,431,1696,611,2,7,232,25
+223,"srun: error: nid00028: tasks 0-25: Aborted
+slurmstepd: error: *** STEP 46079.0 ON nid00028 CANCELLED AT 2021-11-18T06:25:53 ***
+srun: error: nid00028: task 26: Aborted (core dumped)
+",2,1628,407,963,1,27,223,101
+186,,57,696,1268,1305,1,1,186,23954
+233,"srun: error: nid00028: tasks 10-11,13-14: Aborted
+slurmstepd: error: *** STEP 46109.0 ON nid00022 CANCELLED AT 2021-11-18T06:33:53 ***
+srun: error: nid00027: tasks 5-9: Aborted
+srun: error: nid00022: tasks 0-4: Aborted
+srun: error: nid00028: task 12: Aborted (core dumped)
+",30,1057,1290,655,3,5,233,18
+234,"srun: error: nid00028: tasks 27-31,33-53: Aborted
+slurmstepd: error: *** STEP 46119.0 ON nid00022 CANCELLED AT 2021-11-18T06:36:07 ***
+srun: error: nid00022: tasks 0-26: Aborted
+srun: error: nid00028: task 32: Aborted (core dumped)
+",18,2020,1781,1418,2,27,234,96
+237,"srun: error: nid00021: tasks 0-15: Aborted
+slurmstepd: error: *** STEP 46122.0 ON nid00021 CANCELLED AT 2021-11-18T07:12:35 ***
+srun: error: nid00022: tasks 17-33: Aborted
+srun: error: nid00023: tasks 34-50: Aborted
+srun: error: nid00053: tasks 51-67: Aborted
+srun: error: nid00021: task 16: Aborted (core dumped)
+",10,1680,1784,1505,4,17,237,71
+235,"srun: error: nid00021: tasks 0-25: Aborted
+slurmstepd: error: *** STEP 46120.0 ON nid00021 CANCELLED AT 2021-11-18T07:13:46 ***
+srun: error: nid00022: tasks 27-53: Aborted
+srun: error: nid00023: tasks 54-80: Aborted
+srun: error: nid00021: task 26: Aborted (core dumped)
+",27,1622,1694,1470,3,27,235,106
+236,"srun: error: nid00021: tasks 0-22,24-25: Aborted
+slurmstepd: error: *** STEP 46121.0 ON nid00021 CANCELLED AT 2021-11-18T07:15:32 ***
+srun: error: nid00022: tasks 26-51: Aborted
+srun: error: nid00023: tasks 52-77: Aborted
+srun: error: nid00021: task 23: Aborted (core dumped)
+",8,1221,466,1400,3,26,236,103
+239,"srun: error: nid00022: tasks 6-8,10-11: Aborted
+srun: error: nid00021: tasks 0-5: Aborted
+srun: error: nid00022: task 9: Aborted (core dumped)
+",18,1293,767,1517,2,6,239,25
+238,"srun: error: nid00053: tasks 0,2-26: Aborted
+slurmstepd: error: *** STEP 46124.0 ON nid00053 CANCELLED AT 2021-11-18T07:17:17 ***
+srun: error: nid00061: tasks 27-53: Aborted
+srun: error: nid00053: task 1: Aborted (core dumped)
+",14,1320,398,426,2,27,238,111
+240,"srun: error: nid00023: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 46140.0 ON nid00023 CANCELLED AT 2021-11-18T08:52:57 ***
+srun: error: nid00024: tasks 6-11: Aborted
+srun: error: nid00056: tasks 18-23: Aborted
+srun: error: nid00053: tasks 12-17: Aborted
+srun: error: nid00023: task 4: Aborted (core dumped)
+",28,828,754,1841,4,6,240,29
+241,"srun: error: nid00053: tasks 34-39,41-50: Aborted
+srun: error: nid00023: tasks 0-16: Aborted
+srun: error: nid00024: tasks 17-33: Aborted
+srun: error: nid00053: task 40: Aborted (core dumped)
+",47,1043,927,1738,3,17,241,64
+243,"srun: error: nid00031: tasks 16-30: Aborted
+srun: error: nid00024: tasks 0-15: Aborted
+srun: error: nid00060: tasks 48-63: Aborted
+srun: error: nid00059: tasks 32-47: Aborted
+srun: error: nid00031: task 31: Aborted (core dumped)
+",64,1900,1444,380,4,16,243,60
+242,"srun: error: nid00031: tasks 0-1,3-8: Aborted
+srun: error: nid00053: tasks 9-17: Aborted
+slurmstepd: error: *** STEP 46152.0 ON nid00031 CANCELLED AT 2021-11-18T09:08:15 ***
+srun: error: nid00031: task 2: Aborted (core dumped)
+",8,917,1059,2023,2,9,242,35
+246,"srun: error: nid00059: tasks 0-4,6-12: Aborted
+slurmstepd: error: *** STEP 46160.0 ON nid00059 CANCELLED AT 2021-11-18T10:01:24 ***
+srun: error: nid00060: tasks 13-25: Aborted
+srun: error: nid00059: task 5: Aborted (core dumped)
+",31,725,1806,662,2,13,246,66
+247,"srun: error: nid00059: tasks 0-9,11-20: Aborted
+slurmstepd: error: *** STEP 46165.0 ON nid00059 CANCELLED AT 2021-11-18T10:03:37 ***
+srun: error: nid00060: tasks 21-41: Aborted
+srun: error: nid00059: task 10: Aborted (core dumped)
+",58,1977,812,427,2,21,247,99
+248,"srun: error: nid00054: tasks 0-24,26-30: Aborted
+srun: error: nid00059: tasks 62-92: Aborted
+srun: error: nid00055: tasks 31-61: Aborted
+srun: error: nid00060: tasks 93-123: Aborted
+slurmstepd: error: *** STEP 46166.0 ON nid00054 CANCELLED AT 2021-11-18T10:43:12 ***
+srun: error: nid00054: task 25: Aborted (core dumped)
+",9,713,1383,1777,4,31,248,160
+249,"srun: error: nid00060: tasks 75-78,80-99: Aborted
+slurmstepd: error: *** STEP 46168.0 ON nid00054 CANCELLED AT 2021-11-18T10:45:53 ***
+srun: error: nid00055: tasks 25-49: Aborted
+srun: error: nid00059: tasks 50-74: Aborted
+srun: error: nid00054: tasks 0-24: Aborted
+srun: error: nid00060: task 79: Aborted (core dumped)
+",8,955,1330,844,4,25,249,119
+244,"srun: error: nid00059: tasks 0-14,16: Aborted
+slurmstepd: error: *** STEP 46154.0 ON nid00059 CANCELLED AT 2021-11-18T10:56:19 ***
+srun: error: nid00059: task 15: Aborted (core dumped)
+",9,839,449,947,1,17,244,63
+245,"srun: error: nid00031: tasks 0-4,6-16: Aborted
+slurmstepd: error: *** STEP 46159.0 ON nid00031 CANCELLED AT 2021-11-18T11:00:44 ***
+srun: error: nid00031: task 5: Aborted (core dumped)
+",15,1460,1861,1577,1,17,245,65
+251,"srun: error: nid00031: tasks 12-14,16-23: Aborted
+srun: error: nid00023: tasks 0-11: Aborted
+srun: error: nid00031: task 15: Aborted (core dumped)
+",62,1910,650,838,2,12,251,43
+250,"srun: error: nid00053: tasks 0-4,6-10: Aborted
+slurmstepd: error: *** STEP 46177.0 ON nid00053 CANCELLED AT 2021-11-18T11:10:10 ***
+srun: error: nid00053: task 5: Aborted (core dumped)
+",37,1894,512,629,1,11,250,38
+253,"srun: error: nid00054: tasks 0,2-7: Aborted
+slurmstepd: error: *** STEP 46201.0 ON nid00054 CANCELLED AT 2021-11-18T12:14:50 ***
+srun: error: nid00055: tasks 8-15: Aborted
+srun: error: nid00057: tasks 16-23: Aborted
+srun: error: nid00054: task 1: Aborted (core dumped)
+",21,1751,829,694,3,8,253,33
+252,"srun: error: nid00054: tasks 0-2: Aborted
+slurmstepd: error: *** STEP 46193.0 ON nid00054 CANCELLED AT 2021-11-18T12:15:23 ***
+srun: error: nid00055: tasks 4-7: Aborted
+srun: error: nid00054: task 3: Aborted (core dumped)
+",19,822,1641,519,2,4,252,22
+254,"srun: error: nid00028: tasks 3-4: Aborted
+srun: error: nid00027: tasks 0-2: Aborted
+srun: error: nid00030: tasks 9-11: Aborted
+srun: error: nid00029: tasks 6-8: Aborted
+srun: error: nid00028: task 5: Aborted (core dumped)
+",39,2044,1545,534,4,3,254,18
+258,"srun: error: nid00029: tasks 36-52: Aborted
+slurmstepd: error: *** STEP 46217.0 ON nid00027 CANCELLED AT 2021-11-18T14:36:47 ***
+srun: error: nid00030: tasks 54-71: Aborted
+srun: error: nid00028: tasks 18-35: Aborted
+srun: error: nid00027: tasks 0-17: Aborted
+srun: error: nid00029: task 53: Aborted (core dumped)
+",42,1333,1367,1409,4,18,258,66
+255,"srun: error: nid00021: tasks 0-1,3-15: Aborted
+slurmstepd: error: *** STEP 46208.0 ON nid00021 CANCELLED AT 2021-11-18T14:38:54 ***
+srun: error: nid00022: tasks 16-31: Aborted
+srun: error: nid00021: task 2: Aborted (core dumped)
+",29,998,635,1194,2,16,255,57
+257,"srun: error: nid00021: tasks 0-1,3-4: Aborted
+slurmstepd: error: *** STEP 46215.0 ON nid00021 CANCELLED AT 2021-11-18T14:39:51 ***
+srun: error: nid00022: tasks 5-9: Aborted
+srun: error: nid00021: task 2: Aborted (core dumped)
+",25,687,1229,1249,2,5,257,24
+256,"srun: error: nid00055: tasks 0-16,18: Aborted
+slurmstepd: error: *** STEP 46212.0 ON nid00055 CANCELLED AT 2021-11-18T15:37:39 ***
+srun: error: nid00055: task 17: Aborted (core dumped)
+",38,625,1055,1442,1,19,256,71
+260,"srun: error: nid00055: tasks 30-41,43-44: Aborted
+srun: error: nid00053: tasks 0-14: Aborted
+srun: error: nid00054: tasks 15-29: Aborted
+srun: error: nid00055: task 42: Aborted (core dumped)
+",59,356,568,1594,3,15,260,72
+262,"srun: error: nid00053: tasks 0-16,18-19: Aborted
+slurmstepd: error: *** STEP 46239.0 ON nid00053 CANCELLED AT 2021-11-18T15:42:23 ***
+srun: error: nid00054: tasks 20-39: Aborted
+srun: error: nid00055: tasks 40-59: Aborted
+srun: error: nid00053: task 17: Aborted (core dumped)
+",43,526,815,918,3,20,262,80
+263,"srun: error: nid00021: tasks 0-18: Aborted
+slurmstepd: error: *** STEP 46240.0 ON nid00021 CANCELLED AT 2021-11-18T15:42:41 ***
+srun: error: nid00057: tasks 40-59: Aborted
+srun: error: nid00022: tasks 20-39: Aborted
+srun: error: nid00021: task 19: Aborted (core dumped)
+",11,1423,1868,284,3,20,263,81
+264,"srun: error: nid00053: tasks 0-2,4-6: Aborted
+slurmstepd: error: *** STEP 46241.0 ON nid00053 CANCELLED AT 2021-11-18T15:43:43 ***
+srun: error: nid00055: tasks 14-20: Aborted
+srun: error: nid00054: tasks 7-13: Aborted
+srun: error: nid00053: task 3: Aborted (core dumped)
+",46,1232,867,1202,3,7,264,29
+265,"srun: error: nid00057: tasks 27-30,32-35: Aborted
+srun: error: nid00053: tasks 0-8: Aborted
+srun: error: nid00054: tasks 9-17: Aborted
+srun: error: nid00055: tasks 18-26: Aborted
+srun: error: nid00057: task 31: Aborted (core dumped)
+",6,1125,526,1206,4,9,265,38
+266,"srun: error: nid00022: tasks 0-22,24-28: Aborted
+slurmstepd: error: *** STEP 46247.0 ON nid00022 CANCELLED AT 2021-11-18T15:44:51 ***
+srun: error: nid00053: tasks 29-57: Aborted
+srun: error: nid00054: tasks 58-86: Aborted
+srun: error: nid00055: tasks 87-115: Aborted
+srun: error: nid00022: task 23: Aborted (core dumped)
+",1,1366,1374,1966,4,29,266,118
+267,"srun: error: nid00054: tasks 15-28: Aborted
+slurmstepd: error: *** STEP 46249.0 ON nid00053 CANCELLED AT 2021-11-18T15:47:14 ***
+srun: error: nid00053: tasks 0-14: Aborted
+srun: error: nid00054: task 29: Aborted (core dumped)
+",6,559,477,2027,2,15,267,56
+261,"srun: error: nid00022: tasks 0-15,17-24: Aborted
+slurmstepd: error: *** STEP 46232.0 ON nid00022 CANCELLED AT 2021-11-18T15:48:10 ***
+srun: error: nid00022: task 16: Aborted (core dumped)
+",31,2020,1099,1968,1,25,261,103
+268,"srun: error: nid00054: tasks 27-33,35-53: Aborted
+slurmstepd: error: *** STEP 46252.0 ON nid00053 CANCELLED AT 2021-11-18T15:48:10 ***
+srun: error: nid00053: tasks 0-26: Aborted
+srun: error: nid00054: task 34: Aborted (core dumped)
+",57,1030,1066,1112,2,27,268,117
+270,"srun: error: nid00056: tasks 24-32,34-35: Aborted
+srun: error: nid00023: tasks 0-11: Aborted
+srun: error: nid00024: tasks 12-23: Aborted
+srun: error: nid00056: task 33: Aborted (core dumped)
+",21,361,1107,769,3,12,270,46
+271,"srun: error: nid00056: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46268.0 ON nid00056 CANCELLED AT 2021-11-18T17:13:18 ***
+srun: error: nid00057: tasks 4-7: Aborted
+srun: error: nid00060: tasks 8-11: Aborted
+srun: error: nid00056: task 2: Aborted (core dumped)
+",56,1192,459,1079,3,4,271,17
+275,"srun: error: nid00055: tasks 18-34: Aborted
+srun: error: nid00056: tasks 36-53: Aborted
+srun: error: nid00022: tasks 0-17: Aborted
+srun: error: nid00057: tasks 54-71: Aborted
+srun: error: nid00055: task 35: Aborted (core dumped)
+",11,1553,899,1238,4,18,275,76
+259,"srun: error: nid00029: task 10: Segmentation fault
+slurmstepd: error: *** STEP 46220.0 ON nid00027 CANCELLED AT 2021-11-18T14:39:11 ***
+srun: error: nid00030: task 14: Segmentation fault
+srun: error: nid00028: task 4: Segmentation fault
+srun: error: nid00028: tasks 5,7: Terminated
+srun: error: nid00027: tasks 0,2: Segmentation fault
+srun: error: nid00027: tasks 1,3: Terminated
+srun: error: nid00029: tasks 8-9,11: Terminated
+srun: error: nid00030: tasks 12-13,15: Terminated
+srun: error: nid00028: task 6: Segmentation fault (core dumped)
+",28,1608,2010,1785,4,4,259,12511
+276,"srun: error: nid00030: tasks 72-80,82-95: Aborted
+srun: error: nid00027: tasks 0-23: Aborted
+srun: error: nid00029: tasks 48-71: Aborted
+srun: error: nid00028: tasks 24-47: Aborted
+srun: error: nid00030: task 81: Aborted (core dumped)
+",11,1679,1949,1028,4,24,276,116
+274,"srun: error: nid00027: tasks 0,2-3: Aborted
+slurmstepd: error: *** STEP 46275.0 ON nid00027 CANCELLED AT 2021-11-18T18:08:21 ***
+srun: error: nid00028: tasks 4-7: Aborted
+srun: error: nid00029: tasks 8-11: Aborted
+srun: error: nid00027: task 1: Aborted (core dumped)
+",11,1324,1011,890,3,4,274,22
+277,"srun: error: nid00028: task 1: Aborted
+slurmstepd: error: *** STEP 46281.0 ON nid00027 CANCELLED AT 2021-11-18T18:08:43 ***
+srun: error: nid00027: task 0: Aborted (core dumped)
+",56,981,293,552,2,1,277,20
+269,"srun: error: nid00029: tasks 0-21,23-30: Aborted
+slurmstepd: error: *** STEP 46262.0 ON nid00029 CANCELLED AT 2021-11-18T18:09:53 ***
+srun: error: nid00029: task 22: Aborted (core dumped)
+",63,722,970,1259,1,31,269,135
+279,"srun: error: nid00056: tasks 21-38,40-41: Aborted
+srun: error: nid00055: tasks 0-20: Aborted
+srun: error: nid00056: task 39: Aborted (core dumped)
+",46,1611,635,523,2,21,279,89
+280,"srun: error: nid00022: tasks 0-2,4: Aborted
+slurmstepd: error: *** STEP 46289.0 ON nid00022 CANCELLED AT 2021-11-18T18:26:18 ***
+srun: error: nid00023: tasks 5-9: Aborted
+srun: error: nid00024: tasks 10-14: Aborted
+srun: error: nid00022: task 3: Aborted (core dumped)
+",61,1512,1476,1623,3,5,280,27
+273,"srun: error: nid00056: tasks 0-3,5-7: Aborted
+slurmstepd: error: *** STEP 46272.0 ON nid00056 CANCELLED AT 2021-11-18T18:26:17 ***
+srun: error: nid00056: task 4: Aborted (core dumped)
+",24,373,1402,1486,1,8,273,36
+272,"srun: error: nid00055: tasks 0-4,6-12: Aborted
+slurmstepd: error: *** STEP 46271.0 ON nid00055 CANCELLED AT 2021-11-18T18:26:17 ***
+srun: error: nid00055: task 5: Aborted (core dumped)
+",23,1301,336,737,1,13,272,54
+281,"srun: error: nid00022: tasks 0-3,5-10: Aborted
+slurmstepd: error: *** STEP 46291.0 ON nid00022 CANCELLED AT 2021-11-18T18:26:45 ***
+srun: error: nid00023: tasks 11-21: Aborted
+srun: error: nid00024: tasks 22-32: Aborted
+srun: error: nid00022: task 4: Aborted (core dumped)
+",24,1681,665,1521,3,11,281,46
+283,"srun: error: nid00020: tasks 0-3,5-13: Aborted
+slurmstepd: error: *** STEP 46299.0 ON nid00020 CANCELLED AT 2021-11-18T18:38:49 ***
+srun: error: nid00055: tasks 14-27: Aborted
+srun: error: nid00020: task 4: Aborted (core dumped)
+",8,960,980,667,2,14,283,57
+284,"srun: error: nid00055: tasks 6-9,11: Aborted
+slurmstepd: error: *** STEP 46301.0 ON nid00020 CANCELLED AT 2021-11-18T18:40:49 ***
+srun: error: nid00020: tasks 0-5: Aborted
+srun: error: nid00056: tasks 12-17: Aborted
+srun: error: nid00055: task 10: Aborted (core dumped)
+",10,885,310,1925,3,6,284,27
+282,"srun: error: nid00055: tasks 0-6,8-26: Aborted
+slurmstepd: error: *** STEP 46293.0 ON nid00055 CANCELLED AT 2021-11-18T18:42:04 ***
+srun: error: nid00055: task 7: Aborted (core dumped)
+",5,670,1755,1007,1,27,282,119
+287,"srun: error: nid00055: tasks 9-14,16-17: Aborted
+srun: error: nid00020: tasks 0-8: Aborted
+srun: error: nid00058: tasks 27-35: Aborted
+srun: error: nid00056: tasks 18-26: Aborted
+srun: error: nid00055: task 15: Aborted (core dumped)
+",33,893,1209,1661,4,9,287,36
+286,"srun: error: nid00055: tasks 0-9,11-15: Aborted
+srun: error: nid00056: tasks 16-31: Aborted
+slurmstepd: error: *** STEP 46306.0 ON nid00055 CANCELLED AT 2021-11-18T19:07:22 ***
+srun: error: nid00055: task 10: Aborted (core dumped)
+",54,1502,1664,985,2,16,286,61
+288,"srun: error: nid00020: tasks 0-13,15-21: Aborted
+slurmstepd: error: *** STEP 46311.0 ON nid00020 CANCELLED AT 2021-11-18T19:08:42 ***
+srun: error: nid00058: tasks 66-87: Aborted
+srun: error: nid00056: tasks 44-65: Aborted
+srun: error: nid00055: tasks 22-43: Aborted
+srun: error: nid00020: task 14: Aborted (core dumped)
+",5,1630,435,857,4,22,288,92
+285,"srun: error: nid00024: tasks 0,2-6: Aborted
+slurmstepd: error: *** STEP 46302.0 ON nid00024 CANCELLED AT 2021-11-18T19:52:31 ***
+srun: error: nid00024: task 1: Aborted (core dumped)
+",7,1773,1688,2011,1,7,285,26
+291,"srun: error: nid00025: tasks 29-51,53-57: Aborted
+slurmstepd: error: *** STEP 46318.0 ON nid00024 CANCELLED AT 2021-11-18T19:53:46 ***
+srun: error: nid00029: tasks 58-86: Aborted
+srun: error: nid00024: tasks 0-28: Aborted
+srun: error: nid00025: task 52: Aborted (core dumped)
+",62,439,740,1744,3,29,291,122
+293,"srun: error: nid00031: tasks 32-36,38-63: Aborted
+srun: error: nid00055: tasks 64-95: Aborted
+srun: error: nid00056: tasks 96-127: Aborted
+srun: error: nid00020: tasks 0-31: Aborted
+slurmstepd: error: *** STEP 46323.0 ON nid00020 CANCELLED AT 2021-11-18T20:01:45 ***
+srun: error: nid00031: task 37: Aborted (core dumped)
+",18,557,1750,1152,4,32,293,119
+278,,45,888,601,1766,2,1,278,8500
+294,"srun: error: nid00060: tasks 15-17,19-29: Aborted
+srun: error: nid00058: tasks 0-14: Aborted
+srun: error: nid00060: task 18: Aborted (core dumped)
+",54,2047,878,930,2,15,294,45
+295,"srun: error: nid00023: tasks 9-12,14-17: Aborted
+srun: error: nid00022: tasks 0-8: Aborted
+srun: error: nid00023: task 13: Aborted (core dumped)
+",29,820,940,467,2,9,295,41
+296,"srun: error: nid00028: tasks 24-27,29-47: Aborted
+srun: error: nid00058: tasks 48-71: Aborted
+srun: error: nid00027: tasks 0-23: Aborted
+srun: error: nid00060: tasks 72-95: Aborted
+srun: error: nid00028: task 28: Aborted (core dumped)
+",60,1911,1692,852,4,24,296,113
+289,"srun: error: nid00060: tasks 0-1: Aborted
+slurmstepd: error: *** STEP 46315.0 ON nid00060 CANCELLED AT 2021-11-18T21:08:26 ***
+srun: error: nid00060: task 2: Aborted (core dumped)
+",54,435,1577,1490,1,3,289,18
+298,"srun: error: nid00058: tasks 10-13: Aborted
+slurmstepd: error: *** STEP 46338.0 ON nid00022 CANCELLED AT 2021-11-18T21:08:55 ***
+srun: error: nid00060: tasks 15-19: Aborted
+srun: error: nid00022: tasks 0-4: Aborted
+srun: error: nid00023: tasks 5-9: Aborted
+srun: error: nid00058: task 14: Aborted (core dumped)
+",58,1804,1209,1475,4,5,298,27
+299,"srun: error: nid00022: tasks 0-24: Aborted
+srun: error: nid00023: tasks 26-51: Aborted
+srun: error: nid00060: tasks 78-103: Aborted
+srun: error: nid00058: tasks 52-77: Aborted
+slurmstepd: error: *** STEP 46339.0 ON nid00022 CANCELLED AT 2021-11-18T21:09:24 ***
+srun: error: nid00022: task 25: Aborted (core dumped)
+",58,947,1107,967,4,26,299,143
+300,"srun: error: nid00022: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46340.0 ON nid00022 CANCELLED AT 2021-11-18T21:11:47 ***
+srun: error: nid00023: tasks 4-7: Aborted
+srun: error: nid00022: task 2: Aborted (core dumped)
+",20,779,1613,1713,2,4,300,24
+290,"srun: error: nid00058: tasks 0-1,3-16: Aborted
+slurmstepd: error: *** STEP 46317.0 ON nid00058 CANCELLED AT 2021-11-18T21:11:47 ***
+srun: error: nid00058: task 2: Aborted (core dumped)
+",48,1098,1463,907,1,17,290,80
+292,,15,464,312,1508,1,2,292,664
+301,"srun: error: nid00058: tasks 44-50,52-65: Aborted
+srun: error: nid00022: tasks 0-21: Aborted
+srun: error: nid00060: tasks 66-87: Aborted
+srun: error: nid00023: tasks 22-43: Aborted
+srun: error: nid00058: task 51: Aborted (core dumped)
+",61,743,785,822,4,22,301,99
+302,"srun: error: nid00030: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46347.0 ON nid00030 CANCELLED AT 2021-11-18T22:05:06 ***
+srun: error: nid00053: tasks 4-7: Aborted
+srun: error: nid00054: tasks 8-11: Aborted
+srun: error: nid00030: task 2: Aborted (core dumped)
+",29,1832,1167,1402,3,4,302,24
+303,"srun: error: nid00055: tasks 54-61,63-80: Aborted
+srun: error: nid00054: tasks 27-53: Aborted
+srun: error: nid00053: tasks 0-26: Aborted
+srun: error: nid00056: tasks 81-107: Aborted
+srun: error: nid00055: task 62: Aborted (core dumped)
+",46,1653,1257,1422,4,27,303,131
+304,"srun: error: nid00056: tasks 33-41,43: Aborted
+slurmstepd: error: *** STEP 46351.0 ON nid00053 CANCELLED AT 2021-11-18T22:17:40 ***
+srun: error: nid00053: tasks 0-10: Aborted
+srun: error: nid00054: tasks 11-21: Aborted
+srun: error: nid00055: tasks 22-32: Aborted
+srun: error: nid00056: task 42: Aborted (core dumped)
+",37,1415,663,1055,4,11,304,48
+306,"srun: error: nid00053: tasks 0-2,4: Aborted
+slurmstepd: error: *** STEP 46358.0 ON nid00053 CANCELLED AT 2021-11-18T22:18:48 ***
+srun: error: nid00055: tasks 5-9: Aborted
+srun: error: nid00053: task 3: Aborted (core dumped)
+",59,733,1624,1890,2,5,306,26
+307,"srun: error: nid00030: tasks 0-9: Aborted
+slurmstepd: error: *** STEP 46361.0 ON nid00030 CANCELLED AT 2021-11-18T22:19:42 ***
+srun: error: nid00056: tasks 22-32: Aborted
+srun: error: nid00053: tasks 11-21: Aborted
+srun: error: nid00030: task 10: Aborted (core dumped)
+",36,828,1668,591,3,11,307,56
+297,"srun: error: nid00054: tasks 0-23,25: Aborted
+slurmstepd: error: *** STEP 46335.0 ON nid00054 CANCELLED AT 2021-11-18T22:18:28 ***
+srun: error: nid00054: task 24: Aborted (core dumped)
+",15,1182,603,1063,1,26,297,133
+308,"srun: error: nid00029: tasks 0-9,11-31: Aborted
+srun: error: nid00054: tasks 32-63: Aborted
+slurmstepd: error: *** STEP 46363.0 ON nid00029 CANCELLED AT 2021-11-18T22:20:53 ***
+srun: error: nid00029: task 10: Aborted (core dumped)
+",43,924,1647,394,2,32,308,218
+310,"srun: error: nid00030: tasks 0-2,4-22: Aborted
+slurmstepd: error: *** STEP 46372.0 ON nid00030 CANCELLED AT 2021-11-18T22:22:56 ***
+srun: error: nid00055: tasks 23-45: Aborted
+srun: error: nid00030: task 3: Aborted (core dumped)
+",39,818,426,1548,2,23,310,150
+312,"srun: error: nid00058: tasks 40-57,59: Aborted
+slurmstepd: error: *** STEP 46375.0 ON nid00022 CANCELLED AT 2021-11-18T22:29:25 ***
+srun: error: nid00022: tasks 0-19: Aborted
+srun: error: nid00023: tasks 20-39: Aborted
+srun: error: nid00058: task 58: Aborted (core dumped)
+",12,484,1381,1330,3,20,312,88
+313,"srun: error: nid00031: tasks 75-78,80-99: Aborted
+srun: error: nid00030: tasks 50-74: Aborted
+srun: error: nid00024: tasks 0-24: Aborted
+srun: error: nid00025: tasks 25-49: Aborted
+srun: error: nid00031: task 79: Aborted (core dumped)
+",22,1212,575,856,4,25,313,117
+314,"srun: error: nid00030: tasks 0-1,3-25: Aborted
+slurmstepd: error: *** STEP 46380.0 ON nid00030 CANCELLED AT 2021-11-18T22:31:22 ***
+srun: error: nid00031: tasks 26-51: Aborted
+srun: error: nid00030: task 2: Aborted (core dumped)
+",1,1998,424,1543,2,26,314,123
+315,"srun: error: nid00023: tasks 31-55,57-61: Aborted
+srun: error: nid00022: tasks 0-30: Aborted
+srun: error: nid00023: task 56: Aborted (core dumped)
+",18,641,1992,1436,2,31,315,126
+309,"srun: error: nid00023: tasks 0-25: Aborted
+slurmstepd: error: *** STEP 46367.0 ON nid00023 CANCELLED AT 2021-11-18T23:21:28 ***
+srun: error: nid00023: task 26: Aborted (core dumped)
+",55,1888,1114,858,1,27,309,102
+316,"srun: error: nid00057: tasks 15,17-29: Aborted
+slurmstepd: error: *** STEP 46394.0 ON nid00021 CANCELLED AT 2021-11-18T23:49:44 ***
+srun: error: nid00059: tasks 45-59: Aborted
+srun: error: nid00021: tasks 0-14: Aborted
+srun: error: nid00058: tasks 30-44: Aborted
+srun: error: nid00057: task 16: Aborted (core dumped)
+",11,1175,1198,1946,4,15,316,54
+317,"srun: error: nid00021: tasks 0-5,7-30: Aborted
+slurmstepd: error: *** STEP 46396.0 ON nid00021 CANCELLED AT 2021-11-18T23:50:38 ***
+srun: error: nid00058: tasks 62-92: Aborted
+srun: error: nid00059: tasks 93-123: Aborted
+srun: error: nid00057: tasks 31-61: Aborted
+srun: error: nid00021: task 6: Aborted (core dumped)
+",39,1975,1905,469,4,31,317,115
+311,"srun: error: nid00027: tasks 0-22: Aborted
+slurmstepd: error: *** STEP 46373.0 ON nid00027 CANCELLED AT 2021-11-18T23:52:33 ***
+srun: error: nid00027: task 23: Aborted (core dumped)
+",59,1284,1816,1568,1,24,311,85
+322,"srun: error: nid00027: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46410.0 ON nid00027 CANCELLED AT 2021-11-18T23:54:58 ***
+srun: error: nid00028: tasks 4-7: Aborted
+srun: error: nid00027: task 2: Aborted (core dumped)
+",38,1007,472,1241,2,4,322,22
+320,"srun: error: nid00025: tasks 15-27,29: Aborted
+slurmstepd: error: *** STEP 46408.0 ON nid00024 CANCELLED AT 2021-11-19T00:34:12 ***
+srun: error: nid00028: tasks 45-59: Aborted
+srun: error: nid00027: tasks 30-44: Aborted
+srun: error: nid00024: tasks 0-14: Aborted
+srun: error: nid00025: task 28: Aborted (core dumped)
+",42,738,1088,1687,4,15,320,60
+318,"srun: error: nid00023: tasks 5-7: Segmentation fault
+slurmstepd: error: *** STEP 46397.0 ON nid00022 CANCELLED AT 2021-11-18T23:23:49 ***
+srun: error: nid00022: tasks 0-1,3: Segmentation fault
+srun: error: nid00023: task 4: Segmentation fault
+srun: error: nid00022: task 2: Segmentation fault (core dumped)
+",50,1792,449,1299,2,4,318,4348
+321,"srun: error: nid00025: tasks 19-34,36-37: Aborted
+srun: error: nid00027: tasks 38-56: Aborted
+srun: error: nid00028: tasks 57-75: Aborted
+srun: error: nid00024: tasks 0-18: Aborted
+srun: error: nid00025: task 35: Aborted (core dumped)
+",23,2035,1402,355,4,19,321,83
+323,"srun: error: nid00024: tasks 26-30,32-38: Aborted
+srun: error: nid00022: tasks 0-12: Aborted
+srun: error: nid00023: tasks 13-25: Aborted
+srun: error: nid00025: tasks 39-51: Aborted
+srun: error: nid00024: task 31: Aborted (core dumped)
+",45,1329,1766,1499,4,13,323,56
+324,"srun: error: nid00022: tasks 0-19,21-31: Aborted
+slurmstepd: error: *** STEP 46416.0 ON nid00022 CANCELLED AT 2021-11-19T00:37:32 ***
+srun: error: nid00024: tasks 64-95: Aborted
+srun: error: nid00023: tasks 32-63: Aborted
+srun: error: nid00025: tasks 96-127: Aborted
+srun: error: nid00022: task 20: Aborted (core dumped)
+",20,1396,1747,738,4,32,324,144
+325,"srun: error: nid00023: tasks 26-49,51: Aborted
+slurmstepd: error: *** STEP 46417.0 ON nid00022 CANCELLED AT 2021-11-19T00:39:56 ***
+srun: error: nid00024: tasks 52-77: Aborted
+srun: error: nid00025: tasks 78-103: Aborted
+srun: error: nid00022: tasks 0-25: Aborted
+srun: error: nid00023: task 50: Aborted (core dumped)
+",26,863,2040,1512,4,26,325,113
+326,"srun: error: nid00030: tasks 0-6,8-17: Aborted
+slurmstepd: error: *** STEP 46421.0 ON nid00030 CANCELLED AT 2021-11-19T00:55:53 ***
+srun: error: nid00031: tasks 18-35: Aborted
+srun: error: nid00030: task 7: Aborted (core dumped)
+",47,2019,830,1877,2,18,326,79
+329,"srun: error: nid00054: task 2: Aborted
+srun: error: nid00027: task 0: Aborted
+srun: error: nid00053: task 1: Aborted
+srun: error: nid00055: task 3: Aborted (core dumped)
+",27,1256,463,567,4,1,329,13
+319,"srun: error: nid00029: task 10: Aborted
+slurmstepd: error: *** STEP 46407.0 ON nid00029 CANCELLED AT 2021-11-19T01:33:17 ***
+srun: error: nid00029: tasks 0-9,11-19,21-26: Terminated
+srun: error: nid00029: task 20: Aborted (core dumped)
+",12,1287,323,1199,1,27,319,629
+305,,42,873,979,818,1,1,305,12207
+330,"srun: error: nid00059: tasks 50-57,59-74: Aborted
+srun: error: nid00058: tasks 25-49: Aborted
+srun: error: nid00057: tasks 0-24: Aborted
+srun: error: nid00059: task 58: Aborted (core dumped)
+",50,559,966,731,3,25,330,101
+331,"srun: error: nid00059: tasks 93-110,112-123: Aborted
+srun: error: nid00058: tasks 62-92: Aborted
+srun: error: nid00056: tasks 0-30: Aborted
+srun: error: nid00057: tasks 31-61: Aborted
+srun: error: nid00059: task 111: Aborted (core dumped)
+",22,650,856,404,4,31,331,134
+332,"srun: error: nid00059: tasks 27-35,37-53: Aborted
+slurmstepd: error: *** STEP 46446.0 ON nid00058 CANCELLED AT 2021-11-19T02:17:53 ***
+srun: error: nid00058: tasks 0-26: Aborted
+srun: error: nid00059: task 36: Aborted (core dumped)
+",43,1077,423,626,2,27,332,117
+333,"srun: error: nid00059: tasks 18-34: Aborted
+srun: error: nid00058: tasks 0-17: Aborted
+srun: error: nid00059: task 35: Aborted (core dumped)
+",35,639,581,1452,2,18,333,78
+334,"srun: error: nid00053: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 46452.0 ON nid00053 CANCELLED AT 2021-11-19T02:26:45 ***
+srun: error: nid00059: tasks 18-23: Aborted
+srun: error: nid00058: tasks 12-17: Aborted
+srun: error: nid00054: tasks 6-11: Aborted
+srun: error: nid00053: task 4: Aborted (core dumped)
+",25,1276,1079,1977,4,6,334,25
+336,"srun: error: nid00053: tasks 0-3,5-24: Aborted
+srun: error: nid00058: tasks 50-74: Aborted
+srun: error: nid00054: tasks 25-49: Aborted
+slurmstepd: error: *** STEP 46455.0 ON nid00053 CANCELLED AT 2021-11-19T02:27:12 ***
+srun: error: nid00053: task 4: Aborted (core dumped)
+",21,1799,1680,829,3,25,336,106
+338,"srun: error: nid00025: tasks 0-16,18-30: Aborted
+srun: error: nid00061: tasks 93-123: Aborted
+srun: error: nid00060: tasks 62-92: Aborted
+srun: error: nid00059: tasks 31-61: Aborted
+slurmstepd: error: *** STEP 46460.0 ON nid00025 CANCELLED AT 2021-11-19T02:33:02 ***
+srun: error: nid00025: task 17: Aborted (core dumped)
+",7,815,1846,1777,4,31,338,142
+339,"srun: error: nid00025: tasks 0-3,5-15: Aborted
+slurmstepd: error: *** STEP 46461.0 ON nid00025 CANCELLED AT 2021-11-19T02:35:24 ***
+srun: error: nid00061: tasks 16-31: Aborted
+srun: error: nid00025: task 4: Aborted (core dumped)
+",12,1591,1433,1938,2,16,339,63
+340,"srun: error: nid00061: tasks 29-30,32-57: Aborted
+slurmstepd: error: *** STEP 46462.0 ON nid00025 CANCELLED AT 2021-11-19T02:36:27 ***
+srun: error: nid00025: tasks 0-28: Aborted
+srun: error: nid00061: task 31: Aborted (core dumped)
+",40,1899,1094,1085,2,29,340,132
+341,"srun: error: nid00025: tasks 0-3,5-15: Aborted
+slurmstepd: error: *** STEP 46463.0 ON nid00025 CANCELLED AT 2021-11-19T02:39:54 ***
+srun: error: nid00028: tasks 16-31: Aborted
+srun: error: nid00061: tasks 32-47: Aborted
+srun: error: nid00025: task 4: Aborted (core dumped)
+",30,848,511,1727,3,16,341,67
+342,"srun: error: nid00025: tasks 0,2-4: Aborted
+slurmstepd: error: *** STEP 46464.0 ON nid00025 CANCELLED AT 2021-11-19T02:41:01 ***
+srun: error: nid00028: tasks 5-9: Aborted
+srun: error: nid00061: tasks 10-14: Aborted
+srun: error: nid00025: task 1: Aborted (core dumped)
+",7,269,1035,1620,3,5,342,24
+343,"srun: error: nid00021: tasks 0-4,6-9: Aborted
+srun: error: nid00030: tasks 10-19: Aborted
+srun: error: nid00031: tasks 20-29: Aborted
+slurmstepd: error: *** STEP 46467.0 ON nid00021 CANCELLED AT 2021-11-19T02:49:39 ***
+srun: error: nid00021: task 5: Aborted (core dumped)
+",63,657,323,1246,3,10,343,43
+328,"srun: error: nid00021: tasks 0-16: Aborted
+slurmstepd: error: *** STEP 46430.0 ON nid00021 CANCELLED AT 2021-11-19T02:50:22 ***
+srun: error: nid00021: task 17: Aborted (core dumped)
+",14,916,1432,1469,1,18,328,61
+345,"srun: error: nid00054: tasks 75-98: Aborted
+slurmstepd: error: *** STEP 46472.0 ON nid00030 CANCELLED AT 2021-11-19T02:51:59 ***
+srun: error: nid00053: tasks 50-74: Aborted
+srun: error: nid00030: tasks 0-24: Aborted
+srun: error: nid00031: tasks 25-49: Aborted
+srun: error: nid00054: task 99: Aborted (core dumped)
+",4,297,1178,1478,4,25,345,103
+346,"srun: error: nid00031: tasks 16-22: Aborted
+srun: error: nid00021: tasks 0-7: Aborted
+srun: error: nid00030: tasks 8-15: Aborted
+srun: error: nid00031: task 23: Aborted (core dumped)
+",56,1054,1903,1738,3,8,346,33
+344,"srun: error: nid00053: tasks 0-23,25: Aborted
+slurmstepd: error: *** STEP 46471.0 ON nid00053 CANCELLED AT 2021-11-19T02:53:42 ***
+srun: error: nid00054: tasks 26-51: Aborted
+srun: error: nid00053: task 24: Aborted (core dumped)
+",61,1126,830,1155,2,26,344,98
+347,"srun: error: nid00053: tasks 58-72,74-86: Aborted
+srun: error: nid00030: tasks 0-28: Aborted
+srun: error: nid00054: tasks 87-115: Aborted
+srun: error: nid00031: tasks 29-57: Aborted
+srun: error: nid00053: task 73: Aborted (core dumped)
+",5,1576,1043,1435,4,29,347,112
+348,"srun: error: nid00023: tasks 31-59,61: Aborted
+slurmstepd: error: *** STEP 46481.0 ON nid00022 CANCELLED AT 2021-11-19T03:51:23 ***
+srun: error: nid00024: tasks 62-92: Aborted
+srun: error: nid00022: tasks 0-30: Aborted
+srun: error: nid00023: task 60: Aborted (core dumped)
+",37,1279,692,984,3,31,348,126
+335,"srun: error: nid00058: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46453.0 ON nid00058 CANCELLED AT 2021-11-19T04:20:48 ***
+srun: error: nid00058: task 2: Aborted (core dumped)
+",9,1582,547,1279,1,4,335,16
+350,"srun: error: nid00023: tasks 20-21,23-39: Aborted
+srun: error: nid00054: tasks 60-79: Aborted
+srun: error: nid00022: tasks 0-19: Aborted
+srun: error: nid00024: tasks 40-59: Aborted
+srun: error: nid00023: task 22: Aborted (core dumped)
+",18,673,1792,1335,4,20,350,78
+337,"srun: error: nid00058: tasks 0-3: Aborted
+slurmstepd: error: *** STEP 46456.0 ON nid00058 CANCELLED AT 2021-11-19T04:21:28 ***
+srun: error: nid00058: task 4: Aborted (core dumped)
+",22,269,521,696,1,5,337,22
+352,"srun: error: nid00054: tasks 42-55,57-62: Aborted
+slurmstepd: error: *** STEP 46501.0 ON nid00021 CANCELLED AT 2021-11-19T04:28:00 ***
+srun: error: nid00053: tasks 21-41: Aborted
+srun: error: nid00021: tasks 0-20: Aborted
+srun: error: nid00054: task 56: Aborted (core dumped)
+",13,1148,1984,1389,3,21,352,79
+353,"srun: error: nid00023: tasks 0,2-27: Aborted
+slurmstepd: error: *** STEP 46503.0 ON nid00023 CANCELLED AT 2021-11-19T04:35:00 ***
+srun: error: nid00053: tasks 56-83: Aborted
+srun: error: nid00054: tasks 84-111: Aborted
+srun: error: nid00024: tasks 28-55: Aborted
+srun: error: nid00023: task 1: Aborted (core dumped)
+",11,408,891,2029,4,28,353,116
+349,"srun: error: nid00053: tasks 0-1,3-5: Aborted
+slurmstepd: error: *** STEP 46487.0 ON nid00053 CANCELLED AT 2021-11-19T04:36:56 ***
+srun: error: nid00053: task 2: Aborted (core dumped)
+",46,693,1796,598,1,6,349,23
+356,"srun: error: nid00058: tasks 22-27,29-43: Aborted
+srun: error: nid00021: tasks 0-21: Aborted
+srun: error: nid00058: task 28: Aborted (core dumped)
+",32,1335,422,1530,2,22,356,87
+359,"srun: error: nid00056: tasks 0,2-3: Aborted
+slurmstepd: error: *** STEP 46517.0 ON nid00056 CANCELLED AT 2021-11-19T04:56:21 ***
+srun: error: nid00057: tasks 4-7: Aborted
+srun: error: nid00058: tasks 8-11: Aborted
+srun: error: nid00056: task 1: Aborted (core dumped)
+",27,1327,540,1074,3,4,359,24
+351,"srun: error: nid00021: tasks 0-11: Aborted
+slurmstepd: error: *** STEP 46496.0 ON nid00021 CANCELLED AT 2021-11-19T05:00:18 ***
+srun: error: nid00021: task 12: Aborted (core dumped)
+",64,1902,877,396,1,13,351,46
+358,"srun: error: nid00053: tasks 0-24,26: Aborted
+slurmstepd: error: *** STEP 46516.0 ON nid00053 CANCELLED AT 2021-11-19T05:00:18 ***
+srun: error: nid00054: tasks 27-53: Aborted
+srun: error: nid00053: task 25: Aborted (core dumped)
+",62,843,525,1763,2,27,358,103
+361,"srun: error: nid00056: tasks 0-4,6-31: Aborted
+srun: error: nid00058: tasks 64-95: Aborted
+srun: error: nid00057: tasks 32-63: Aborted
+slurmstepd: error: *** STEP 46522.0 ON nid00056 CANCELLED AT 2021-11-19T05:02:36 ***
+srun: error: nid00056: task 5: Aborted (core dumped)
+",38,1787,1015,940,3,32,361,125
+364,"srun: error: nid00056: tasks 0-13,15: Aborted
+slurmstepd: error: *** STEP 46526.0 ON nid00056 CANCELLED AT 2021-11-19T05:04:42 ***
+srun: error: nid00058: tasks 32-47: Aborted
+srun: error: nid00057: tasks 16-31: Aborted
+srun: error: nid00056: task 14: Aborted (core dumped)
+",34,344,1188,541,3,16,364,59
+354,"srun: error: nid00058: tasks 0-21,23-30: Aborted
+slurmstepd: error: *** STEP 46506.0 ON nid00058 CANCELLED AT 2021-11-19T05:35:57 ***
+srun: error: nid00058: task 22: Aborted (core dumped)
+",48,992,1843,1801,1,31,354,110
+355,"srun: error: nid00058: tasks 0-3,5-13: Aborted
+slurmstepd: error: *** STEP 46509.0 ON nid00058 CANCELLED AT 2021-11-19T05:37:57 ***
+srun: error: nid00058: task 4: Aborted (core dumped)
+",54,1168,1232,1946,1,14,355,44
+357,"srun: error: nid00058: tasks 0-3,5-18: Aborted
+slurmstepd: error: *** STEP 46514.0 ON nid00058 CANCELLED AT 2021-11-19T05:39:57 ***
+srun: error: nid00058: task 4: Aborted (core dumped)
+",41,1363,1248,1423,1,19,357,64
+366,"srun: error: nid00060: tasks 50-73: Aborted
+srun: error: nid00058: tasks 0-24: Aborted
+srun: error: nid00059: tasks 25-49: Aborted
+srun: error: nid00060: task 74: Aborted (core dumped)
+",19,475,985,1068,3,25,366,98
+367,"srun: error: nid00058: tasks 0-4,6-13: Aborted
+slurmstepd: error: *** STEP 46540.0 ON nid00058 CANCELLED AT 2021-11-19T07:29:00 ***
+srun: error: nid00059: tasks 14-27: Aborted
+srun: error: nid00060: tasks 28-41: Aborted
+srun: error: nid00058: task 5: Aborted (core dumped)
+",52,1578,423,1896,3,14,367,48
+363,"srun: error: nid00022: tasks 0-4,6-31: Aborted
+slurmstepd: error: *** STEP 46524.0 ON nid00022 CANCELLED AT 2021-11-19T07:29:17 ***
+srun: error: nid00022: task 5: Aborted (core dumped)
+",23,1342,681,1053,1,32,363,115
+371,"srun: error: nid00027: tasks 12-15,17-23: Aborted
+slurmstepd: error: *** STEP 46549.0 ON nid00022 CANCELLED AT 2021-11-19T07:49:28 ***
+srun: error: nid00029: tasks 24-35: Aborted
+srun: error: nid00022: tasks 0-11: Aborted
+srun: error: nid00027: task 16: Aborted (core dumped)
+",32,1004,405,1780,3,12,371,41
+372,"srun: error: nid00029: tasks 46,48-68: Aborted
+srun: error: nid00027: tasks 23-45: Aborted
+srun: error: nid00022: tasks 0-22: Aborted
+srun: error: nid00029: task 47: Aborted (core dumped)
+",33,1494,1517,1483,3,23,372,75
+370,"srun: error: nid00027: tasks 25-33,35-49: Aborted
+slurmstepd: error: *** STEP 46548.0 ON nid00022 CANCELLED AT 2021-11-19T07:51:24 ***
+srun: error: nid00022: tasks 0-24: Aborted
+srun: error: nid00027: task 34: Aborted (core dumped)
+",1,1068,598,1191,2,25,370,88
+373,"srun: error: nid00027: tasks 14-24,26-27: Aborted
+slurmstepd: error: *** STEP 46554.0 ON nid00022 CANCELLED AT 2021-11-19T07:52:52 ***
+srun: error: nid00022: tasks 0-13: Aborted
+srun: error: nid00027: task 25: Aborted (core dumped)
+",34,806,1862,932,2,14,373,43
+377,"srun: error: nid00022: tasks 0-3,5-20: Aborted
+slurmstepd: error: *** STEP 46559.0 ON nid00022 CANCELLED AT 2021-11-19T08:15:43 ***
+srun: error: nid00027: tasks 42-62: Aborted
+srun: error: nid00052: tasks 63-83: Aborted
+srun: error: nid00026: tasks 21-41: Aborted
+srun: error: nid00022: task 4: Aborted (core dumped)
+",50,1974,715,1504,4,21,377,84
+378,"srun: error: nid00026: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46560.0 ON nid00026 CANCELLED AT 2021-11-19T08:21:52 ***
+srun: error: nid00027: tasks 4-7: Aborted
+srun: error: nid00026: task 2: Aborted (core dumped)
+",49,609,1274,1246,2,4,378,20
+369,"srun: error: nid00022: tasks 0-17,19: Aborted
+slurmstepd: error: *** STEP 46547.0 ON nid00022 CANCELLED AT 2021-11-19T08:22:15 ***
+srun: error: nid00022: task 18: Aborted (core dumped)
+",56,416,1127,564,1,20,369,81
+365,"srun: error: nid00052: tasks 0-25,27-28: Aborted
+slurmstepd: error: *** STEP 46538.0 ON nid00052 CANCELLED AT 2021-11-19T08:22:04 ***
+srun: error: nid00052: task 26: Aborted (core dumped)
+",50,1789,1372,1934,1,29,365,131
+374,"srun: error: nid00022: tasks 0-4,6-10: Aborted
+slurmstepd: error: *** STEP 46555.0 ON nid00022 CANCELLED AT 2021-11-19T08:23:37 ***
+srun: error: nid00022: task 5: Aborted (core dumped)
+",59,729,737,991,1,11,374,41
+368,"srun: error: nid00026: tasks 0-2,4-31: Aborted
+slurmstepd: error: *** STEP 46542.0 ON nid00026 CANCELLED AT 2021-11-19T08:22:12 ***
+srun: error: nid00026: task 3: Aborted (core dumped)
+",15,1612,719,749,1,32,368,142
+375,"srun: error: nid00022: tasks 0-7,9-10: Aborted
+slurmstepd: error: *** STEP 46557.0 ON nid00022 CANCELLED AT 2021-11-19T08:24:19 ***
+srun: error: nid00022: task 8: Aborted (core dumped)
+",5,2012,2006,1148,1,11,375,41
+376,"srun: error: nid00026: tasks 0-4,6-27: Aborted
+slurmstepd: error: *** STEP 46558.0 ON nid00026 CANCELLED AT 2021-11-19T08:24:35 ***
+srun: error: nid00026: task 5: Aborted (core dumped)
+",7,1869,1883,295,1,28,376,110
+360,,8,2015,636,1242,1,1,360,5465
+327,"srun: error: nid00020: task 0: Aborted (core dumped)
+",48,1576,1899,755,1,1,327,42308
+362,"srun: error: nid00021: task 0: Aborted (core dumped)
+",13,1334,1719,1059,1,1,362,43800
+381,"srun: error: nid00052: tasks 0-9: Aborted
+slurmstepd: error: *** STEP 46629.0 ON nid00052 CANCELLED AT 2021-11-21T21:32:57 ***
+srun: error: nid00053: tasks 11-21: Aborted
+srun: error: nid00054: tasks 22-32: Aborted
+srun: error: nid00052: task 10: Aborted (core dumped)
+",6,267,1383,1210,3,11,381,40
+388,"srun: error: nid00054: tasks 33-35,37-43: Aborted
+slurmstepd: error: *** STEP 46646.0 ON nid00031 CANCELLED AT 2021-11-21T21:33:37 ***
+srun: error: nid00052: tasks 11-21: Aborted
+srun: error: nid00053: tasks 22-32: Aborted
+srun: error: nid00031: tasks 0-10: Aborted
+srun: error: nid00054: task 36: Aborted (core dumped)
+",37,1717,954,1412,4,11,388,38
+380,"srun: error: nid00023: tasks 75,77-99: Aborted
+srun: error: nid00020: tasks 0-24: Aborted
+srun: error: nid00022: tasks 50-74: Aborted
+srun: error: nid00021: tasks 25-49: Aborted
+srun: error: nid00023: task 76: Aborted (core dumped)
+",23,495,1322,938,4,25,380,98
+383,"srun: error: nid00028: tasks 0-22,24-25: Aborted
+slurmstepd: error: *** STEP 46632.0 ON nid00028 CANCELLED AT 2021-11-21T21:32:57 ***
+srun: error: nid00029: tasks 26-51: Aborted
+srun: error: nid00030: tasks 52-77: Aborted
+srun: error: nid00028: task 23: Aborted (core dumped)
+",61,465,1585,523,3,26,383,98
+385,"srun: error: nid00023: tasks 0-2,4-5: Aborted
+slurmstepd: error: *** STEP 46638.0 ON nid00023 CANCELLED AT 2021-11-21T21:34:32 ***
+srun: error: nid00061: tasks 12-17: Aborted
+srun: error: nid00060: tasks 6-11: Aborted
+srun: error: nid00023: task 3: Aborted (core dumped)
+",64,1393,1602,1193,3,6,385,24
+390,"srun: error: nid00054: tasks 69-78,80-91: Aborted
+srun: error: nid00053: tasks 46-68: Aborted
+srun: error: nid00031: tasks 0-22: Aborted
+srun: error: nid00052: tasks 23-45: Aborted
+srun: error: nid00054: task 79: Aborted (core dumped)
+",27,1981,1099,279,4,23,390,81
+387,"srun: error: nid00030: tasks 54-73,75-80: Aborted
+srun: error: nid00028: tasks 0-26: Aborted
+srun: error: nid00029: tasks 27-53: Aborted
+srun: error: nid00030: task 74: Aborted (core dumped)
+",19,1477,1266,1616,3,27,387,98
+384,"srun: error: nid00030: task 0: Aborted
+slurmstepd: error: *** STEP 46635.0 ON nid00030 CANCELLED AT 2021-11-21T21:36:13 ***
+srun: error: nid00031: tasks 2-3: Aborted
+srun: error: nid00030: task 1: Aborted (core dumped)
+",40,433,1891,286,2,2,384,11
+391,"srun: error: nid00052: tasks 0,2-25: Aborted
+slurmstepd: error: *** STEP 46651.0 ON nid00052 CANCELLED AT 2021-11-21T21:35:37 ***
+srun: error: nid00053: tasks 26-51: Aborted
+srun: error: nid00054: tasks 52-77: Aborted
+srun: error: nid00052: task 1: Aborted (core dumped)
+",50,2011,597,1565,3,26,391,89
+394,"srun: error: nid00053: tasks 29-56: Aborted
+slurmstepd: error: *** STEP 46656.0 ON nid00052 CANCELLED AT 2021-11-21T21:37:06 ***
+srun: error: nid00052: tasks 0-28: Aborted
+srun: error: nid00054: tasks 58-86: Aborted
+srun: error: nid00053: task 57: Aborted (core dumped)
+",63,502,1244,1403,3,29,394,114
+393,"srun: error: nid00055: tasks 10-16,18-19: Aborted
+srun: error: nid00054: tasks 0-9: Aborted
+srun: error: nid00055: task 17: Aborted (core dumped)
+",53,608,1602,1749,2,10,393,34
+392,"srun: error: nid00029: tasks 28-33,35-55: Aborted
+slurmstepd: error: *** STEP 46652.0 ON nid00028 CANCELLED AT 2021-11-21T21:43:53 ***
+srun: error: nid00028: tasks 0-27: Aborted
+srun: error: nid00029: task 34: Aborted (core dumped)
+",28,683,1066,1283,2,28,392,99
+395,"srun: error: nid00054: tasks 0-4,6-31: Aborted
+slurmstepd: error: *** STEP 46658.0 ON nid00054 CANCELLED AT 2021-11-21T21:44:29 ***
+srun: error: nid00055: tasks 32-63: Aborted
+srun: error: nid00054: task 5: Aborted (core dumped)
+",53,626,1952,1504,2,32,395,121
+382,"srun: error: nid00059: tasks 0-24: Aborted
+slurmstepd: error: *** STEP 46631.0 ON nid00059 CANCELLED AT 2021-11-21T21:51:36 ***
+srun: error: nid00059: task 25: Aborted (core dumped)
+",64,1232,1700,1842,1,26,382,87
+396,"srun: error: nid00056: tasks 29,31-57: Aborted
+srun: error: nid00055: tasks 0-28: Aborted
+srun: error: nid00057: tasks 58-86: Aborted
+srun: error: nid00056: task 30: Aborted (core dumped)
+",49,1534,1896,566,3,29,396,104
+386,"srun: error: nid00059: tasks 0-6,8-23: Aborted
+slurmstepd: error: *** STEP 46640.0 ON nid00059 CANCELLED AT 2021-11-21T21:54:06 ***
+srun: error: nid00059: task 7: Aborted (core dumped)
+",40,944,2035,2011,1,24,386,71
+389,"srun: error: nid00059: tasks 0-2,4-10: Aborted
+slurmstepd: error: *** STEP 46647.0 ON nid00059 CANCELLED AT 2021-11-21T22:24:36 ***
+srun: error: nid00059: task 3: Aborted (core dumped)
+",49,1551,899,1897,1,11,389,30
+398,,32,1164,954,1266,3,3,398,2518
+397,"srun: error: nid00056: tasks 26-30,32-51: Aborted
+slurmstepd: error: *** STEP 46669.0 ON nid00055 CANCELLED AT 2021-11-21T22:35:20 ***
+srun: error: nid00055: tasks 0-25: Aborted
+srun: error: nid00056: task 31: Aborted (core dumped)
+",9,628,346,1451,2,26,397,87
+402,"srun: error: nid00056: tasks 25-26,28-49: Aborted
+srun: error: nid00055: tasks 0-24: Aborted
+srun: error: nid00057: tasks 50-74: Aborted
+srun: error: nid00056: task 27: Aborted (core dumped)
+",60,570,1298,2047,3,25,402,84
+400,"srun: error: nid00056: tasks 10,12-19: Aborted
+srun: error: nid00055: tasks 0-9: Aborted
+srun: error: nid00056: task 11: Aborted (core dumped)
+",4,1627,548,886,2,10,400,34
+399,"srun: error: nid00052: tasks 0-19,21-24: Aborted
+slurmstepd: error: *** STEP 46677.0 ON nid00052 CANCELLED AT 2021-11-21T23:07:37 ***
+srun: error: nid00052: task 20: Aborted (core dumped)
+",43,1349,2005,1926,1,25,399,84
+404,"srun: error: nid00053: tasks 26,28-38: Aborted
+slurmstepd: error: *** STEP 46698.0 ON nid00023 CANCELLED AT 2021-11-21T23:15:14 ***
+srun: error: nid00052: tasks 13-25: Aborted
+srun: error: nid00023: tasks 0-12: Aborted
+srun: error: nid00053: task 27: Aborted (core dumped)
+",12,851,327,324,3,13,404,39
+406,"srun: error: nid00023: tasks 0-21,23-25: Aborted
+slurmstepd: error: *** STEP 46705.0 ON nid00023 CANCELLED AT 2021-11-21T23:15:53 ***
+srun: error: nid00053: tasks 52-77: Aborted
+srun: error: nid00052: tasks 26-51: Aborted
+srun: error: nid00023: task 22: Aborted (core dumped)
+",14,1710,980,1157,3,26,406,91
+401,"srun: error: nid00022: task 0: Aborted
+slurmstepd: error: *** STEP 46684.0 ON nid00022 CANCELLED AT 2021-11-21T23:17:36 ***
+srun: error: nid00022: task 1: Aborted (core dumped)
+",33,643,970,314,1,2,401,9
+407,"srun: error: nid00053: tasks 20-25,27-29: Aborted
+srun: error: nid00023: tasks 0-9: Aborted
+srun: error: nid00052: tasks 10-19: Aborted
+srun: error: nid00053: task 26: Aborted (core dumped)
+",40,1953,1725,289,3,10,407,33
+409,"srun: error: nid00052: tasks 0-7,9-16: Aborted
+slurmstepd: error: *** STEP 46709.0 ON nid00052 CANCELLED AT 2021-11-21T23:17:58 ***
+srun: error: nid00053: tasks 17-33: Aborted
+srun: error: nid00052: task 8: Aborted (core dumped)
+",26,623,532,1891,2,17,409,55
+405,"srun: error: nid00020: tasks 0-21,23-26: Aborted
+slurmstepd: error: *** STEP 46702.0 ON nid00020 CANCELLED AT 2021-11-21T23:17:37 ***
+srun: error: nid00021: tasks 27-53: Aborted
+srun: error: nid00020: task 22: Aborted (core dumped)
+",5,842,1126,615,2,27,405,95
+410,"srun: error: nid00020: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46711.0 ON nid00020 CANCELLED AT 2021-11-21T23:19:12 ***
+srun: error: nid00021: tasks 4-7: Aborted
+srun: error: nid00020: task 2: Aborted (core dumped)
+",39,486,1922,1153,2,4,410,15
+412,"srun: error: nid00020: tasks 0-27: Aborted
+slurmstepd: error: *** STEP 46715.0 ON nid00020 CANCELLED AT 2021-11-21T23:23:42 ***
+srun: error: nid00021: tasks 29-57: Aborted
+srun: error: nid00028: tasks 58-86: Aborted
+srun: error: nid00029: tasks 87-115: Aborted
+srun: error: nid00020: task 28: Aborted (core dumped)
+",24,1555,1826,578,4,29,412,92
+408,"srun: error: nid00020: tasks 0-12,14-17: Aborted
+slurmstepd: error: *** STEP 46708.0 ON nid00020 CANCELLED AT 2021-11-21T23:27:37 ***
+srun: error: nid00020: task 13: Aborted (core dumped)
+",43,1154,1597,1549,1,18,408,48
+403,,59,470,273,1905,1,5,403,1402
+411,"srun: error: nid00060: tasks 0-14,16-20: Aborted
+slurmstepd: error: *** STEP 46712.0 ON nid00060 CANCELLED AT 2021-11-22T00:02:38 ***
+srun: error: nid00060: task 15: Aborted (core dumped)
+",58,1541,1484,1006,1,21,411,70
+413,"srun: error: nid00022: tasks 0-17,19-24: Aborted
+slurmstepd: error: *** STEP 46717.0 ON nid00022 CANCELLED AT 2021-11-22T00:02:58 ***
+srun: error: nid00022: task 18: Aborted (core dumped)
+",59,1461,1919,1032,1,25,413,90
+414,"srun: error: nid00020: tasks 0-3,5-25: Aborted
+slurmstepd: error: *** STEP 46735.0 ON nid00020 CANCELLED AT 2021-11-22T00:13:24 ***
+srun: error: nid00022: tasks 26-51: Aborted
+srun: error: nid00057: tasks 52-77: Aborted
+srun: error: nid00020: task 4: Aborted (core dumped)
+",3,1011,1548,607,3,26,414,91
+415,"srun: error: nid00061: tasks 24,26-47: Aborted
+slurmstepd: error: *** STEP 46739.0 ON nid00057 CANCELLED AT 2021-11-22T00:14:56 ***
+srun: error: nid00057: tasks 0-23: Aborted
+srun: error: nid00061: task 25: Aborted (core dumped)
+",52,946,446,375,2,24,415,86
+416,"srun: error: nid00020: tasks 0-5,7-14: Aborted
+slurmstepd: error: *** STEP 46741.0 ON nid00020 CANCELLED AT 2021-11-22T00:16:42 ***
+srun: error: nid00022: tasks 15-29: Aborted
+srun: error: nid00020: task 6: Aborted (core dumped)
+",39,942,304,1351,2,15,416,50
+417,"srun: error: nid00057: tasks 0-25,27-29: Aborted
+slurmstepd: error: *** STEP 46743.0 ON nid00057 CANCELLED AT 2021-11-22T00:17:23 ***
+srun: error: nid00061: tasks 30-59: Aborted
+srun: error: nid00057: task 26: Aborted (core dumped)
+",36,1415,308,1059,2,30,417,112
+418,"srun: error: nid00057: tasks 40-43,45-59: Aborted
+slurmstepd: error: *** STEP 46746.0 ON nid00028 CANCELLED AT 2021-11-22T00:23:25 ***
+srun: error: nid00029: tasks 20-39: Aborted
+srun: error: nid00028: tasks 0-19: Aborted
+srun: error: nid00059: tasks 60-79: Aborted
+srun: error: nid00057: task 44: Aborted (core dumped)
+",30,1002,1527,838,4,20,418,59
+419,"srun: error: nid00028: tasks 0-3,5-16: Aborted
+slurmstepd: error: *** STEP 46747.0 ON nid00028 CANCELLED AT 2021-11-22T00:24:24 ***
+srun: error: nid00029: tasks 17-33: Aborted
+srun: error: nid00057: tasks 34-50: Aborted
+srun: error: nid00059: tasks 51-67: Aborted
+srun: error: nid00028: task 4: Aborted (core dumped)
+",56,1619,1008,1171,4,17,419,47
+420,"srun: error: nid00029: tasks 8-13,15: Aborted
+slurmstepd: error: *** STEP 46748.0 ON nid00028 CANCELLED AT 2021-11-22T00:25:11 ***
+srun: error: nid00059: tasks 24-31: Aborted
+srun: error: nid00057: tasks 16-23: Aborted
+srun: error: nid00028: tasks 0-7: Aborted
+srun: error: nid00029: task 14: Aborted (core dumped)
+",29,545,1001,918,4,8,420,23
+422,"srun: error: nid00029: tasks 14-18,20-27: Aborted
+slurmstepd: error: *** STEP 46755.0 ON nid00028 CANCELLED AT 2021-11-22T00:30:05 ***
+srun: error: nid00057: tasks 28-41: Aborted
+srun: error: nid00028: tasks 0-13: Aborted
+srun: error: nid00029: task 19: Aborted (core dumped)
+",59,1705,1403,1095,3,14,422,42
+424,"srun: error: nid00028: tasks 0-16,18-23: Aborted
+slurmstepd: error: *** STEP 46758.0 ON nid00028 CANCELLED AT 2021-11-22T00:30:47 ***
+srun: error: nid00029: tasks 24-47: Aborted
+srun: error: nid00057: tasks 48-71: Aborted
+srun: error: nid00059: tasks 72-95: Aborted
+srun: error: nid00028: task 17: Aborted (core dumped)
+",3,979,1032,1935,4,24,424,74
+425,"srun: error: nid00029: tasks 23-30,32-45: Aborted
+slurmstepd: error: *** STEP 46759.0 ON nid00028 CANCELLED AT 2021-11-22T00:32:01 ***
+srun: error: nid00059: tasks 69-91: Aborted
+srun: error: nid00028: tasks 0-22: Aborted
+srun: error: nid00057: tasks 46-68: Aborted
+srun: error: nid00029: task 31: Aborted (core dumped)
+",47,1784,1747,1857,4,23,425,68
+423,"srun: error: nid00057: tasks 64-78,80-95: Aborted
+slurmstepd: error: *** STEP 46757.0 ON nid00028 CANCELLED AT 2021-11-22T00:33:09 ***
+srun: error: nid00028: tasks 0-31: Aborted
+srun: error: nid00029: tasks 32-63: Aborted
+srun: error: nid00057: task 79: Aborted (core dumped)
+",35,1926,1044,1093,3,32,423,110
+426,"srun: error: nid00028: tasks 0-1,3-29: Aborted
+slurmstepd: error: *** STEP 46764.0 ON nid00028 CANCELLED AT 2021-11-22T00:35:54 ***
+srun: error: nid00029: tasks 30-59: Aborted
+srun: error: nid00057: tasks 60-89: Aborted
+srun: error: nid00028: task 2: Aborted (core dumped)
+",33,338,1030,429,3,30,426,108
+427,"srun: error: nid00057: task 0: Aborted
+srun: error: nid00059: task 1: Aborted (core dumped)
+",36,563,718,557,2,1,427,8
+429,"srun: error: nid00057: tasks 64-68,70-95: Aborted
+srun: error: nid00053: tasks 32-63: Aborted
+srun: error: nid00052: tasks 0-31: Aborted
+srun: error: nid00057: task 69: Aborted (core dumped)
+",31,377,1183,610,3,32,429,116
+421,"srun: error: nid00052: tasks 0-4,6-16: Aborted
+slurmstepd: error: *** STEP 46754.0 ON nid00052 CANCELLED AT 2021-11-22T00:57:07 ***
+srun: error: nid00052: task 5: Aborted (core dumped)
+",20,1434,801,1383,1,17,421,49
+428,"srun: error: nid00060: tasks 0-11,13-15: Aborted
+slurmstepd: error: *** STEP 46767.0 ON nid00060 CANCELLED AT 2021-11-22T01:27:16 ***
+srun: error: nid00060: task 12: Aborted (core dumped)
+",47,1405,1811,1665,1,16,428,47
+432,"srun: error: nid00054: tasks 0-1: Aborted
+slurmstepd: error: *** STEP 46782.0 ON nid00054 CANCELLED AT 2021-11-22T01:28:31 ***
+srun: error: nid00055: tasks 3-5: Aborted
+srun: error: nid00054: task 2: Aborted (core dumped)
+",45,2020,1310,1331,2,3,432,12
+430,"srun: error: nid00025: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46775.0 ON nid00025 CANCELLED AT 2021-11-22T01:52:03 ***
+srun: error: nid00025: task 2: Aborted (core dumped)
+",55,467,1753,660,1,4,430,14
+434,"srun: error: nid00027: tasks 39-46,48-51: Aborted
+slurmstepd: error: *** STEP 46789.0 ON nid00021 CANCELLED AT 2021-11-22T02:15:21 ***
+srun: error: nid00026: tasks 26-38: Aborted
+srun: error: nid00024: tasks 13-25: Aborted
+srun: error: nid00021: tasks 0-12: Aborted
+srun: error: nid00027: task 47: Aborted (core dumped)
+",47,1196,1983,1213,4,13,434,48
+435,"srun: error: nid00024: tasks 21-34,36-41: Aborted
+slurmstepd: error: *** STEP 46792.0 ON nid00021 CANCELLED AT 2021-11-22T02:16:09 ***
+srun: error: nid00026: tasks 42-62: Aborted
+srun: error: nid00027: tasks 63-83: Aborted
+srun: error: nid00021: tasks 0-20: Aborted
+srun: error: nid00024: task 35: Aborted (core dumped)
+",21,438,809,2048,4,21,435,83
+431,"srun: error: nid00024: tasks 0-16,18: Aborted
+slurmstepd: error: *** STEP 46781.0 ON nid00024 CANCELLED AT 2021-11-22T02:17:32 ***
+srun: error: nid00024: task 17: Aborted (core dumped)
+",50,1357,1273,723,1,19,431,68
+433,"srun: error: nid00024: tasks 0-4,6-27: Aborted
+slurmstepd: error: *** STEP 46784.0 ON nid00024 CANCELLED AT 2021-11-22T02:18:40 ***
+srun: error: nid00024: task 5: Aborted (core dumped)
+",61,1639,1057,2015,1,28,433,116
+436,"srun: error: nid00030: tasks 0-4,6-26: Aborted
+slurmstepd: error: *** STEP 46796.0 ON nid00030 CANCELLED AT 2021-11-22T02:40:37 ***
+srun: error: nid00031: tasks 27-53: Aborted
+srun: error: nid00030: task 5: Aborted (core dumped)
+",5,1510,386,807,2,27,436,120
+437,"srun: error: nid00025: tasks 0-20,22-23: Aborted
+slurmstepd: error: *** STEP 46798.0 ON nid00025 CANCELLED AT 2021-11-22T02:44:14 ***
+srun: error: nid00031: tasks 48-71: Aborted
+srun: error: nid00030: tasks 24-47: Aborted
+srun: error: nid00057: tasks 72-95: Aborted
+srun: error: nid00025: task 21: Aborted (core dumped)
+",10,1727,1492,1658,4,24,437,89
+438,"srun: error: nid00030: tasks 17,19-33: Aborted
+srun: error: nid00025: tasks 0-16: Aborted
+srun: error: nid00031: tasks 34-50: Aborted
+srun: error: nid00057: tasks 51-67: Aborted
+srun: error: nid00030: task 18: Aborted (core dumped)
+",3,1494,549,919,4,17,438,59
+439,"srun: error: nid00030: tasks 28-49,51-55: Aborted
+srun: error: nid00025: tasks 0-27: Aborted
+srun: error: nid00031: tasks 56-83: Aborted
+srun: error: nid00030: task 50: Aborted (core dumped)
+",37,862,1112,1400,3,28,439,101
+440,"srun: error: nid00020: tasks 0-3,5-6: Aborted
+slurmstepd: error: *** STEP 46809.0 ON nid00020 CANCELLED AT 2021-11-22T03:20:48 ***
+srun: error: nid00022: tasks 7-13: Aborted
+srun: error: nid00020: task 4: Aborted (core dumped)
+",20,539,346,1569,2,7,440,26
+441,"srun: error: nid00020: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 46812.0 ON nid00020 CANCELLED AT 2021-11-22T03:21:14 ***
+srun: error: nid00022: tasks 4-7: Aborted
+srun: error: nid00025: tasks 8-11: Aborted
+srun: error: nid00020: task 2: Aborted (core dumped)
+",10,1273,1602,1740,3,4,441,21
+443,"srun: error: nid00023: tasks 0-1,3-5: Aborted
+slurmstepd: error: *** STEP 46816.0 ON nid00023 CANCELLED AT 2021-11-22T03:34:59 ***
+srun: error: nid00030: tasks 6-11: Aborted
+srun: error: nid00057: tasks 18-23: Aborted
+srun: error: nid00031: tasks 12-17: Aborted
+srun: error: nid00023: task 2: Aborted (core dumped)
+",4,738,484,1313,4,6,443,21
+444,"srun: error: nid00057: tasks 42-47,49-55: Aborted
+slurmstepd: error: *** STEP 46819.0 ON nid00023 CANCELLED AT 2021-11-22T03:35:21 ***
+srun: error: nid00030: tasks 14-27: Aborted
+srun: error: nid00023: tasks 0-13: Aborted
+srun: error: nid00031: tasks 28-41: Aborted
+srun: error: nid00057: task 48: Aborted (core dumped)
+",57,1606,711,541,4,14,444,48
+445,"srun: error: nid00030: tasks 14-19,21-27: Aborted
+slurmstepd: error: *** STEP 46823.0 ON nid00020 CANCELLED AT 2021-11-22T04:12:15 ***
+srun: error: nid00031: tasks 28-41: Aborted
+srun: error: nid00020: tasks 0-13: Aborted
+srun: error: nid00030: task 20: Aborted (core dumped)
+",31,1669,1770,345,3,14,445,45
+446,"srun: error: nid00020: tasks 0-2,4-28: Aborted
+slurmstepd: error: *** STEP 46825.0 ON nid00020 CANCELLED AT 2021-11-22T04:13:13 ***
+srun: error: nid00030: tasks 29-57: Aborted
+srun: error: nid00031: tasks 58-86: Aborted
+srun: error: nid00020: task 3: Aborted (core dumped)
+",56,1272,1926,1212,3,29,446,101
+448,"srun: error: nid00031: tasks 22-27,29-32: Aborted
+slurmstepd: error: *** STEP 46831.0 ON nid00020 CANCELLED AT 2021-11-22T04:20:01 ***
+srun: error: nid00030: tasks 11-21: Aborted
+srun: error: nid00020: tasks 0-10: Aborted
+srun: error: nid00031: task 28: Aborted (core dumped)
+",29,1450,1213,1944,3,11,448,35
+447,"srun: error: nid00030: tasks 0-2,4-8: Aborted
+slurmstepd: error: *** STEP 46829.0 ON nid00030 CANCELLED AT 2021-11-22T04:20:37 ***
+srun: error: nid00031: tasks 9-17: Aborted
+srun: error: nid00030: task 3: Aborted (core dumped)
+",44,458,1986,1160,2,9,447,31
+449,"srun: error: nid00031: tasks 9-15,17: Aborted
+slurmstepd: error: *** STEP 46833.0 ON nid00030 CANCELLED AT 2021-11-22T04:21:08 ***
+srun: error: nid00030: tasks 0-8: Aborted
+srun: error: nid00031: task 16: Aborted (core dumped)
+",64,1359,580,800,2,9,449,30
+450,"srun: error: nid00031: tasks 16-18,20-31: Aborted
+slurmstepd: error: *** STEP 46835.0 ON nid00030 CANCELLED AT 2021-11-22T04:22:14 ***
+srun: error: nid00030: tasks 0-15: Aborted
+srun: error: nid00031: task 19: Aborted (core dumped)
+",11,1978,1740,1862,2,16,450,57
+451,"srun: error: nid00030: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 46837.0 ON nid00030 CANCELLED AT 2021-11-22T04:23:12 ***
+srun: error: nid00031: tasks 6-11: Aborted
+srun: error: nid00030: task 4: Aborted (core dumped)
+",60,1884,1251,1656,2,6,451,22
+442,"srun: error: nid00057: tasks 0,2-10: Aborted
+slurmstepd: error: *** STEP 46815.0 ON nid00057 CANCELLED AT 2021-11-22T04:26:04 ***
+srun: error: nid00057: task 1: Aborted (core dumped)
+",3,1064,977,1530,1,11,442,37
+452,"srun: error: nid00028: tasks 0-23,25-28: Aborted
+slurmstepd: error: *** STEP 46838.0 ON nid00028 CANCELLED AT 2021-11-22T04:26:05 ***
+srun: error: nid00030: tasks 58-86: Aborted
+srun: error: nid00029: tasks 29-57: Aborted
+srun: error: nid00028: task 24: Aborted (core dumped)
+",57,1017,1887,1594,3,29,452,102
+454,"srun: error: nid00020: tasks 0-17,19-25: Aborted
+slurmstepd: error: *** STEP 46850.0 ON nid00020 CANCELLED AT 2021-11-22T04:55:14 ***
+srun: error: nid00022: tasks 26-51: Aborted
+srun: error: nid00057: tasks 52-77: Aborted
+srun: error: nid00020: task 18: Aborted (core dumped)
+",8,375,1922,1515,3,26,454,109
+455,"srun: error: nid00020: tasks 0-8,10-16: Aborted
+slurmstepd: error: *** STEP 46852.0 ON nid00020 CANCELLED AT 2021-11-22T04:57:03 ***
+srun: error: nid00022: tasks 17-33: Aborted
+srun: error: nid00020: task 9: Aborted (core dumped)
+",61,715,343,1804,2,17,455,57
+453,"srun: error: nid00057: tasks 0-2,4-24: Aborted
+slurmstepd: error: *** STEP 46839.0 ON nid00057 CANCELLED AT 2021-11-22T04:57:03 ***
+srun: error: nid00057: task 3: Aborted (core dumped)
+",27,893,459,466,1,25,453,85
+457,"srun: error: nid00054: tasks 11-15,17-21: Aborted
+srun: error: nid00022: tasks 0-10: Aborted
+srun: error: nid00057: tasks 22-32: Aborted
+srun: error: nid00054: task 16: Aborted (core dumped)
+",2,1782,1759,1828,3,11,457,35
+458,"srun: error: nid00057: tasks 0-18,20-25: Aborted
+slurmstepd: error: *** STEP 46860.0 ON nid00057 CANCELLED AT 2021-11-22T05:39:45 ***
+srun: error: nid00058: tasks 26-51: Aborted
+srun: error: nid00057: task 19: Aborted (core dumped)
+",50,836,544,1416,2,26,458,88
+461,"srun: error: nid00060: tasks 19-35,37: Aborted
+srun: error: nid00020: tasks 0-18: Aborted
+srun: error: nid00061: tasks 38-56: Aborted
+srun: error: nid00060: task 36: Aborted (core dumped)
+",28,324,1226,587,3,19,461,66
+460,"srun: error: nid00060: tasks 0-1,3-6: Aborted
+slurmstepd: error: *** STEP 46871.0 ON nid00060 CANCELLED AT 2021-11-22T07:08:04 ***
+srun: error: nid00061: tasks 7-13: Aborted
+srun: error: nid00060: task 2: Aborted (core dumped)
+",21,1418,1367,649,2,7,460,28
+462,"srun: error: nid00060: tasks 0,2-4: Aborted
+slurmstepd: error: *** STEP 46875.0 ON nid00060 CANCELLED AT 2021-11-22T07:08:32 ***
+srun: error: nid00061: tasks 5-9: Aborted
+srun: error: nid00060: task 1: Aborted (core dumped)
+",35,711,1045,1623,2,5,462,19
+456,"srun: error: nid00061: tasks 0-2,4-13: Aborted
+slurmstepd: error: *** STEP 46853.0 ON nid00061 CANCELLED AT 2021-11-22T07:09:10 ***
+srun: error: nid00061: task 3: Aborted (core dumped)
+",12,414,645,950,1,14,456,44
+465,"srun: error: nid00058: tasks 60-66,68-89: Aborted
+slurmstepd: error: *** STEP 46882.0 ON nid00025 CANCELLED AT 2021-11-22T07:15:14 ***
+srun: error: nid00025: tasks 0-29: Aborted
+srun: error: nid00057: tasks 30-59: Aborted
+srun: error: nid00058: task 67: Aborted (core dumped)
+",12,463,1859,954,3,30,465,120
+459,"srun: error: nid00061: tasks 0-11,13-18: Aborted
+slurmstepd: error: *** STEP 46862.0 ON nid00061 CANCELLED AT 2021-11-22T07:16:44 ***
+srun: error: nid00061: task 12: Aborted (core dumped)
+",28,1711,1532,522,1,19,459,66
+468,"srun: error: nid00025: tasks 0-22,24-27: Aborted
+slurmstepd: error: *** STEP 46890.0 ON nid00025 CANCELLED AT 2021-11-22T07:24:39 ***
+srun: error: nid00059: tasks 28-55: Aborted
+srun: error: nid00061: tasks 56-83: Aborted
+srun: error: nid00025: task 23: Aborted (core dumped)
+",62,1471,1133,1754,3,28,468,96
+467,"srun: error: nid00022: tasks 0-4,6-7: Aborted
+slurmstepd: error: *** STEP 46889.0 ON nid00022 CANCELLED AT 2021-11-22T07:30:40 ***
+srun: error: nid00023: tasks 8-15: Aborted
+srun: error: nid00022: task 5: Aborted (core dumped)
+",10,1531,1413,1036,2,8,467,24
+466,"srun: error: nid00053: tasks 0-1,3-11: Aborted
+slurmstepd: error: *** STEP 46884.0 ON nid00053 CANCELLED AT 2021-11-22T07:37:39 ***
+srun: error: nid00053: task 2: Aborted (core dumped)
+",50,1028,1895,1323,1,12,466,35
+463,"srun: error: nid00054: tasks 0,2,8,12,14,18: Aborted
+srun: error: nid00054: tasks 1,3,9,13,15,19: Bus error
+slurmstepd: error: *** STEP 46879.0 ON nid00054 CANCELLED AT 2021-11-22T07:37:39 ***
+srun: error: nid00054: tasks 6-7,10,16: Segmentation fault
+srun: error: nid00054: task 5: Terminated
+srun: error: nid00054: tasks 11,17: Segmentation fault
+srun: error: nid00054: task 4: Aborted (core dumped)
+",51,1970,424,261,1,20,463,334
+471,"srun: error: nid00053: tasks 14-24,26-27: Aborted
+slurmstepd: error: *** STEP 46901.0 ON nid00052 CANCELLED AT 2021-11-22T07:43:09 ***
+srun: error: nid00052: tasks 0-13: Aborted
+srun: error: nid00061: tasks 42-55: Aborted
+srun: error: nid00054: tasks 28-41: Aborted
+srun: error: nid00053: task 25: Aborted (core dumped)
+",45,699,1900,1513,4,14,471,38
+472,"srun: error: nid00061: tasks 69-70,72-91: Aborted
+srun: error: nid00052: tasks 0-22: Aborted
+srun: error: nid00054: tasks 46-68: Aborted
+srun: error: nid00053: tasks 23-45: Aborted
+srun: error: nid00061: task 71: Aborted (core dumped)
+",17,1609,1849,1160,4,23,472,75
+474,"srun: error: nid00052: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 46905.0 ON nid00052 CANCELLED AT 2021-11-22T07:45:04 ***
+srun: error: nid00054: tasks 12-17: Aborted
+srun: error: nid00053: tasks 6-11: Aborted
+srun: error: nid00052: task 4: Aborted (core dumped)
+",28,1324,987,1359,3,6,474,22
+475,"srun: error: nid00054: tasks 0-4,6-7: Aborted
+slurmstepd: error: *** STEP 46906.0 ON nid00054 CANCELLED AT 2021-11-22T07:45:27 ***
+srun: error: nid00061: tasks 8-15: Aborted
+srun: error: nid00054: task 5: Aborted (core dumped)
+",49,1487,473,508,2,8,475,27
+476,"srun: error: nid00057: task 1: Aborted
+srun: error: nid00054: task 0: Aborted
+srun: error: nid00058: task 2: Aborted (core dumped)
+",43,1640,1789,665,3,1,476,7
+477,"srun: error: nid00058: tasks 46-51,53-68: Aborted
+srun: error: nid00054: tasks 0-22: Aborted
+srun: error: nid00057: tasks 23-45: Aborted
+srun: error: nid00058: task 52: Aborted (core dumped)
+",18,262,488,1688,3,23,477,73
+469,"srun: error: nid00061: tasks 0-29: Aborted
+slurmstepd: error: *** STEP 46894.0 ON nid00061 CANCELLED AT 2021-11-22T08:03:09 ***
+srun: error: nid00061: task 30: Aborted (core dumped)
+",58,1125,1376,988,1,31,469,90
+480,"srun: error: nid00052: tasks 0-20,22-26: Aborted
+slurmstepd: error: *** STEP 46916.0 ON nid00052 CANCELLED AT 2021-11-22T08:05:58 ***
+srun: error: nid00053: tasks 27-53: Aborted
+srun: error: nid00061: tasks 81-107: Aborted
+srun: error: nid00054: tasks 54-80: Aborted
+srun: error: nid00052: task 21: Aborted (core dumped)
+",22,2028,265,1175,4,27,480,81
+481,"srun: error: nid00061: tasks 30-37,39: Aborted
+slurmstepd: error: *** STEP 46917.0 ON nid00052 CANCELLED AT 2021-11-22T08:07:20 ***
+srun: error: nid00053: tasks 10-19: Aborted
+srun: error: nid00054: tasks 20-29: Aborted
+srun: error: nid00052: tasks 0-9: Aborted
+srun: error: nid00061: task 38: Aborted (core dumped)
+",17,1181,1842,284,4,10,481,26
+482,"srun: error: nid00054: tasks 32-42,44-47: Aborted
+srun: error: nid00052: tasks 0-15: Aborted
+srun: error: nid00053: tasks 16-31: Aborted
+srun: error: nid00054: task 43: Aborted (core dumped)
+",63,787,1109,1043,3,16,482,47
+483,"srun: error: nid00053: task 1: Aborted
+slurmstepd: error: *** STEP 46920.0 ON nid00052 CANCELLED AT 2021-11-22T08:08:33 ***
+srun: error: nid00052: task 0: Aborted (core dumped)
+",1,1276,941,915,2,1,483,8
+470,"srun: error: nid00054: tasks 0,2-17: Aborted
+slurmstepd: error: *** STEP 46895.0 ON nid00054 CANCELLED AT 2021-11-22T08:08:33 ***
+srun: error: nid00054: task 1: Aborted (core dumped)
+",35,755,541,1223,1,18,470,52
+473,"srun: error: nid00054: tasks 0-3,5-12: Aborted
+slurmstepd: error: *** STEP 46904.0 ON nid00054 CANCELLED AT 2021-11-22T08:10:53 ***
+srun: error: nid00054: task 4: Aborted (core dumped)
+",27,525,1467,680,1,13,473,34
+485,"srun: error: nid00026: tasks 4-6: Aborted
+slurmstepd: error: *** STEP 46928.0 ON nid00021 CANCELLED AT 2021-11-22T08:21:38 ***
+srun: error: nid00027: tasks 8-11: Aborted
+srun: error: nid00021: tasks 0-3: Aborted
+srun: error: nid00026: task 7: Aborted (core dumped)
+",14,1277,1320,1030,3,4,485,14
+478,"srun: error: nid00024: tasks 0-4,6-13: Aborted
+slurmstepd: error: *** STEP 46911.0 ON nid00024 CANCELLED AT 2021-11-22T08:21:38 ***
+srun: error: nid00024: task 5: Aborted (core dumped)
+",38,750,623,1416,1,14,478,38
+479,"srun: error: nid00054: tasks 0-3,5-17: Aborted
+slurmstepd: error: *** STEP 46912.0 ON nid00054 CANCELLED AT 2021-11-22T08:21:38 ***
+srun: error: nid00054: task 4: Aborted (core dumped)
+",6,663,1199,1330,1,18,479,47
+486,"srun: error: nid00028: tasks 0-3,5-6: Aborted
+slurmstepd: error: *** STEP 46934.0 ON nid00028 CANCELLED AT 2021-11-22T08:53:44 ***
+srun: error: nid00030: tasks 14-20: Aborted
+srun: error: nid00029: tasks 7-13: Aborted
+srun: error: nid00028: task 4: Aborted (core dumped)
+",45,1560,484,819,3,7,486,25
+488,"srun: error: nid00030: tasks 0,2-14: Aborted
+slurmstepd: error: *** STEP 46940.0 ON nid00030 CANCELLED AT 2021-11-22T09:15:34 ***
+srun: error: nid00054: tasks 15-29: Aborted
+srun: error: nid00030: task 1: Aborted (core dumped)
+",26,1974,1701,943,2,15,488,52
+489,"srun: error: nid00024: tasks 0-15,17-18: Aborted
+slurmstepd: error: *** STEP 46942.0 ON nid00024 CANCELLED AT 2021-11-22T09:16:28 ***
+srun: error: nid00028: tasks 19-37: Aborted
+srun: error: nid00030: tasks 57-75: Aborted
+srun: error: nid00029: tasks 38-56: Aborted
+srun: error: nid00024: task 16: Aborted (core dumped)
+",29,703,1499,1632,4,19,489,74
+484,"srun: error: nid00024: tasks 0-24,26: Aborted
+slurmstepd: error: *** STEP 46924.0 ON nid00024 CANCELLED AT 2021-11-22T09:17:42 ***
+srun: error: nid00024: task 25: Aborted (core dumped)
+",24,1513,1651,1996,1,27,484,106
+492,"srun: error: nid00024: tasks 60-68,70-89: Aborted
+srun: error: nid00025: tasks 90-119: Aborted
+srun: error: nid00022: tasks 0-29: Aborted
+srun: error: nid00023: tasks 30-59: Aborted
+slurmstepd: error: *** STEP 46947.0 ON nid00022 CANCELLED AT 2021-11-22T09:21:05 ***
+srun: error: nid00024: task 69: Aborted (core dumped)
+",10,1052,1750,1023,4,30,492,114
+494,"srun: error: nid00023: task 2: Aborted
+slurmstepd: error: *** STEP 46949.0 ON nid00022 CANCELLED AT 2021-11-22T09:22:57 ***
+srun: error: nid00022: tasks 0-1: Aborted
+srun: error: nid00025: tasks 6-7: Aborted
+srun: error: nid00024: tasks 4-5: Aborted
+srun: error: nid00023: task 3: Aborted (core dumped)
+",1,1484,1950,1831,4,2,494,13
+495,"srun: error: nid00024: tasks 34-35,37-50: Aborted
+srun: error: nid00023: tasks 17-33: Aborted
+srun: error: nid00022: tasks 0-16: Aborted
+srun: error: nid00025: tasks 51-67: Aborted
+srun: error: nid00024: task 36: Aborted (core dumped)
+",52,1665,892,1527,4,17,495,61
+496,"srun: error: nid00030: tasks 12-17,19-23: Aborted
+srun: error: nid00025: tasks 0-11: Aborted
+srun: error: nid00054: tasks 24-35: Aborted
+srun: error: nid00030: task 18: Aborted (core dumped)
+",39,1367,1684,488,3,12,496,43
+491,"srun: error: nid00023: tasks 20-21,23-39: Aborted
+srun: error: nid00022: tasks 0-19: Aborted
+srun: error: nid00024: tasks 40-59: Aborted
+srun: error: nid00023: task 22: Aborted (core dumped)
+",3,1078,1726,1988,3,20,491,77
+487,"srun: error: nid00053: tasks 0-12,14-31: Aborted
+slurmstepd: error: *** STEP 46938.0 ON nid00053 CANCELLED AT 2021-11-22T09:35:36 ***
+srun: error: nid00053: task 13: Aborted (core dumped)
+",1,627,1148,402,1,32,487,111
+499,"srun: error: nid00024: tasks 50-70,72-74: Aborted
+srun: error: nid00025: tasks 75-99: Aborted
+srun: error: nid00023: tasks 25-49: Aborted
+srun: error: nid00022: tasks 0-24: Aborted
+srun: error: nid00024: task 71: Aborted (core dumped)
+",16,1779,1930,1010,4,25,499,101
+498,"srun: error: nid00022: tasks 0-2,4: Aborted
+slurmstepd: error: *** STEP 46960.0 ON nid00022 CANCELLED AT 2021-11-22T09:53:39 ***
+srun: error: nid00023: tasks 5-9: Aborted
+srun: error: nid00022: task 3: Aborted (core dumped)
+",37,2025,1979,1220,2,5,498,20
+500,"srun: error: nid00060: tasks 0-23: Aborted
+slurmstepd: error: *** STEP 46967.0 ON nid00060 CANCELLED AT 2021-11-22T09:58:03 ***
+srun: error: nid00061: tasks 25-49: Aborted
+srun: error: nid00060: task 24: Aborted (core dumped)
+",50,1338,416,1553,2,25,500,90
+501,"srun: error: nid00061: tasks 22-35,37-43: Aborted
+srun: error: nid00060: tasks 0-21: Aborted
+srun: error: nid00061: task 36: Aborted (core dumped)
+",40,1950,1821,1655,2,22,501,83
+490,"srun: error: nid00061: tasks 0-7,9-17: Aborted
+slurmstepd: error: *** STEP 46945.0 ON nid00061 CANCELLED AT 2021-11-22T10:00:57 ***
+srun: error: nid00061: task 8: Aborted (core dumped)
+",38,980,807,1877,1,18,490,59
+497,"srun: error: nid00061: tasks 0-1,3-12: Aborted
+slurmstepd: error: *** STEP 46955.0 ON nid00061 CANCELLED AT 2021-11-22T10:16:54 ***
+srun: error: nid00061: task 2: Aborted (core dumped)
+",27,953,318,1924,1,13,497,46
+493,,52,612,567,690,1,1,493,2774
+504,"srun: error: nid00025: tasks 0-4,6-20: Aborted
+slurmstepd: error: *** STEP 46984.0 ON nid00025 CANCELLED AT 2021-11-22T11:47:11 ***
+srun: error: nid00060: tasks 21-41: Aborted
+srun: error: nid00061: tasks 42-62: Aborted
+srun: error: nid00025: task 5: Aborted (core dumped)
+",43,614,1039,1546,3,21,504,79
+503,"srun: error: nid00024: tasks 0-10,12-18: Aborted
+slurmstepd: error: *** STEP 46983.0 ON nid00024 CANCELLED AT 2021-11-22T11:48:30 ***
+srun: error: nid00025: tasks 19-37: Aborted
+srun: error: nid00024: task 11: Aborted (core dumped)
+",3,576,461,952,2,19,503,75
+505,"srun: error: nid00023: tasks 5-7,9: Aborted
+srun: error: nid00022: tasks 0-4: Aborted
+srun: error: nid00061: tasks 10-14: Aborted
+srun: error: nid00023: task 8: Aborted (core dumped)
+",51,1244,877,1661,3,5,505,23
+506,"srun: error: nid00054: tasks 32-37,39-63: Aborted
+slurmstepd: error: *** STEP 47009.0 ON nid00030 CANCELLED AT 2021-11-22T13:23:47 ***
+srun: error: nid00030: tasks 0-31: Aborted
+srun: error: nid00054: task 38: Aborted (core dumped)
+",43,1172,795,809,2,32,506,151
+502,"srun: error: nid00023: tasks 0-8,10-28: Aborted
+slurmstepd: error: *** STEP 46974.0 ON nid00023 CANCELLED AT 2021-11-22T13:24:46 ***
+srun: error: nid00023: task 9: Aborted (core dumped)
+",9,1538,1730,1772,1,29,502,135
+510,"srun: error: nid00055: task 0: Aborted
+slurmstepd: error: *** STEP 47019.0 ON nid00055 CANCELLED AT 2021-11-22T13:35:30 ***
+srun: error: nid00060: tasks 2-3: Aborted
+srun: error: nid00055: task 1: Aborted (core dumped)
+",41,1207,1864,2010,2,2,510,14
+509,"srun: error: nid00030: tasks 18-23,25-26: Aborted
+slurmstepd: error: *** STEP 47018.0 ON nid00024 CANCELLED AT 2021-11-22T13:35:30 ***
+srun: error: nid00024: tasks 0-8: Aborted
+srun: error: nid00025: tasks 9-17: Aborted
+srun: error: nid00030: task 24: Aborted (core dumped)
+",54,1129,1976,514,3,9,509,35
+507,"srun: error: nid00058: tasks 0-16,18-19: Aborted
+slurmstepd: error: *** STEP 47010.0 ON nid00058 CANCELLED AT 2021-11-22T13:36:18 ***
+srun: error: nid00058: task 17: Aborted (core dumped)
+",50,675,594,291,1,20,507,72
+513,"srun: error: nid00030: tasks 8,10-11: Aborted
+srun: error: nid00024: tasks 0-3: Aborted
+srun: error: nid00025: tasks 4-7: Aborted
+srun: error: nid00030: task 9: Aborted (core dumped)
+",64,1599,1463,618,3,4,513,22
+514,"srun: error: nid00025: tasks 13-17,19-25: Aborted
+srun: error: nid00030: tasks 26-38: Aborted
+srun: error: nid00024: tasks 0-12: Aborted
+srun: error: nid00025: task 18: Aborted (core dumped)
+",47,1933,1357,767,3,13,514,58
+515,"srun: error: nid00030: tasks 24-26,28-35: Aborted
+srun: error: nid00024: tasks 0-11: Aborted
+srun: error: nid00025: tasks 12-23: Aborted
+srun: error: nid00056: tasks 36-47: Aborted
+srun: error: nid00030: task 27: Aborted (core dumped)
+",50,965,1656,406,4,12,515,50
+508,"srun: error: nid00056: tasks 0-4,6-13: Aborted
+slurmstepd: error: *** STEP 47016.0 ON nid00056 CANCELLED AT 2021-11-22T14:33:44 ***
+srun: error: nid00056: task 5: Aborted (core dumped)
+",21,1535,1497,609,1,14,508,49
+511,,5,1520,765,608,1,19,511,148
+517,"srun: error: nid00025: tasks 52-56,58-77: Aborted
+slurmstepd: error: *** STEP 47043.0 ON nid00022 CANCELLED AT 2021-11-22T14:42:28 ***
+srun: error: nid00024: tasks 26-51: Aborted
+srun: error: nid00030: tasks 78-103: Aborted
+srun: error: nid00022: tasks 0-25: Aborted
+srun: error: nid00025: task 57: Aborted (core dumped)
+",38,824,367,1922,4,26,517,108
+516,"srun: error: nid00022: tasks 0-7,9-26: Aborted
+slurmstepd: error: *** STEP 47042.0 ON nid00022 CANCELLED AT 2021-11-22T14:44:14 ***
+srun: error: nid00025: tasks 54-80: Aborted
+srun: error: nid00024: tasks 27-53: Aborted
+srun: error: nid00022: task 8: Aborted (core dumped)
+",26,1929,1679,527,3,27,516,116
+512,"srun: error: nid00056: tasks 0-1,3: Aborted
+slurmstepd: error: *** STEP 47028.0 ON nid00056 CANCELLED AT 2021-11-22T14:46:09 ***
+srun: error: nid00056: task 2: Aborted (core dumped)
+",9,1524,1362,927,1,4,512,18
+518,"srun: error: nid00025: tasks 42,44-62: Aborted
+slurmstepd: error: *** STEP 47046.0 ON nid00022 CANCELLED AT 2021-11-22T14:46:10 ***
+srun: error: nid00024: tasks 21-41: Aborted
+srun: error: nid00022: tasks 0-20: Aborted
+srun: error: nid00025: task 43: Aborted (core dumped)
+",10,1000,299,1409,3,21,518,82
+520,"srun: error: nid00030: tasks 27-29,31-35: Aborted
+srun: error: nid00022: tasks 0-8: Aborted
+srun: error: nid00024: tasks 9-17: Aborted
+srun: error: nid00025: tasks 18-26: Aborted
+srun: error: nid00030: task 30: Aborted (core dumped)
+",32,294,1021,915,4,9,520,34
+521,"srun: error: nid00025: tasks 8-9,11: Aborted
+slurmstepd: error: *** STEP 47053.0 ON nid00022 CANCELLED AT 2021-11-22T15:02:26 ***
+srun: error: nid00030: tasks 12-15: Aborted
+srun: error: nid00024: tasks 4-7: Aborted
+srun: error: nid00022: tasks 0-3: Aborted
+srun: error: nid00025: task 10: Aborted (core dumped)
+",30,639,319,788,4,4,521,19
+522,"srun: error: nid00053: tasks 0-20: Aborted
+slurmstepd: error: *** STEP 47054.0 ON nid00053 CANCELLED AT 2021-11-22T15:02:26 ***
+srun: error: nid00056: tasks 22-43: Aborted
+srun: error: nid00058: tasks 44-65: Aborted
+srun: error: nid00053: task 21: Aborted (core dumped)
+",51,1424,690,1797,3,22,522,97
+523,"srun: error: nid00027: tasks 15-28: Aborted
+srun: error: nid00026: tasks 0-14: Aborted
+srun: error: nid00027: task 29: Aborted (core dumped)
+",59,1839,613,258,2,15,523,56
+524,"srun: error: nid00021: tasks 0,2-5: Aborted
+slurmstepd: error: *** STEP 47069.0 ON nid00021 CANCELLED AT 2021-11-22T16:56:58 ***
+srun: error: nid00029: tasks 6-11: Aborted
+srun: error: nid00021: task 1: Aborted (core dumped)
+",32,1852,1907,1765,2,6,524,27
+528,"srun: error: nid00031: tasks 34-38,40-50: Aborted
+slurmstepd: error: *** STEP 47075.0 ON nid00021 CANCELLED AT 2021-11-22T18:30:35 ***
+srun: error: nid00054: tasks 51-67: Aborted
+srun: error: nid00023: tasks 17-33: Aborted
+srun: error: nid00021: tasks 0-16: Aborted
+srun: error: nid00031: task 39: Aborted (core dumped)
+",48,1478,300,532,4,17,528,66
+529,"srun: error: nid00021: tasks 0-4,6-11: Aborted
+slurmstepd: error: *** STEP 47079.0 ON nid00021 CANCELLED AT 2021-11-22T18:31:41 ***
+srun: error: nid00031: tasks 24-35: Aborted
+srun: error: nid00023: tasks 12-23: Aborted
+srun: error: nid00021: task 5: Aborted (core dumped)
+",30,1229,983,1303,3,12,529,48
+525,"srun: error: nid00031: tasks 0-4,6-16: Aborted
+slurmstepd: error: *** STEP 47071.0 ON nid00031 CANCELLED AT 2021-11-22T18:32:29 ***
+srun: error: nid00031: task 5: Aborted (core dumped)
+",41,544,1900,1916,1,17,525,64
+530,"srun: error: nid00054: tasks 20-38: Aborted
+slurmstepd: error: *** STEP 47085.0 ON nid00031 CANCELLED AT 2021-11-22T18:33:34 ***
+srun: error: nid00031: tasks 0-19: Aborted
+srun: error: nid00054: task 39: Aborted (core dumped)
+",17,842,841,1501,2,20,530,83
+527,"srun: error: nid00052: tasks 0,2-18: Aborted
+slurmstepd: error: *** STEP 47074.0 ON nid00052 CANCELLED AT 2021-11-22T18:59:26 ***
+srun: error: nid00052: task 1: Aborted (core dumped)
+",48,1662,923,1508,1,19,527,74
+532,"srun: error: nid00058: tasks 60-77,79: Aborted
+slurmstepd: error: *** STEP 47095.0 ON nid00052 CANCELLED AT 2021-11-22T19:03:37 ***
+srun: error: nid00054: tasks 20-39: Aborted
+srun: error: nid00055: tasks 40-59: Aborted
+srun: error: nid00052: tasks 0-19: Aborted
+srun: error: nid00058: task 78: Aborted (core dumped)
+",20,1407,381,864,4,20,532,78
+531,"srun: error: nid00055: tasks 20-28: Aborted
+slurmstepd: error: *** STEP 47094.0 ON nid00052 CANCELLED AT 2021-11-22T19:04:56 ***
+srun: error: nid00054: tasks 10-19: Aborted
+srun: error: nid00052: tasks 0-9: Aborted
+srun: error: nid00055: task 29: Aborted (core dumped)
+",29,1724,1713,959,3,10,531,38
+533,"srun: error: nid00054: tasks 0-1: Aborted
+slurmstepd: error: *** STEP 47096.0 ON nid00054 CANCELLED AT 2021-11-22T19:05:35 ***
+srun: error: nid00055: tasks 3-5: Aborted
+srun: error: nid00054: task 2: Aborted (core dumped)
+",13,1914,759,301,2,3,533,17
+534,"srun: error: nid00055: tasks 11-14,16-21: Aborted
+srun: error: nid00054: tasks 0-10: Aborted
+srun: error: nid00055: task 15: Aborted (core dumped)
+",60,1711,776,1130,2,11,534,42
+526,"srun: error: nid00023: task 0: Segmentation fault
+slurmstepd: error: *** STEP 47072.0 ON nid00023 CANCELLED AT 2021-11-22T18:33:30 ***
+srun: error: nid00023: tasks 1,3: Segmentation fault
+srun: error: nid00023: task 2: Segmentation fault (core dumped)
+",53,1882,1127,308,1,4,526,5522
+536,"srun: error: nid00054: task 4: Aborted
+srun: error: nid00052: tasks 2-3: Aborted
+srun: error: nid00023: tasks 0-1: Aborted
+srun: error: nid00054: task 5: Aborted (core dumped)
+",9,320,1730,1306,3,2,536,14
+535,"srun: error: nid00054: tasks 0-1,3-22: Aborted
+slurmstepd: error: *** STEP 47102.0 ON nid00054 CANCELLED AT 2021-11-22T20:06:37 ***
+srun: error: nid00054: task 2: Aborted (core dumped)
+",39,1102,1189,1988,1,23,535,92
+538,"srun: error: nid00055: task 3: Aborted
+slurmstepd: error: *** STEP 47118.0 ON nid00055 CANCELLED AT 2021-11-22T20:32:36 ***
+srun: error: nid00055: task 1: Aborted
+srun: error: nid00055: task 2: Terminated
+srun: error: nid00060: tasks 12-15: Terminated
+srun: error: nid00057: tasks 4-7: Terminated
+srun: error: nid00058: tasks 8-11: Terminated
+srun: error: nid00055: task 0: Aborted (core dumped)
+",25,1348,1316,1121,4,4,538,3354
+540,"srun: error: nid00060: tasks 36-39,41-47: Aborted
+srun: error: nid00055: tasks 0-11: Aborted
+srun: error: nid00057: tasks 12-23: Aborted
+srun: error: nid00058: tasks 24-35: Aborted
+srun: error: nid00060: task 40: Aborted (core dumped)
+",14,453,1839,1149,4,12,540,58
+539,"srun: error: nid00058: tasks 10-13: Aborted
+slurmstepd: error: *** STEP 47123.0 ON nid00020 CANCELLED AT 2021-11-22T21:30:22 ***
+srun: error: nid00057: tasks 5-9: Aborted
+srun: error: nid00020: tasks 0-4: Aborted
+srun: error: nid00058: task 14: Aborted (core dumped)
+",60,2026,862,1839,3,5,539,28
+541,"srun: error: nid00057: tasks 0-3,5-23: Aborted
+slurmstepd: error: *** STEP 47128.0 ON nid00057 CANCELLED AT 2021-11-22T21:30:51 ***
+srun: error: nid00058: tasks 24-47: Aborted
+srun: error: nid00057: task 4: Aborted (core dumped)
+",9,381,1185,1342,2,24,541,123
+542,"srun: error: nid00057: tasks 0-5,7-12: Aborted
+slurmstepd: error: *** STEP 47130.0 ON nid00057 CANCELLED AT 2021-11-22T21:32:54 ***
+srun: error: nid00058: tasks 13-25: Aborted
+srun: error: nid00057: task 6: Aborted (core dumped)
+",19,1115,1725,1449,2,13,542,67
+544,"srun: error: nid00054: task 2: Aborted
+srun: error: nid00020: tasks 0-1: Aborted
+srun: error: nid00057: tasks 4-5: Aborted
+srun: error: nid00058: tasks 6-7: Aborted
+srun: error: nid00054: task 3: Aborted (core dumped)
+",57,1802,1901,1000,4,2,544,18
+543,"srun: error: nid00027: tasks 8-12,14-15: Aborted
+slurmstepd: error: *** STEP 47132.0 ON nid00026 CANCELLED AT 2021-11-22T23:39:15 ***
+srun: error: nid00026: tasks 0-7: Aborted
+srun: error: nid00027: task 13: Aborted (core dumped)
+",58,1141,1978,1258,2,8,543,38
+537,"srun: error: nid00026: tasks 0-3,5: Aborted
+slurmstepd: error: *** STEP 47115.0 ON nid00026 CANCELLED AT 2021-11-22T23:39:53 ***
+srun: error: nid00026: task 4: Aborted (core dumped)
+",22,1243,1930,778,1,6,537,26
+519,"libhugetlbfs [nid00029:65136]: WARNING: New heap segment map at 0x117b2000000 failed: Cannot allocate memory
+srun: error: nid00029: task 0: Aborted (core dumped)
+",59,1260,1952,862,1,1,519,26440
+548,"srun: error: nid00030: tasks 36-46: Aborted
+slurmstepd: error: *** STEP 47150.0 ON nid00026 CANCELLED AT 2021-11-23T01:12:27 ***
+srun: error: nid00028: tasks 12-23: Aborted
+srun: error: nid00026: tasks 0-11: Aborted
+srun: error: nid00029: tasks 24-35: Aborted
+srun: error: nid00030: task 47: Aborted (core dumped)
+",59,1372,2020,1153,4,12,548,47
+547,"srun: error: nid00028: tasks 0-6: Aborted
+slurmstepd: error: *** STEP 47148.0 ON nid00028 CANCELLED AT 2021-11-23T01:13:14 ***
+srun: error: nid00030: tasks 16-23: Aborted
+srun: error: nid00029: tasks 8-15: Aborted
+srun: error: nid00028: task 7: Aborted (core dumped)
+",57,1705,1374,1019,3,8,547,34
+549,"srun: error: nid00056: tasks 29-36,38-57: Aborted
+srun: error: nid00053: tasks 0-28: Aborted
+srun: error: nid00056: task 37: Aborted (core dumped)
+",35,578,611,1578,2,29,549,136
+545,"srun: error: nid00056: tasks 0,2-11: Aborted
+slurmstepd: error: *** STEP 47140.0 ON nid00056 CANCELLED AT 2021-11-23T02:15:25 ***
+srun: error: nid00056: task 1: Aborted (core dumped)
+",32,1985,1501,584,1,12,545,52
+546,"srun: error: nid00053: tasks 0-11: Aborted
+slurmstepd: error: *** STEP 47142.0 ON nid00053 CANCELLED AT 2021-11-23T02:15:44 ***
+srun: error: nid00053: task 12: Aborted (core dumped)
+",39,1758,583,1199,1,13,546,53
+552,"srun: error: nid00055: tasks 0-25,27-29: Aborted
+slurmstepd: error: *** STEP 47168.0 ON nid00055 CANCELLED AT 2021-11-23T03:02:00 ***
+srun: error: nid00057: tasks 60-89: Aborted
+srun: error: nid00056: tasks 30-59: Aborted
+srun: error: nid00058: tasks 90-119: Aborted
+srun: error: nid00055: task 26: Aborted (core dumped)
+",2,1618,1873,1755,4,30,552,134
+554,"srun: error: nid00022: tasks 0-13,15-16: Aborted
+slurmstepd: error: *** STEP 47172.0 ON nid00022 CANCELLED AT 2021-11-23T03:15:39 ***
+srun: error: nid00025: tasks 34-50: Aborted
+srun: error: nid00024: tasks 17-33: Aborted
+srun: error: nid00022: task 14: Aborted (core dumped)
+",57,498,664,683,3,17,554,62
+556,"srun: error: nid00022: tasks 0-6,8-11: Aborted
+slurmstepd: error: *** STEP 47179.0 ON nid00022 CANCELLED AT 2021-11-23T03:18:26 ***
+srun: error: nid00057: tasks 24-35: Aborted
+srun: error: nid00053: tasks 12-23: Aborted
+srun: error: nid00058: tasks 36-47: Aborted
+srun: error: nid00022: task 7: Aborted (core dumped)
+",31,1254,1603,1000,4,12,556,49
+558,"srun: error: nid00057: tasks 0-21,23-24: Aborted
+slurmstepd: error: *** STEP 47181.0 ON nid00057 CANCELLED AT 2021-11-23T03:21:34 ***
+srun: error: nid00058: tasks 25-49: Aborted
+srun: error: nid00057: task 22: Aborted (core dumped)
+",19,1127,1464,1760,2,25,558,100
+559,"srun: error: nid00053: tasks 0-4,6-11: Aborted
+slurmstepd: error: *** STEP 47184.0 ON nid00053 CANCELLED AT 2021-11-23T03:38:26 ***
+srun: error: nid00061: tasks 12-23: Aborted
+srun: error: nid00053: task 5: Aborted (core dumped)
+",33,313,1242,650,2,12,559,43
+560,"srun: error: nid00053: tasks 0-5,7-27: Aborted
+slurmstepd: error: *** STEP 47185.0 ON nid00053 CANCELLED AT 2021-11-23T03:39:09 ***
+srun: error: nid00061: tasks 28-55: Aborted
+srun: error: nid00053: task 6: Aborted (core dumped)
+",58,625,591,1751,2,28,560,119
+550,"srun: error: nid00053: tasks 0-12,14-18: Aborted
+slurmstepd: error: *** STEP 47161.0 ON nid00053 CANCELLED AT 2021-11-23T04:21:42 ***
+srun: error: nid00053: task 13: Aborted (core dumped)
+",37,415,1383,1243,1,19,550,68
+551,"srun: error: nid00061: tasks 0-22,24-26: Aborted
+slurmstepd: error: *** STEP 47163.0 ON nid00061 CANCELLED AT 2021-11-23T04:21:42 ***
+srun: error: nid00061: task 23: Aborted (core dumped)
+",16,2002,1507,1161,1,27,551,101
+553,"srun: error: nid00061: tasks 1-5: Aborted
+slurmstepd: error: *** STEP 47169.0 ON nid00061 CANCELLED AT 2021-11-23T04:24:34 ***
+srun: error: nid00061: task 0: Aborted (core dumped)
+",52,2004,1200,1712,1,6,553,20
+561,"srun: error: nid00024: tasks 0-22: Aborted
+slurmstepd: error: *** STEP 47192.0 ON nid00024 CANCELLED AT 2021-11-23T05:39:02 ***
+srun: error: nid00058: tasks 72-95: Aborted
+srun: error: nid00025: tasks 24-47: Aborted
+srun: error: nid00057: tasks 48-71: Aborted
+srun: error: nid00024: task 23: Aborted (core dumped)
+",15,1810,1791,1534,4,24,561,89
+563,"srun: error: nid00024: tasks 0-17,19: Aborted
+slurmstepd: error: *** STEP 47197.0 ON nid00024 CANCELLED AT 2021-11-23T05:40:32 ***
+srun: error: nid00058: tasks 60-79: Aborted
+srun: error: nid00057: tasks 40-59: Aborted
+srun: error: nid00025: tasks 20-39: Aborted
+srun: error: nid00024: task 18: Aborted (core dumped)
+",44,513,1665,1390,4,20,563,69
+464,"srun: error: nid00059: task 0: Aborted (core dumped)
+",48,1349,1666,1573,1,1,464,82767
+564,"srun: error: nid00061: tasks 45,47-59: Aborted
+srun: error: nid00020: tasks 0-14: Aborted
+srun: error: nid00060: tasks 30-44: Aborted
+srun: error: nid00059: tasks 15-29: Aborted
+srun: error: nid00061: task 46: Aborted (core dumped)
+",14,1509,1684,2003,4,15,564,46
+565,"srun: error: nid00061: tasks 12,14-15: Aborted
+srun: error: nid00020: tasks 0-3: Aborted
+srun: error: nid00059: tasks 4-7: Aborted
+srun: error: nid00060: tasks 8-11: Aborted
+srun: error: nid00061: task 13: Aborted (core dumped)
+",8,266,1607,1534,4,4,565,16
+562,"srun: error: nid00060: tasks 9-16: Aborted
+slurmstepd: error: *** STEP 47195.0 ON nid00059 CANCELLED AT 2021-11-23T07:04:19 ***
+srun: error: nid00059: tasks 0-8: Aborted
+srun: error: nid00060: task 17: Aborted (core dumped)
+",34,1839,308,525,2,9,562,34
+555,"srun: error: nid00053: tasks 0,2-8: Aborted
+slurmstepd: error: *** STEP 47176.0 ON nid00053 CANCELLED AT 2021-11-23T07:04:54 ***
+srun: error: nid00053: task 1: Aborted (core dumped)
+",17,1423,1424,1610,1,9,555,35
+557,"srun: error: nid00053: tasks 0-1,3-22: Aborted
+slurmstepd: error: *** STEP 47180.0 ON nid00053 CANCELLED AT 2021-11-23T08:09:55 ***
+srun: error: nid00053: task 2: Aborted (core dumped)
+",13,1181,1577,850,1,23,557,76
+567,"srun: error: nid00020: tasks 0-1,3-6: Aborted
+slurmstepd: error: *** STEP 47217.0 ON nid00020 CANCELLED AT 2021-11-23T08:51:22 ***
+srun: error: nid00060: tasks 14-20: Aborted
+srun: error: nid00061: tasks 21-27: Aborted
+srun: error: nid00059: tasks 7-13: Aborted
+srun: error: nid00020: task 2: Aborted (core dumped)
+",3,550,1653,468,4,7,567,28
+570,"srun: error: nid00023: tasks 0-5,7-9: Aborted
+slurmstepd: error: *** STEP 47229.0 ON nid00023 CANCELLED AT 2021-11-23T09:37:21 ***
+srun: error: nid00055: tasks 10-19: Aborted
+srun: error: nid00056: tasks 20-29: Aborted
+srun: error: nid00023: task 6: Aborted (core dumped)
+",46,1904,1752,1548,3,10,570,30
+566,"srun: error: nid00055: tasks 0-5,7-16: Aborted
+slurmstepd: error: *** STEP 47214.0 ON nid00055 CANCELLED AT 2021-11-23T09:43:19 ***
+srun: error: nid00055: task 6: Aborted (core dumped)
+",14,1432,1089,1190,1,17,566,47
+568,"srun: error: nid00055: tasks 0-12,14: Aborted
+slurmstepd: error: *** STEP 47218.0 ON nid00055 CANCELLED AT 2021-11-23T10:10:00 ***
+srun: error: nid00055: task 13: Aborted (core dumped)
+",8,1597,1402,1254,1,15,568,49
+571,"srun: error: nid00053: tasks 0-7,9-24: Aborted
+slurmstepd: error: *** STEP 47240.0 ON nid00053 CANCELLED AT 2021-11-23T10:10:59 ***
+srun: error: nid00055: tasks 25-49: Aborted
+srun: error: nid00053: task 8: Aborted (core dumped)
+",5,1290,367,1305,2,25,571,85
+569,,57,1206,586,1264,4,1,569,5469
+572,"srun: error: nid00020: tasks 0-5,7: Aborted
+slurmstepd: error: *** STEP 47243.0 ON nid00020 CANCELLED AT 2021-11-23T10:22:59 ***
+srun: error: nid00061: tasks 24-31: Aborted
+srun: error: nid00060: tasks 16-23: Aborted
+srun: error: nid00059: tasks 8-15: Aborted
+srun: error: nid00020: task 6: Aborted (core dumped)
+",44,630,1286,1622,4,8,572,27
+573,"srun: error: nid00023: tasks 46-50,52-68: Aborted
+srun: error: nid00020: tasks 0-22: Aborted
+srun: error: nid00022: tasks 23-45: Aborted
+srun: error: nid00023: task 51: Aborted (core dumped)
+",20,290,982,858,3,23,573,73
+574,"srun: error: nid00023: tasks 40-44,46-59: Aborted
+srun: error: nid00020: tasks 0-19: Aborted
+srun: error: nid00022: tasks 20-39: Aborted
+srun: error: nid00023: task 45: Aborted (core dumped)
+",37,1344,1212,696,3,20,574,61
+576,"srun: error: nid00025: tasks 25-36,38-49: Aborted
+slurmstepd: error: *** STEP 47271.0 ON nid00024 CANCELLED AT 2021-11-23T14:27:00 ***
+srun: error: nid00057: tasks 50-74: Aborted
+srun: error: nid00024: tasks 0-24: Aborted
+srun: error: nid00025: task 37: Aborted (core dumped)
+",56,921,1782,1578,3,25,576,69
+578,"srun: error: nid00061: tasks 27-36,38-53: Aborted
+slurmstepd: error: *** STEP 47281.0 ON nid00055 CANCELLED AT 2021-11-23T15:44:37 ***
+srun: error: nid00055: tasks 0-26: Aborted
+srun: error: nid00061: task 37: Aborted (core dumped)
+",21,2030,674,1026,2,27,578,80
+579,"srun: error: nid00058: tasks 36-44,46-47: Aborted
+srun: error: nid00053: tasks 12-23: Aborted
+srun: error: nid00025: tasks 0-11: Aborted
+srun: error: nid00057: tasks 24-35: Aborted
+srun: error: nid00058: task 45: Aborted (core dumped)
+",30,1760,681,1547,4,12,579,39
+580,"srun: error: nid00058: tasks 12-16: Aborted
+slurmstepd: error: *** STEP 47298.0 ON nid00025 CANCELLED AT 2021-11-23T16:16:22 ***
+srun: error: nid00057: tasks 6-11: Aborted
+srun: error: nid00025: tasks 0-5: Aborted
+srun: error: nid00058: task 17: Aborted (core dumped)
+",61,689,1124,983,3,6,580,21
+577,"srun: error: nid00058: tasks 0-4,6-9: Aborted
+slurmstepd: error: *** STEP 47277.0 ON nid00058 CANCELLED AT 2021-11-23T16:16:44 ***
+srun: error: nid00058: task 5: Aborted (core dumped)
+",37,746,703,1701,1,10,577,35
+575,"srun: error: nid00061: tasks 0-19,21-24: Aborted
+slurmstepd: error: *** STEP 47269.0 ON nid00061 CANCELLED AT 2021-11-23T16:16:23 ***
+srun: error: nid00061: task 20: Aborted (core dumped)
+",22,1811,1049,1885,1,25,575,86
+583,"srun: error: nid00061: tasks 26-37: Aborted
+srun: error: nid00060: tasks 13-25: Aborted
+srun: error: nid00059: tasks 0-12: Aborted
+srun: error: nid00061: task 38: Aborted (core dumped)
+",54,826,623,1917,3,13,583,38
+585,"srun: error: nid00058: tasks 42,44-62: Aborted
+slurmstepd: error: *** STEP 47315.0 ON nid00025 CANCELLED AT 2021-11-23T16:34:29 ***
+srun: error: nid00057: tasks 21-41: Aborted
+srun: error: nid00025: tasks 0-20: Aborted
+srun: error: nid00058: task 43: Aborted (core dumped)
+",55,749,962,1067,3,21,585,66
+584,"srun: error: nid00058: tasks 29-34,36-57: Aborted
+slurmstepd: error: *** STEP 47314.0 ON nid00057 CANCELLED AT 2021-11-23T16:35:36 ***
+srun: error: nid00057: tasks 0-28: Aborted
+srun: error: nid00058: task 35: Aborted (core dumped)
+",27,1244,1337,544,2,29,584,90
+581,"srun: error: nid00052: tasks 0-4,6-10: Aborted
+slurmstepd: error: *** STEP 47305.0 ON nid00052 CANCELLED AT 2021-11-23T16:39:34 ***
+srun: error: nid00052: task 5: Aborted (core dumped)
+",38,502,485,597,1,11,581,29
+586,"srun: error: nid00021: tasks 0-22,24: Aborted
+slurmstepd: error: *** STEP 47322.0 ON nid00021 CANCELLED AT 2021-11-23T16:39:32 ***
+srun: error: nid00031: tasks 25-49: Aborted
+srun: error: nid00021: task 23: Aborted (core dumped)
+",30,1338,335,979,2,25,586,74
+582,"srun: error: nid00052: tasks 0-18,20-23: Aborted
+slurmstepd: error: *** STEP 47306.0 ON nid00052 CANCELLED AT 2021-11-23T16:40:04 ***
+srun: error: nid00052: task 19: Aborted (core dumped)
+",38,954,1665,833,1,24,582,71
+587,"srun: error: nid00058: tasks 12-13,15-23: Aborted
+slurmstepd: error: *** STEP 47324.0 ON nid00057 CANCELLED AT 2021-11-23T16:41:50 ***
+srun: error: nid00057: tasks 0-11: Aborted
+srun: error: nid00058: task 14: Aborted (core dumped)
+",54,841,633,1499,2,12,587,33
+589,"srun: error: nid00021: tasks 0-12,14-28: Aborted
+slurmstepd: error: *** STEP 47329.0 ON nid00021 CANCELLED AT 2021-11-23T16:41:49 ***
+srun: error: nid00061: tasks 87-115: Aborted
+srun: error: nid00059: tasks 29-57: Aborted
+srun: error: nid00060: tasks 58-86: Aborted
+srun: error: nid00021: task 13: Aborted (core dumped)
+",13,1525,1077,2038,4,29,589,83
